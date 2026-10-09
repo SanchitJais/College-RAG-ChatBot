@@ -1,6 +1,3 @@
-"""Relational storage. Uses SQLAlchemy Core so the same code runs on local SQLite
-(default, tests) and Supabase Postgres (set DATABASE_URL). All queries are parameterized.
-"""
 from functools import lru_cache
 
 from sqlalchemy import Column, Float, Integer, MetaData, String, Table, create_engine, select
@@ -10,7 +7,6 @@ from backend.config import settings
 
 metadata = MetaData()
 
-# Typed because the chatbot filters and sorts on the numeric columns.
 students = Table(
     "students",
     metadata,
@@ -29,9 +25,7 @@ students = Table(
     Column("email", String(120)),
 )
 
-# CSV file name -> pre-defined typed table (every other CSV becomes an all-text table)
 TYPED_TABLES = {"students": students}
-# Numeric columns of typed tables, used to convert CSV text on load
 NUMERIC_COLUMNS = {
     "students": {"year": int, "cgpa": float, "attendance_percent": float, "backlogs": int},
 }

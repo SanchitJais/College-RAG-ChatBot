@@ -1,7 +1,3 @@
-"""Load knowledge_base/*.csv into SQL tables and the vector index.
-
-Run from the project root:  python -m scripts.load_data
-"""
 from backend import database
 from backend.rag.embeddings import EmbeddingError
 from backend.rag.knowledge_base import load_knowledge_base

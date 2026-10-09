@@ -4,11 +4,6 @@ from backend.rag.evidence import Evidence
 
 
 def search(question: str, top_k: int | None = None, max_distance: float | None = None) -> list[Evidence]:
-    """Return the closest snippets that are within the distance threshold.
-
-    Distance is only a first filter. Whether the snippets actually answer the question
-    is decided by the generation step and verified by the backend.
-    """
     top_k = top_k or settings.top_k
     max_distance = settings.max_distance if max_distance is None else max_distance
 

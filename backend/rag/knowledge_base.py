@@ -1,13 +1,3 @@
-"""Load the CSV knowledge base.
-
-* Every CSV becomes a SQL table (exact data, queried by fixed backend functions).
-* Small descriptive CSVs (policies, notices, hostel, ...) are ALSO embedded, one
-  snippet per row, so they can be found by meaning.
-* The big students table is SQL only: 1,500 records are looked up exactly, not by
-  similarity.
-
-Re-running is safe: tables are rebuilt and the vector index is replaced.
-"""
 import csv
 import re
 from pathlib import Path
@@ -20,7 +10,6 @@ from backend.rag import embeddings, vectorstore
 KB_DIR = Path(__file__).resolve().parent.parent.parent / "knowledge_base"
 _NAME = re.compile(r"^[a-z][a-z0-9_]*$")
 SQL_ONLY_TABLES = {"students"}
-# Columns that describe the citation, not the content.
 _META_COLS = {"id", "source", "page"}
 
 
@@ -48,7 +37,6 @@ def _typed_rows(name: str, rows: list[dict]) -> list[dict]:
 
 
 def load_knowledge_base(directory: Path = KB_DIR) -> dict[str, int]:
-    """Returns {table_name: row_count}."""
     loaded: dict[str, list[dict]] = {}
     for path in sorted(directory.glob("*.csv")):
         if not _NAME.match(path.stem):
@@ -63,7 +51,6 @@ def load_knowledge_base(directory: Path = KB_DIR) -> dict[str, int]:
         if bad:
             raise ValueError(f"students.csv uses unknown department codes: {sorted(bad)}")
 
-    # Embed first: if this fails, nothing has been changed yet.
     ids, texts, metas = [], [], []
     for name, rows in loaded.items():
         if name in SQL_ONLY_TABLES:
@@ -79,7 +66,6 @@ def load_knowledge_base(directory: Path = KB_DIR) -> dict[str, int]:
             })
     vectors = embeddings.embed_texts(texts)
 
-    # SQL tables (identifiers come from validated file/column names; values are bound params)
     engine = database.get_engine()
     for name, rows in loaded.items():
         cols = list(rows[0].keys()) if rows else ["id"]

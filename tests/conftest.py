@@ -13,8 +13,6 @@ from backend.rag.prompts import ROUTER_PROMPT
 
 @pytest.fixture(scope="session", autouse=True)
 def kb_env(tmp_path_factory):
-    """Real CSV knowledge base loaded once into a throw-away SQLite + Chroma.
-    Uses the real (free, local) embedding model, so retrieval tests are meaningful."""
     mp = pytest.MonkeyPatch()
     mp.setattr(settings, "data_dir", tmp_path_factory.mktemp("kb"))
     mp.setattr(settings, "database_url", "")
@@ -31,7 +29,6 @@ def kb_env(tmp_path_factory):
 
 @pytest.fixture(autouse=True)
 def no_real_llm(monkeypatch):
-    """Tests must never reach a real LLM (no cost, no network, deterministic)."""
     def blocked(system, user):
         raise AssertionError("Test tried to call the real LLM; script it with scripted_llm().")
     monkeypatch.setattr(llm, "call_llm", blocked)
@@ -44,10 +41,6 @@ def client():
 
 @pytest.fixture
 def scripted_llm(monkeypatch):
-    """scripted_llm(router_calls=[...], answer=lambda blocks: (supported, text, labels))
-
-    Replaces the model: the router step returns `router_calls`, the answer step runs
-    `answer` on the context passages it was given. Returns the list of recorded calls."""
     import re
 
     def install(router_calls=None, answer=None):

@@ -1,9 +1,3 @@
-"""The real LLM client code path, run against a fake OpenAI-compatible server on localhost.
-
-The other tests replace call_llm with a Python function. These exercise the actual HTTP
-integration (base URL, auth header, request body, error mapping, reply parsing) that
-Groq / Gemini / Ollama all share, without needing a key or network access.
-"""
 import json
 import threading
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
@@ -15,7 +9,7 @@ from backend.rag import llm
 from backend.rag.llm import GenerationError
 from backend.rag.prompts import ROUTER_PROMPT
 
-REAL_CALL_LLM = llm.call_llm  # captured before the autouse fixture blocks it
+REAL_CALL_LLM = llm.call_llm
 
 
 class FakeLLMServer:
@@ -37,7 +31,7 @@ class FakeLLMServer:
                 self.end_headers()
                 self.wfile.write(payload.encode())
 
-            def log_message(self, *args):  # keep test output quiet
+            def log_message(self, *args):
                 pass
 
         self.server = ThreadingHTTPServer(("127.0.0.1", 0), Handler)
@@ -90,9 +84,9 @@ def test_full_chat_through_the_real_client(fake, client):
     def respond(body):
         system = body["messages"][0]["content"]
         user = body["messages"][1]["content"]
-        if system == ROUTER_PROMPT:  # model replies with a code fence, as many models do
+        if system == ROUTER_PROMPT:
             return 200, '```json\n{"calls": [{"tool": "student_summary", "args": {"department": "MECH", "year": 2}}]}\n```'
-        assert "matching students: 75" in user  # the exact database result reached the model
+        assert "matching students: 75" in user
         return 200, json.dumps({"supported": True, "answer": "There are 75 students.",
                                 "used_context_ids": ["C1"]})
 
@@ -101,7 +95,7 @@ def test_full_chat_through_the_real_client(fake, client):
     body = r.json()
     assert r.status_code == 200 and body["answered"] is True
     assert body["sources"][0]["filename"] == "students table (SQL database)"
-    assert len(fake.requests) == 2  # one router call, one answer call
+    assert len(fake.requests) == 2
 
 
 def test_chat_returns_503_when_the_model_server_is_down(fake, client):
@@ -115,7 +109,7 @@ def test_unrelated_question_makes_only_the_router_call(fake, client):
     fake.handler = lambda body: (200, '{"calls": []}')
     r = client.post("/chat", json={"question": "What is the capital of France?"})
     assert r.json()["answered"] is False
-    assert len(fake.requests) == 1  # no answer call for a question with no evidence
+    assert len(fake.requests) == 1
 
 
 def test_rate_limit_gets_a_friendly_429_not_a_generic_error(fake, client, monkeypatch):

@@ -1,11 +1,3 @@
-"""Generate knowledge_base/students.csv: 1,500 FICTIONAL students of the fictional
-Greenfield Institute of Technology (5 departments x 4 years x 75 students).
-
-Seeded, so the output is identical every run. The names, emails and numbers are
-invented; any match with a real person is coincidence.
-
-Run from the project root:  python -m scripts.make_students
-"""
 import csv
 import random
 from pathlib import Path
@@ -13,7 +5,7 @@ from pathlib import Path
 OUT = Path(__file__).resolve().parent.parent / "knowledge_base" / "students.csv"
 SEED = 2025
 PER_GROUP = 75
-CURRENT_YEAR = 2025  # academic year 2025-26
+CURRENT_YEAR = 2025
 
 DEPARTMENTS = [
     ("CSE", "Computer Science and Engineering"),
@@ -70,7 +62,6 @@ def main() -> None:
                 name, gender = unique_person()
                 cgpa = round(clamp(rng.gauss(7.4, 1.0), 4.5, 9.9), 2)
                 attendance = round(clamp(rng.gauss(82, 9), 45, 100), 1)
-                # Weaker students are more likely to have backlogs.
                 backlog_chance = 0.45 if cgpa < 6.0 else 0.12 if cgpa < 7.0 else 0.02
                 backlogs = rng.choice([1, 1, 2, 3]) if rng.random() < backlog_chance else 0
                 local = name.lower().replace(" ", ".")

@@ -8,7 +8,7 @@ class ChatRequest(BaseModel):
 class Source(BaseModel):
     filename: str
     page: int | None = None
-    row: str | None = None  # record id / query description when the source has no page
+    row: str | None = None
 
 
 class ChatResponse(BaseModel):

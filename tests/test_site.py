@@ -1,4 +1,3 @@
-"""The demo college website and its AI chat button."""
 import csv
 import re
 
@@ -20,16 +19,16 @@ def test_homepage_is_the_college_website_with_the_ai_button(client):
 
 def test_whole_website_is_inert_so_nothing_on_it_is_clickable(client):
     html = page(client)
-    site = html[html.index('<div class="site"'):html.index("<!-- AI assistant")]
+    site = html[html.index('<div class="site"'):html.index('<button id="ai-btn"')]
     assert '<div class="site" inert>' in site
     assert not re.search(r"<a\b|href=|<button|<form|<input|onclick", site, re.I)
 
 
 def test_ai_button_and_panel_are_outside_the_inert_area(client):
     html = page(client)
-    site = html[html.index('<div class="site"'):html.index("<!-- AI assistant")]
-    assert site.count("<div") == site.count("</div>")  # .site is closed before the widget starts
-    assert html.index("<!-- AI assistant") < html.index('id="ai-btn"')
+    site = html[html.index('<div class="site"'):html.index('<button id="ai-btn"')]
+    assert site.count("<div") == site.count("</div>")
+    assert html.index("</footer>") < html.index('<button id="ai-btn"')
 
 
 def test_chat_page_still_served_for_the_panel(client):
@@ -53,7 +52,7 @@ def test_website_facts_match_the_knowledge_base(client):
     assert "18 LPA" in placements and "18 LPA" in html
     assert "6.2 LPA" in placements and "6.2 LPA" in html
     students = sum(1 for _ in csv.DictReader((KB_DIR / "students.csv").open(encoding="utf-8")))
-    assert f"{students:,}" in html  # "1,500"
+    assert f"{students:,}" in html
 
 
 def test_website_never_shows_the_prompt_injection_notice(client):

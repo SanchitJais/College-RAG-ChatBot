@@ -27,5 +27,4 @@ def health() -> HealthResponse:
 
 app.include_router(chat.router)
 
-# Mounted last so API routes take precedence.
 app.mount("/", StaticFiles(directory=FRONTEND_DIR, html=True), name="frontend")

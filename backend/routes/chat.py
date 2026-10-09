@@ -17,21 +17,17 @@ def chat(req: ChatRequest) -> ChatResponse:
     if not question:
         raise HTTPException(422, "Question must not be empty.")
     try:
-        # 1. Does this need the student database? (validated tool calls only)
         db_evidence = db_router.run(db_router.plan(question))
-        # 2. Policy/notice snippets close enough to the question
         snippets = retrieval.search(question)
 
         evidence = db_evidence + snippets
         if not evidence:
-            return generation.refusal()  # nothing relevant found: no answer call at all
-        # 3. Grounded answer; the backend verifies it before it is returned
+            return generation.refusal()
         return generation.answer_question(question, evidence)
     except RateLimitedError:
         raise HTTPException(429, "The assistant is busy right now (free-tier rate limit). "
                                  "Please try again in a few seconds.")
     except (EmbeddingError, GenerationError) as exc:
-        # Service problem: say so, never fall back to an invented answer.
         log.error("Chat dependency failure: %s", type(exc).__name__)
         raise HTTPException(503, "The assistant is temporarily unavailable. Please try again shortly.")
     except Exception:

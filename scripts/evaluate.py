@@ -1,12 +1,3 @@
-"""Live evaluation against the real chat model (needs LLM_API_KEY in .env).
-
-Run from the project root:  python -m scripts.evaluate
-
-Loads the CSV knowledge base, asks a fixed set of questions through the real /chat
-endpoint and checks refusal behaviour, answer content and citations. Expected numbers
-for student questions are computed independently from students.csv.
-Costs nothing on a free tier, but uses roughly 2 model calls per question.
-"""
 import csv
 import sys
 import time
@@ -33,7 +24,6 @@ mech2_avg = [float(s["cgpa"]) for s in STUDENTS if s["dept_code"] == "MECH" and 
 
 
 def norm(text: str) -> str:
-    """Compare text ignoring case and the fancy spaces/hyphens some models emit."""
     return unicodedata.normalize("NFKC", text).lower()
 
 
@@ -57,7 +47,6 @@ def all_of(*checks):
     return lambda r: all(c(r) for c in checks)
 
 
-# (spec test #, question, check)
 CASES = [
     (1, "What is the attendance policy?", all_of(has("75"), cites(REG))),
     (2, "How many classes must I attend to be allowed to write the exams?", all_of(has("75"), cites(REG))),
@@ -87,7 +76,7 @@ CASES = [
 
 
 def main() -> int:
-    sys.stdout.reconfigure(encoding="utf-8", errors="replace")  # models emit characters cp1252 cannot print
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
     if not settings.llm_api_key and "localhost" not in settings.llm_base_url:
         print("Set LLM_API_KEY in .env first (a free Groq or Gemini key, or use local Ollama).")
         return 1
@@ -97,7 +86,7 @@ def main() -> int:
 
     passed = 0
     for number, question, check in CASES:
-        time.sleep(PACE_SECONDS)  # stay under free-tier request-per-minute limits (2 calls per question)
+        time.sleep(PACE_SECONDS)
         hits = retrieval.search(question, max_distance=2.0)
         dists = ", ".join(f"{h.distance:.2f}" for h in hits[:4])
         resp = client.post("/chat", json={"question": question})

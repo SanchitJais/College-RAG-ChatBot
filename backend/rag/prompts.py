@@ -72,7 +72,6 @@ Question: What is the attendance rule?
 
 
 def build_user_prompt(question: str, evidence: list[Evidence]) -> tuple[str, dict[str, Evidence]]:
-    """Build the user message. Returns it plus a map of context label -> evidence."""
     labelled = {f"C{i}": item for i, item in enumerate(evidence, start=1)}
     blocks = "\n\n".join(
         f'<context id="{label}">\n{item.text}\n</context>' for label, item in labelled.items()

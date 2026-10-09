@@ -9,7 +9,7 @@ function addMessage(kind, text) {
   if (emptyEl) emptyEl.hidden = true;
   const el = document.createElement("div");
   el.className = "msg " + kind;
-  el.textContent = text; // textContent, never innerHTML: model output is untrusted
+  el.textContent = text;
   messagesEl.appendChild(el);
   messagesEl.scrollTop = messagesEl.scrollHeight;
   return el;
@@ -60,7 +60,6 @@ async function ask(question) {
       return;
     }
     const data = await res.json();
-    // A refusal means "not in the knowledge base", which is different from an error.
     const msg = addMessage(data.answered ? "bot" : "bot notice", data.answer);
     addSources(msg, data.sources);
   } catch (_) {
@@ -85,7 +84,6 @@ document.getElementById("examples").addEventListener("click", (e) => {
   if (e.target.classList.contains("chip")) ask(e.target.textContent);
 });
 
-// ---- Theme toggle (initial theme is applied by the inline script in <head>) ----
 const themeBtn = document.getElementById("theme-btn");
 
 function syncThemeButton() {
@@ -107,7 +105,6 @@ clearBtn.addEventListener("click", () => {
   if (emptyEl) emptyEl.hidden = false;
 });
 
-// When shown inside the website's chat panel, Escape asks the page around us to close the panel.
 if (window.self !== window.top) {
   document.addEventListener("keydown", (e) => {
     if (e.key === "Escape") window.parent.postMessage({ type: "close-assistant" }, window.location.origin);

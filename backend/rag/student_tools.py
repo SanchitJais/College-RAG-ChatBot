@@ -1,10 +1,3 @@
-"""The ONLY database access the chatbot has: three fixed, parameterized queries on
-the students table.
-
-The LLM never writes SQL. It can only pick one of these tools and fill in the
-arguments, which are validated here (types, ranges, allowed values) before any
-query runs. Values are bound parameters, never pasted into SQL text.
-"""
 from typing import Literal
 
 from pydantic import BaseModel, ConfigDict, Field, model_validator
@@ -14,8 +7,9 @@ from backend import database
 from backend.database import students
 from backend.rag.evidence import Evidence
 
+# The model never writes SQL: it can only pick one of these fixed queries, and every argument is validated first.
 Dept = Literal["CSE", "ECE", "MECH", "CIVIL", "MBA"]
-MAX_ROWS = 10  # cap so nobody can dump the whole table through the chatbot
+MAX_ROWS = 10
 SOURCE_NAME = "students table (SQL database)"
 
 
@@ -145,7 +139,6 @@ def student_summary(args: SummaryArgs) -> Evidence:
     return Evidence(text=text, filename=SOURCE_NAME, page=None, row=_describe("student_summary", args))
 
 
-# name -> (argument model, function). The router may only use names in this table.
 TOOLS = {
     "find_student": (FindStudentArgs, find_student),
     "list_students": (ListStudentsArgs, list_students),

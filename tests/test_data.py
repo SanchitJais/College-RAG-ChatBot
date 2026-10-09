@@ -1,4 +1,3 @@
-"""The CSV data, the SQL tables, and the three fixed student queries."""
 import csv
 
 import pytest
@@ -19,8 +18,6 @@ def sql_scalar(query):
         return conn.execute(sql(query)).scalar()
 
 
-# ---------- the dataset ----------
-
 def test_students_csv_has_1500_unique_students():
     assert len(STUDENTS) == 1500
     assert len({s["id"] for s in STUDENTS}) == 1500
@@ -39,12 +36,10 @@ def test_students_are_in_sql_with_numeric_types():
 def test_students_are_not_embedded_but_policy_rows_are():
     col = vectorstore.get_collection()
     assert col.get(where={"category": "students"})["ids"] == []
-    assert col.count() == 53  # every other CSV row
+    assert col.count() == 53
     meta = col.get(ids=["csv:regulations:R2"])["metadatas"][0]
     assert meta["filename"] == "Academic Regulations 2025" and meta["page"] == 2
 
-
-# ---------- find_student ----------
 
 def test_find_student_by_full_name():
     s = STUDENTS[0]
@@ -74,8 +69,6 @@ def test_find_student_never_returns_more_than_5():
     assert len([line for line in ev.text.splitlines() if line.startswith("- ")]) == 5
 
 
-# ---------- list_students ----------
-
 def test_list_students_top_by_cgpa_in_department_year():
     ev = t.list_students(t.ListStudentsArgs(department="ECE", year=3, order_by="cgpa", limit=3))
     group = sorted((s for s in STUDENTS if s["dept_code"] == "ECE" and s["year"] == "3"),
@@ -93,8 +86,6 @@ def test_list_students_limit_is_capped_by_validation():
 def test_list_students_empty_result_returns_nothing():
     assert t.list_students(t.ListStudentsArgs(min_cgpa=10, max_cgpa=10)) is None
 
-
-# ---------- student_summary: must equal the CSV, computed independently ----------
 
 def expected_count(pred):
     return sum(1 for s in STUDENTS if pred(s))
@@ -125,8 +116,6 @@ def test_summary_zero_matches_still_reports_zero():
     assert "matching students: 0" in ev.text
 
 
-# ---------- safety ----------
-
 def test_sql_injection_text_is_just_a_name_that_matches_nothing():
     evil = "x'; DROP TABLE students; --"
     assert t.find_student(t.FindStudentArgs(name=evil)) is None
@@ -134,16 +123,15 @@ def test_sql_injection_text_is_just_a_name_that_matches_nothing():
 
 
 def test_like_wildcards_in_names_are_escaped():
-    # '%' alone must not match every student.
     assert t.find_student(t.FindStudentArgs(name="%%%")) is None
 
 
 @pytest.mark.parametrize("bad", [
-    {"department": "PHYSICS"},        # not an allowed department
-    {"year": 9},                      # out of range
-    {"min_cgpa": 11},                 # out of range
-    {"order_by": "password"},         # not an allowed column
-    {"sql": "SELECT * FROM students"},  # unknown argument
+    {"department": "PHYSICS"},
+    {"year": 9},
+    {"min_cgpa": 11},
+    {"order_by": "password"},
+    {"sql": "SELECT * FROM students"},
 ])
 def test_invalid_arguments_are_rejected(bad):
     with pytest.raises(ValidationError):
@@ -157,4 +145,4 @@ def test_find_student_requires_something_to_search_for():
 
 def test_only_three_tools_exist():
     assert set(t.TOOLS) == {"find_student", "list_students", "student_summary"}
-    assert settings.db_url.startswith("sqlite")  # tests never touch a real database
+    assert settings.db_url.startswith("sqlite")

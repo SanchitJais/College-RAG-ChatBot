@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>College AI Assistant</title>
   <script>
-    // Apply the saved (or system) theme before the page paints, to avoid a light flash.
     (function () {
       var theme = null;
       try { theme = localStorage.getItem("theme"); } catch (e) {}
@@ -16,7 +15,6 @@
     })();
   </script>
   <script>
-    // When shown inside the website's chat panel, drop the page chrome that the panel already provides.
     if (window.self !== window.top) document.documentElement.classList.add("embedded");
   </script>
   <link rel="stylesheet" href="style.css">

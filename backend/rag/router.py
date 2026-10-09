@@ -1,9 +1,3 @@
-"""Step 1 of a question: decide whether the student database is needed.
-
-The LLM only PROPOSES tool calls as JSON. Everything it proposes is validated against
-the fixed tool table and its argument models; anything invalid is dropped. A bad or
-confused proposal therefore degrades to "no database lookup", never to an unsafe query.
-"""
 import logging
 
 from pydantic import ValidationError
@@ -16,7 +10,6 @@ MAX_CALLS = 3
 
 
 def plan(question: str) -> list[tuple[str, object]]:
-    """Return validated [(tool_name, args_model), ...]. May raise GenerationError."""
     raw = llm.call_llm(ROUTER_PROMPT, f"Question: {question}")
     try:
         calls = llm.parse_json_object(raw).get("calls", [])
@@ -42,7 +35,6 @@ def plan(question: str) -> list[tuple[str, object]]:
 
 
 def run(planned) -> list:
-    """Execute validated calls; returns Evidence for those that found something."""
     evidence = []
     for tool, args in planned:
         result = student_tools.TOOLS[tool][1](args)
