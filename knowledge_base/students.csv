@@ -1,0 +1,1501 @@
+id,roll_no,name,gender,dept_code,department,year,cgpa,attendance_percent,backlogs,hostel_resident,city,email
+S0001,GIT25CSE001,Ankit Raman,Male,CSE,Computer Science and Engineering,1,6.79,82.8,3,No,Chennai,ankit.raman.1@greenfield.example
+S0002,GIT25CSE002,Radhika Reddy,Female,CSE,Computer Science and Engineering,1,9.04,86.1,0,Yes,Bengaluru,radhika.reddy.2@greenfield.example
+S0003,GIT25CSE003,Ritvik George,Male,CSE,Computer Science and Engineering,1,9.36,89.9,0,Yes,Kochi,ritvik.george.3@greenfield.example
+S0004,GIT25CSE004,Vaishnavi Das,Female,CSE,Computer Science and Engineering,1,7.15,81.7,0,Yes,Chennai,vaishnavi.das.4@greenfield.example
+S0005,GIT25CSE005,Uday Iyer,Male,CSE,Computer Science and Engineering,1,7.80,85.2,0,Yes,Coimbatore,uday.iyer.5@greenfield.example
+S0006,GIT25CSE006,Rhea Kulkarni,Female,CSE,Computer Science and Engineering,1,5.18,89.5,2,No,Mysuru,rhea.kulkarni.6@greenfield.example
+S0007,GIT25CSE007,Radhika Sethi,Female,CSE,Computer Science and Engineering,1,8.89,88.6,0,No,Bengaluru,radhika.sethi.7@greenfield.example
+S0008,GIT25CSE008,Hema Raman,Female,CSE,Computer Science and Engineering,1,7.42,88.5,0,Yes,Vizag,hema.raman.8@greenfield.example
+S0009,GIT25CSE009,Lavanya Deshmukh,Female,CSE,Computer Science and Engineering,1,6.58,90.8,0,Yes,Mumbai,lavanya.deshmukh.9@greenfield.example
+S0010,GIT25CSE010,Aarav Das,Male,CSE,Computer Science and Engineering,1,9.63,68.6,0,No,Mysuru,aarav.das.10@greenfield.example
+S0011,GIT25CSE011,Madhav Agarwal,Male,CSE,Computer Science and Engineering,1,6.72,87.5,0,No,Mysuru,madhav.agarwal.11@greenfield.example
+S0012,GIT25CSE012,Latha Iyer,Female,CSE,Computer Science and Engineering,1,7.59,87.9,0,No,Coimbatore,latha.iyer.12@greenfield.example
+S0013,GIT25CSE013,Akash George,Male,CSE,Computer Science and Engineering,1,8.72,82.8,0,Yes,Hyderabad,akash.george.13@greenfield.example
+S0014,GIT25CSE014,Ganesh Banerjee,Male,CSE,Computer Science and Engineering,1,7.27,100.0,0,No,Lucknow,ganesh.banerjee.14@greenfield.example
+S0015,GIT25CSE015,Tanvi Mukherjee,Female,CSE,Computer Science and Engineering,1,8.08,79.9,0,No,Chennai,tanvi.mukherjee.15@greenfield.example
+S0016,GIT25CSE016,Tanmay Malhotra,Male,CSE,Computer Science and Engineering,1,5.84,89.9,0,No,Coimbatore,tanmay.malhotra.16@greenfield.example
+S0017,GIT25CSE017,Aarav Dubey,Male,CSE,Computer Science and Engineering,1,7.45,67.5,0,Yes,Mysuru,aarav.dubey.17@greenfield.example
+S0018,GIT25CSE018,Kritika Joshi,Female,CSE,Computer Science and Engineering,1,9.90,74.2,0,No,Kolkata,kritika.joshi.18@greenfield.example
+S0019,GIT25CSE019,Hema Yadav,Female,CSE,Computer Science and Engineering,1,6.62,86.0,0,No,Vizag,hema.yadav.19@greenfield.example
+S0020,GIT25CSE020,Akash Chandra,Male,CSE,Computer Science and Engineering,1,7.95,86.3,0,No,Lucknow,akash.chandra.20@greenfield.example
+S0021,GIT25CSE021,Rahul Kapoor,Male,CSE,Computer Science and Engineering,1,7.25,99.2,0,No,Bengaluru,rahul.kapoor.21@greenfield.example
+S0022,GIT25CSE022,Mayank Bhatia,Male,CSE,Computer Science and Engineering,1,5.32,69.9,0,Yes,Mumbai,mayank.bhatia.22@greenfield.example
+S0023,GIT25CSE023,Charvi Chauhan,Female,CSE,Computer Science and Engineering,1,8.35,85.0,0,No,Mumbai,charvi.chauhan.23@greenfield.example
+S0024,GIT25CSE024,Komal Banerjee,Female,CSE,Computer Science and Engineering,1,7.66,88.9,0,No,Jaipur,komal.banerjee.24@greenfield.example
+S0025,GIT25CSE025,Omkar Verma,Male,CSE,Computer Science and Engineering,1,7.44,67.2,0,No,Mysuru,omkar.verma.25@greenfield.example
+S0026,GIT25CSE026,Devansh Dubey,Male,CSE,Computer Science and Engineering,1,7.27,78.1,0,Yes,Pune,devansh.dubey.26@greenfield.example
+S0027,GIT25CSE027,Kavya Pillai,Female,CSE,Computer Science and Engineering,1,8.64,71.0,0,Yes,Bhopal,kavya.pillai.27@greenfield.example
+S0028,GIT25CSE028,Zoya Varghese,Female,CSE,Computer Science and Engineering,1,7.10,84.9,0,No,Bhopal,zoya.varghese.28@greenfield.example
+S0029,GIT25CSE029,Nitin Raman,Male,CSE,Computer Science and Engineering,1,8.46,92.1,0,Yes,Mumbai,nitin.raman.29@greenfield.example
+S0030,GIT25CSE030,Riya Bhatia,Female,CSE,Computer Science and Engineering,1,5.81,83.0,0,Yes,Mumbai,riya.bhatia.30@greenfield.example
+S0031,GIT25CSE031,Aarav Malhotra,Male,CSE,Computer Science and Engineering,1,8.99,82.6,0,No,Hyderabad,aarav.malhotra.31@greenfield.example
+S0032,GIT25CSE032,Chitra Chatterjee,Female,CSE,Computer Science and Engineering,1,6.24,74.3,0,Yes,Vizag,chitra.chatterjee.32@greenfield.example
+S0033,GIT25CSE033,Akash Verma,Male,CSE,Computer Science and Engineering,1,6.27,66.2,0,Yes,Kochi,akash.verma.33@greenfield.example
+S0034,GIT25CSE034,Tarun Khanna,Male,CSE,Computer Science and Engineering,1,7.88,79.3,0,No,Kochi,tarun.khanna.34@greenfield.example
+S0035,GIT25CSE035,Tarun Subramanian,Male,CSE,Computer Science and Engineering,1,6.87,81.1,0,No,Kochi,tarun.subramanian.35@greenfield.example
+S0036,GIT25CSE036,Madhav Saxena,Male,CSE,Computer Science and Engineering,1,7.76,74.8,0,Yes,Bengaluru,madhav.saxena.36@greenfield.example
+S0037,GIT25CSE037,Saanvi Verma,Female,CSE,Computer Science and Engineering,1,7.99,99.9,0,No,Jaipur,saanvi.verma.37@greenfield.example
+S0038,GIT25CSE038,Vikram Menon,Male,CSE,Computer Science and Engineering,1,8.75,75.5,0,Yes,Nagpur,vikram.menon.38@greenfield.example
+S0039,GIT25CSE039,Rahul Kurian,Male,CSE,Computer Science and Engineering,1,8.98,86.8,0,Yes,Chennai,rahul.kurian.39@greenfield.example
+S0040,GIT25CSE040,Jatin Banerjee,Male,CSE,Computer Science and Engineering,1,7.67,90.2,0,No,Kolkata,jatin.banerjee.40@greenfield.example
+S0041,GIT25CSE041,Pranav Banerjee,Male,CSE,Computer Science and Engineering,1,7.86,77.8,0,No,Mumbai,pranav.banerjee.41@greenfield.example
+S0042,GIT25CSE042,Tara Chauhan,Female,CSE,Computer Science and Engineering,1,8.02,90.4,0,Yes,Hyderabad,tara.chauhan.42@greenfield.example
+S0043,GIT25CSE043,Siddharth Chauhan,Male,CSE,Computer Science and Engineering,1,7.99,96.0,0,Yes,Jaipur,siddharth.chauhan.43@greenfield.example
+S0044,GIT25CSE044,Sanjay Sethi,Male,CSE,Computer Science and Engineering,1,6.30,79.6,0,No,Jaipur,sanjay.sethi.44@greenfield.example
+S0045,GIT25CSE045,Sameer Shetty,Male,CSE,Computer Science and Engineering,1,7.89,73.2,0,Yes,Bhopal,sameer.shetty.45@greenfield.example
+S0046,GIT25CSE046,Yuvraj Thakur,Male,CSE,Computer Science and Engineering,1,6.99,79.9,1,Yes,Vizag,yuvraj.thakur.46@greenfield.example
+S0047,GIT25CSE047,Latha Khanna,Female,CSE,Computer Science and Engineering,1,8.49,73.0,0,Yes,Bengaluru,latha.khanna.47@greenfield.example
+S0048,GIT25CSE048,Barkha Agarwal,Female,CSE,Computer Science and Engineering,1,7.74,80.5,0,No,Pune,barkha.agarwal.48@greenfield.example
+S0049,GIT25CSE049,Prateek Arora,Male,CSE,Computer Science and Engineering,1,5.32,79.8,0,No,Bhopal,prateek.arora.49@greenfield.example
+S0050,GIT25CSE050,Charvi Yadav,Female,CSE,Computer Science and Engineering,1,7.37,77.4,0,Yes,Bengaluru,charvi.yadav.50@greenfield.example
+S0051,GIT25CSE051,Urvi Thakur,Female,CSE,Computer Science and Engineering,1,7.61,77.4,0,Yes,Lucknow,urvi.thakur.51@greenfield.example
+S0052,GIT25CSE052,Bhavna Mukherjee,Female,CSE,Computer Science and Engineering,1,6.59,82.7,0,Yes,Hyderabad,bhavna.mukherjee.52@greenfield.example
+S0053,GIT25CSE053,Tejas Dubey,Male,CSE,Computer Science and Engineering,1,7.17,79.6,0,No,Jaipur,tejas.dubey.53@greenfield.example
+S0054,GIT25CSE054,Tanvi Naidu,Female,CSE,Computer Science and Engineering,1,8.75,90.8,0,No,Hyderabad,tanvi.naidu.54@greenfield.example
+S0055,GIT25CSE055,Ira Singh,Female,CSE,Computer Science and Engineering,1,8.17,80.3,0,No,Chennai,ira.singh.55@greenfield.example
+S0056,GIT25CSE056,Jhanvi Desai,Female,CSE,Computer Science and Engineering,1,6.64,84.8,0,No,Vizag,jhanvi.desai.56@greenfield.example
+S0057,GIT25CSE057,Tara Agarwal,Female,CSE,Computer Science and Engineering,1,7.42,88.0,0,Yes,Vizag,tara.agarwal.57@greenfield.example
+S0058,GIT25CSE058,Gauri Iyer,Female,CSE,Computer Science and Engineering,1,7.61,76.1,0,Yes,Mumbai,gauri.iyer.58@greenfield.example
+S0059,GIT25CSE059,Dhruv Subramanian,Male,CSE,Computer Science and Engineering,1,6.95,94.0,0,No,Nagpur,dhruv.subramanian.59@greenfield.example
+S0060,GIT25CSE060,Barkha Mathew,Female,CSE,Computer Science and Engineering,1,7.92,89.2,0,No,Pune,barkha.mathew.60@greenfield.example
+S0061,GIT25CSE061,Chirag Deshmukh,Male,CSE,Computer Science and Engineering,1,8.59,77.7,0,Yes,Kolkata,chirag.deshmukh.61@greenfield.example
+S0062,GIT25CSE062,Mayank Das,Male,CSE,Computer Science and Engineering,1,7.34,81.0,0,No,Coimbatore,mayank.das.62@greenfield.example
+S0063,GIT25CSE063,Chirag Nair,Male,CSE,Computer Science and Engineering,1,6.71,87.0,0,No,Delhi,chirag.nair.63@greenfield.example
+S0064,GIT25CSE064,Garima Bhatia,Female,CSE,Computer Science and Engineering,1,5.28,89.5,1,No,Kochi,garima.bhatia.64@greenfield.example
+S0065,GIT25CSE065,Arjun Fernandes,Male,CSE,Computer Science and Engineering,1,8.20,70.9,0,No,Vizag,arjun.fernandes.65@greenfield.example
+S0066,GIT25CSE066,Rohan Varghese,Male,CSE,Computer Science and Engineering,1,7.28,100.0,0,Yes,Pune,rohan.varghese.66@greenfield.example
+S0067,GIT25CSE067,Ojasvi Bhatia,Female,CSE,Computer Science and Engineering,1,7.90,87.1,0,No,Delhi,ojasvi.bhatia.67@greenfield.example
+S0068,GIT25CSE068,Neha Mukherjee,Female,CSE,Computer Science and Engineering,1,7.16,56.7,0,No,Mumbai,neha.mukherjee.68@greenfield.example
+S0069,GIT25CSE069,Imran Kurian,Male,CSE,Computer Science and Engineering,1,6.42,81.7,0,No,Jaipur,imran.kurian.69@greenfield.example
+S0070,GIT25CSE070,Sameer Bhatia,Male,CSE,Computer Science and Engineering,1,8.00,94.9,0,No,Delhi,sameer.bhatia.70@greenfield.example
+S0071,GIT25CSE071,Harsh Subramanian,Male,CSE,Computer Science and Engineering,1,8.62,84.5,0,Yes,Hyderabad,harsh.subramanian.71@greenfield.example
+S0072,GIT25CSE072,Mansi George,Female,CSE,Computer Science and Engineering,1,8.37,75.1,0,No,Mumbai,mansi.george.72@greenfield.example
+S0073,GIT25CSE073,Barkha Krishnan,Female,CSE,Computer Science and Engineering,1,8.05,86.6,0,No,Pune,barkha.krishnan.73@greenfield.example
+S0074,GIT25CSE074,Saanvi Ahmed,Female,CSE,Computer Science and Engineering,1,7.76,89.0,0,No,Pune,saanvi.ahmed.74@greenfield.example
+S0075,GIT25CSE075,Hema Menon,Female,CSE,Computer Science and Engineering,1,7.69,79.7,0,Yes,Vizag,hema.menon.75@greenfield.example
+S0076,GIT24CSE001,Omkar Hegde,Male,CSE,Computer Science and Engineering,2,7.10,80.2,0,No,Coimbatore,omkar.hegde.76@greenfield.example
+S0077,GIT24CSE002,Ritvik Chandra,Male,CSE,Computer Science and Engineering,2,8.81,88.1,0,Yes,Coimbatore,ritvik.chandra.77@greenfield.example
+S0078,GIT24CSE003,Ananya Naidu,Female,CSE,Computer Science and Engineering,2,8.01,82.1,0,Yes,Kolkata,ananya.naidu.78@greenfield.example
+S0079,GIT24CSE004,Utkarsh Shah,Male,CSE,Computer Science and Engineering,2,8.11,84.0,0,Yes,Bengaluru,utkarsh.shah.79@greenfield.example
+S0080,GIT24CSE005,Piyush Sen,Male,CSE,Computer Science and Engineering,2,7.63,76.1,0,Yes,Bhopal,piyush.sen.80@greenfield.example
+S0081,GIT24CSE006,Saanvi Agarwal,Female,CSE,Computer Science and Engineering,2,7.92,68.0,0,No,Coimbatore,saanvi.agarwal.81@greenfield.example
+S0082,GIT24CSE007,Nandini Naidu,Female,CSE,Computer Science and Engineering,2,7.38,87.1,0,No,Delhi,nandini.naidu.82@greenfield.example
+S0083,GIT24CSE008,Neeraj Nair,Male,CSE,Computer Science and Engineering,2,8.40,88.7,0,No,Nagpur,neeraj.nair.83@greenfield.example
+S0084,GIT24CSE009,Saanvi Tiwari,Female,CSE,Computer Science and Engineering,2,6.86,79.5,0,Yes,Lucknow,saanvi.tiwari.84@greenfield.example
+S0085,GIT24CSE010,Falguni Iyer,Female,CSE,Computer Science and Engineering,2,6.18,84.2,0,Yes,Mumbai,falguni.iyer.85@greenfield.example
+S0086,GIT24CSE011,Kabir Shetty,Male,CSE,Computer Science and Engineering,2,7.73,56.2,0,Yes,Mumbai,kabir.shetty.86@greenfield.example
+S0087,GIT24CSE012,Vikram Kurian,Male,CSE,Computer Science and Engineering,2,7.44,90.3,0,No,Nagpur,vikram.kurian.87@greenfield.example
+S0088,GIT24CSE013,Zoya Hegde,Female,CSE,Computer Science and Engineering,2,6.01,69.3,1,Yes,Coimbatore,zoya.hegde.88@greenfield.example
+S0089,GIT24CSE014,Imran Subramanian,Male,CSE,Computer Science and Engineering,2,7.43,84.4,0,No,Mumbai,imran.subramanian.89@greenfield.example
+S0090,GIT24CSE015,Mayank Nair,Male,CSE,Computer Science and Engineering,2,7.31,82.1,0,No,Chennai,mayank.nair.90@greenfield.example
+S0091,GIT24CSE016,Aarav Mehta,Male,CSE,Computer Science and Engineering,2,8.27,69.5,0,No,Kolkata,aarav.mehta.91@greenfield.example
+S0092,GIT24CSE017,Karthik Desai,Male,CSE,Computer Science and Engineering,2,7.43,75.1,0,Yes,Delhi,karthik.desai.92@greenfield.example
+S0093,GIT24CSE018,Rajat Menon,Male,CSE,Computer Science and Engineering,2,6.72,86.4,0,No,Hyderabad,rajat.menon.93@greenfield.example
+S0094,GIT24CSE019,Rajat Chandra,Male,CSE,Computer Science and Engineering,2,8.90,92.5,0,Yes,Kochi,rajat.chandra.94@greenfield.example
+S0095,GIT24CSE020,Divya Mukherjee,Female,CSE,Computer Science and Engineering,2,6.92,78.7,0,No,Coimbatore,divya.mukherjee.95@greenfield.example
+S0096,GIT24CSE021,Ananya Sethi,Female,CSE,Computer Science and Engineering,2,8.12,83.3,0,No,Bhopal,ananya.sethi.96@greenfield.example
+S0097,GIT24CSE022,Vaishnavi Siddiqui,Female,CSE,Computer Science and Engineering,2,7.06,88.1,0,No,Jaipur,vaishnavi.siddiqui.97@greenfield.example
+S0098,GIT24CSE023,Vaishnavi Naidu,Female,CSE,Computer Science and Engineering,2,7.77,63.9,0,Yes,Bhopal,vaishnavi.naidu.98@greenfield.example
+S0099,GIT24CSE024,Vijay Pillai,Male,CSE,Computer Science and Engineering,2,9.90,80.2,0,No,Pune,vijay.pillai.99@greenfield.example
+S0100,GIT24CSE025,Vedant Singh,Male,CSE,Computer Science and Engineering,2,7.13,71.1,0,Yes,Pune,vedant.singh.100@greenfield.example
+S0101,GIT24CSE026,Uday Khanna,Male,CSE,Computer Science and Engineering,2,8.84,77.2,0,Yes,Vizag,uday.khanna.101@greenfield.example
+S0102,GIT24CSE027,Vivaan Sharma,Male,CSE,Computer Science and Engineering,2,7.72,93.9,0,Yes,Hyderabad,vivaan.sharma.102@greenfield.example
+S0103,GIT24CSE028,Aarav Chauhan,Male,CSE,Computer Science and Engineering,2,8.59,90.8,0,No,Kochi,aarav.chauhan.103@greenfield.example
+S0104,GIT24CSE029,Aarohi Subramanian,Female,CSE,Computer Science and Engineering,2,7.47,82.6,0,Yes,Kolkata,aarohi.subramanian.104@greenfield.example
+S0105,GIT24CSE030,Madhav Rao,Male,CSE,Computer Science and Engineering,2,4.86,77.7,3,Yes,Kochi,madhav.rao.105@greenfield.example
+S0106,GIT24CSE031,Mayank Joshi,Male,CSE,Computer Science and Engineering,2,8.33,75.8,0,No,Mumbai,mayank.joshi.106@greenfield.example
+S0107,GIT24CSE032,Meera Chatterjee,Female,CSE,Computer Science and Engineering,2,8.03,74.6,0,No,Nagpur,meera.chatterjee.107@greenfield.example
+S0108,GIT24CSE033,Neha Mehta,Female,CSE,Computer Science and Engineering,2,7.48,70.8,0,No,Kolkata,neha.mehta.108@greenfield.example
+S0109,GIT24CSE034,Piyush Singh,Male,CSE,Computer Science and Engineering,2,6.55,84.5,0,Yes,Vizag,piyush.singh.109@greenfield.example
+S0110,GIT24CSE035,Bhavna Kapoor,Female,CSE,Computer Science and Engineering,2,8.18,87.6,0,Yes,Jaipur,bhavna.kapoor.110@greenfield.example
+S0111,GIT24CSE036,Rajat Kapoor,Male,CSE,Computer Science and Engineering,2,6.29,72.2,0,No,Coimbatore,rajat.kapoor.111@greenfield.example
+S0112,GIT24CSE037,Saanvi Banerjee,Female,CSE,Computer Science and Engineering,2,7.98,88.1,0,No,Lucknow,saanvi.banerjee.112@greenfield.example
+S0113,GIT24CSE038,Hemant Thakur,Male,CSE,Computer Science and Engineering,2,7.28,80.9,0,No,Chennai,hemant.thakur.113@greenfield.example
+S0114,GIT24CSE039,Hema Saxena,Female,CSE,Computer Science and Engineering,2,8.00,91.0,0,Yes,Coimbatore,hema.saxena.114@greenfield.example
+S0115,GIT24CSE040,Ramesh Chauhan,Male,CSE,Computer Science and Engineering,2,8.81,71.7,0,Yes,Bhopal,ramesh.chauhan.115@greenfield.example
+S0116,GIT24CSE041,Ishaan George,Male,CSE,Computer Science and Engineering,2,7.93,73.3,0,No,Vizag,ishaan.george.116@greenfield.example
+S0117,GIT24CSE042,Sneha Thakur,Female,CSE,Computer Science and Engineering,2,8.63,77.6,0,Yes,Bengaluru,sneha.thakur.117@greenfield.example
+S0118,GIT24CSE043,Nitin Sen,Male,CSE,Computer Science and Engineering,2,5.42,78.5,1,Yes,Mysuru,nitin.sen.118@greenfield.example
+S0119,GIT24CSE044,Kritika Thomas,Female,CSE,Computer Science and Engineering,2,7.53,72.2,0,Yes,Kolkata,kritika.thomas.119@greenfield.example
+S0120,GIT24CSE045,Garima Fernandes,Female,CSE,Computer Science and Engineering,2,6.94,80.2,0,Yes,Mumbai,garima.fernandes.120@greenfield.example
+S0121,GIT24CSE046,Dhruv Mathew,Male,CSE,Computer Science and Engineering,2,7.75,74.2,0,Yes,Bengaluru,dhruv.mathew.121@greenfield.example
+S0122,GIT24CSE047,Ishaan Khanna,Male,CSE,Computer Science and Engineering,2,9.16,83.9,0,No,Jaipur,ishaan.khanna.122@greenfield.example
+S0123,GIT24CSE048,Kiran Raman,Male,CSE,Computer Science and Engineering,2,7.42,75.1,0,No,Jaipur,kiran.raman.123@greenfield.example
+S0124,GIT24CSE049,Nandini Nair,Female,CSE,Computer Science and Engineering,2,8.45,84.5,0,No,Pune,nandini.nair.124@greenfield.example
+S0125,GIT24CSE050,Devansh Arora,Male,CSE,Computer Science and Engineering,2,7.22,70.1,0,No,Mumbai,devansh.arora.125@greenfield.example
+S0126,GIT24CSE051,Devansh Subramanian,Male,CSE,Computer Science and Engineering,2,7.38,75.5,0,No,Mumbai,devansh.subramanian.126@greenfield.example
+S0127,GIT24CSE052,Imran Chauhan,Male,CSE,Computer Science and Engineering,2,8.40,85.6,0,Yes,Kochi,imran.chauhan.127@greenfield.example
+S0128,GIT24CSE053,Vijay Mishra,Male,CSE,Computer Science and Engineering,2,6.21,99.0,0,Yes,Bengaluru,vijay.mishra.128@greenfield.example
+S0129,GIT24CSE054,Nitin Thomas,Male,CSE,Computer Science and Engineering,2,7.19,77.6,0,No,Mysuru,nitin.thomas.129@greenfield.example
+S0130,GIT24CSE055,Hema Bose,Female,CSE,Computer Science and Engineering,2,6.63,76.1,0,No,Pune,hema.bose.130@greenfield.example
+S0131,GIT24CSE056,Fatima Patel,Female,CSE,Computer Science and Engineering,2,6.30,70.3,0,No,Kolkata,fatima.patel.131@greenfield.example
+S0132,GIT24CSE057,Latha Shetty,Female,CSE,Computer Science and Engineering,2,7.34,83.1,0,No,Bengaluru,latha.shetty.132@greenfield.example
+S0133,GIT24CSE058,Dhruv Sen,Male,CSE,Computer Science and Engineering,2,6.77,85.8,1,No,Bengaluru,dhruv.sen.133@greenfield.example
+S0134,GIT24CSE059,Kritika Banerjee,Female,CSE,Computer Science and Engineering,2,8.34,71.3,0,Yes,Kolkata,kritika.banerjee.134@greenfield.example
+S0135,GIT24CSE060,Farhan Kurian,Male,CSE,Computer Science and Engineering,2,7.19,100.0,0,Yes,Hyderabad,farhan.kurian.135@greenfield.example
+S0136,GIT24CSE061,Nitin Shetty,Male,CSE,Computer Science and Engineering,2,8.69,87.7,0,Yes,Bhopal,nitin.shetty.136@greenfield.example
+S0137,GIT24CSE062,Lavanya Iyer,Female,CSE,Computer Science and Engineering,2,6.07,83.1,0,Yes,Vizag,lavanya.iyer.137@greenfield.example
+S0138,GIT24CSE063,Hema Chatterjee,Female,CSE,Computer Science and Engineering,2,6.50,74.7,0,Yes,Delhi,hema.chatterjee.138@greenfield.example
+S0139,GIT24CSE064,Barkha Chauhan,Female,CSE,Computer Science and Engineering,2,7.56,95.0,0,Yes,Coimbatore,barkha.chauhan.139@greenfield.example
+S0140,GIT24CSE065,Harini Pillai,Female,CSE,Computer Science and Engineering,2,6.25,88.7,0,Yes,Jaipur,harini.pillai.140@greenfield.example
+S0141,GIT24CSE066,Karthik Sethi,Male,CSE,Computer Science and Engineering,2,7.71,83.6,0,Yes,Hyderabad,karthik.sethi.141@greenfield.example
+S0142,GIT24CSE067,Dhruv Kulkarni,Male,CSE,Computer Science and Engineering,2,7.77,95.4,0,No,Coimbatore,dhruv.kulkarni.142@greenfield.example
+S0143,GIT24CSE068,Ojasvi Banerjee,Female,CSE,Computer Science and Engineering,2,7.05,85.1,0,No,Coimbatore,ojasvi.banerjee.143@greenfield.example
+S0144,GIT24CSE069,Ekta Dubey,Female,CSE,Computer Science and Engineering,2,8.21,78.3,0,Yes,Vizag,ekta.dubey.144@greenfield.example
+S0145,GIT24CSE070,Falguni Shah,Female,CSE,Computer Science and Engineering,2,5.59,70.5,0,No,Bhopal,falguni.shah.145@greenfield.example
+S0146,GIT24CSE071,Hema Arora,Female,CSE,Computer Science and Engineering,2,8.67,92.8,0,No,Lucknow,hema.arora.146@greenfield.example
+S0147,GIT24CSE072,Vaishnavi Reddy,Female,CSE,Computer Science and Engineering,2,6.41,86.1,0,Yes,Lucknow,vaishnavi.reddy.147@greenfield.example
+S0148,GIT24CSE073,Sanjay Saxena,Male,CSE,Computer Science and Engineering,2,8.22,86.7,0,Yes,Nagpur,sanjay.saxena.148@greenfield.example
+S0149,GIT24CSE074,Neha Malhotra,Female,CSE,Computer Science and Engineering,2,7.52,97.0,0,No,Hyderabad,neha.malhotra.149@greenfield.example
+S0150,GIT24CSE075,Mohit Malhotra,Male,CSE,Computer Science and Engineering,2,6.38,78.8,0,No,Jaipur,mohit.malhotra.150@greenfield.example
+S0151,GIT23CSE001,Lavanya Arora,Female,CSE,Computer Science and Engineering,3,6.95,90.2,1,No,Pune,lavanya.arora.151@greenfield.example
+S0152,GIT23CSE002,Bhavna Pandey,Female,CSE,Computer Science and Engineering,3,6.41,83.8,1,No,Mumbai,bhavna.pandey.152@greenfield.example
+S0153,GIT23CSE003,Riya Desai,Female,CSE,Computer Science and Engineering,3,6.76,79.9,0,Yes,Kolkata,riya.desai.153@greenfield.example
+S0154,GIT23CSE004,Komal Raman,Female,CSE,Computer Science and Engineering,3,8.68,82.0,0,No,Mumbai,komal.raman.154@greenfield.example
+S0155,GIT23CSE005,Vidya Malhotra,Female,CSE,Computer Science and Engineering,3,6.94,67.6,0,Yes,Delhi,vidya.malhotra.155@greenfield.example
+S0156,GIT23CSE006,Trisha Mishra,Female,CSE,Computer Science and Engineering,3,6.56,86.8,0,Yes,Nagpur,trisha.mishra.156@greenfield.example
+S0157,GIT23CSE007,Kiran Ahmed,Male,CSE,Computer Science and Engineering,3,6.53,75.2,0,Yes,Hyderabad,kiran.ahmed.157@greenfield.example
+S0158,GIT23CSE008,Sneha Siddiqui,Female,CSE,Computer Science and Engineering,3,6.99,82.7,0,No,Pune,sneha.siddiqui.158@greenfield.example
+S0159,GIT23CSE009,Prateek Pandey,Male,CSE,Computer Science and Engineering,3,7.86,93.3,0,No,Chennai,prateek.pandey.159@greenfield.example
+S0160,GIT23CSE010,Utkarsh Malhotra,Male,CSE,Computer Science and Engineering,3,5.26,96.3,0,No,Kochi,utkarsh.malhotra.160@greenfield.example
+S0161,GIT23CSE011,Farhan Sharma,Male,CSE,Computer Science and Engineering,3,7.62,74.2,0,Yes,Coimbatore,farhan.sharma.161@greenfield.example
+S0162,GIT23CSE012,Chitra Banerjee,Female,CSE,Computer Science and Engineering,3,7.18,91.4,0,No,Pune,chitra.banerjee.162@greenfield.example
+S0163,GIT23CSE013,Sneha Rao,Female,CSE,Computer Science and Engineering,3,6.59,84.2,0,No,Bhopal,sneha.rao.163@greenfield.example
+S0164,GIT23CSE014,Falguni Verma,Female,CSE,Computer Science and Engineering,3,6.43,74.6,0,Yes,Mysuru,falguni.verma.164@greenfield.example
+S0165,GIT23CSE015,Sameer Khanna,Male,CSE,Computer Science and Engineering,3,5.88,80.3,0,No,Pune,sameer.khanna.165@greenfield.example
+S0166,GIT23CSE016,Sanjay Thomas,Male,CSE,Computer Science and Engineering,3,5.29,93.0,3,Yes,Kolkata,sanjay.thomas.166@greenfield.example
+S0167,GIT23CSE017,Meera Pandey,Female,CSE,Computer Science and Engineering,3,6.32,86.1,0,No,Chennai,meera.pandey.167@greenfield.example
+S0168,GIT23CSE018,Esha Desai,Female,CSE,Computer Science and Engineering,3,5.69,83.2,3,Yes,Bhopal,esha.desai.168@greenfield.example
+S0169,GIT23CSE019,Uma Fernandes,Female,CSE,Computer Science and Engineering,3,7.40,83.1,0,No,Hyderabad,uma.fernandes.169@greenfield.example
+S0170,GIT23CSE020,Esha Thomas,Female,CSE,Computer Science and Engineering,3,6.33,76.9,1,No,Mysuru,esha.thomas.170@greenfield.example
+S0171,GIT23CSE021,Sameer Saxena,Male,CSE,Computer Science and Engineering,3,7.71,60.3,0,Yes,Delhi,sameer.saxena.171@greenfield.example
+S0172,GIT23CSE022,Sneha Chandra,Female,CSE,Computer Science and Engineering,3,7.72,77.0,0,No,Kolkata,sneha.chandra.172@greenfield.example
+S0173,GIT23CSE023,Pooja Mathew,Female,CSE,Computer Science and Engineering,3,6.75,73.0,0,No,Jaipur,pooja.mathew.173@greenfield.example
+S0174,GIT23CSE024,Harini Iyer,Female,CSE,Computer Science and Engineering,3,8.53,80.9,0,Yes,Kolkata,harini.iyer.174@greenfield.example
+S0175,GIT23CSE025,Lokesh Chandra,Male,CSE,Computer Science and Engineering,3,6.82,76.4,0,Yes,Coimbatore,lokesh.chandra.175@greenfield.example
+S0176,GIT23CSE026,Vivaan Bose,Male,CSE,Computer Science and Engineering,3,6.57,84.1,0,Yes,Mysuru,vivaan.bose.176@greenfield.example
+S0177,GIT23CSE027,Yashika Bhat,Female,CSE,Computer Science and Engineering,3,8.61,75.1,0,Yes,Coimbatore,yashika.bhat.177@greenfield.example
+S0178,GIT23CSE028,Lavanya Khan,Female,CSE,Computer Science and Engineering,3,8.35,100.0,0,Yes,Nagpur,lavanya.khan.178@greenfield.example
+S0179,GIT23CSE029,Divya Gupta,Female,CSE,Computer Science and Engineering,3,8.49,82.7,0,Yes,Jaipur,divya.gupta.179@greenfield.example
+S0180,GIT23CSE030,Trisha Arora,Female,CSE,Computer Science and Engineering,3,8.37,89.7,3,No,Delhi,trisha.arora.180@greenfield.example
+S0181,GIT23CSE031,Naveen Subramanian,Male,CSE,Computer Science and Engineering,3,7.11,80.8,0,No,Delhi,naveen.subramanian.181@greenfield.example
+S0182,GIT23CSE032,Kabir Ghosh,Male,CSE,Computer Science and Engineering,3,8.53,89.6,0,No,Bhopal,kabir.ghosh.182@greenfield.example
+S0183,GIT23CSE033,Charvi Chatterjee,Female,CSE,Computer Science and Engineering,3,7.08,87.3,0,Yes,Vizag,charvi.chatterjee.183@greenfield.example
+S0184,GIT23CSE034,Fatima Subramanian,Female,CSE,Computer Science and Engineering,3,6.83,74.3,0,Yes,Bhopal,fatima.subramanian.184@greenfield.example
+S0185,GIT23CSE035,Radhika Das,Female,CSE,Computer Science and Engineering,3,7.83,86.2,0,Yes,Mumbai,radhika.das.185@greenfield.example
+S0186,GIT23CSE036,Chitra Arora,Female,CSE,Computer Science and Engineering,3,8.12,85.6,0,No,Jaipur,chitra.arora.186@greenfield.example
+S0187,GIT23CSE037,Naveen Tiwari,Male,CSE,Computer Science and Engineering,3,7.22,69.3,0,Yes,Delhi,naveen.tiwari.187@greenfield.example
+S0188,GIT23CSE038,Lokesh Reddy,Male,CSE,Computer Science and Engineering,3,7.61,83.3,0,Yes,Mumbai,lokesh.reddy.188@greenfield.example
+S0189,GIT23CSE039,Omkar Gupta,Male,CSE,Computer Science and Engineering,3,7.82,87.4,0,No,Lucknow,omkar.gupta.189@greenfield.example
+S0190,GIT23CSE040,Tejas Varghese,Male,CSE,Computer Science and Engineering,3,6.55,77.9,0,No,Kochi,tejas.varghese.190@greenfield.example
+S0191,GIT23CSE041,Manish Mathew,Male,CSE,Computer Science and Engineering,3,8.03,89.0,0,Yes,Jaipur,manish.mathew.191@greenfield.example
+S0192,GIT23CSE042,Fatima Verma,Female,CSE,Computer Science and Engineering,3,7.65,93.4,0,Yes,Kolkata,fatima.verma.192@greenfield.example
+S0193,GIT23CSE043,Vidya Yadav,Female,CSE,Computer Science and Engineering,3,8.00,82.6,0,Yes,Mumbai,vidya.yadav.193@greenfield.example
+S0194,GIT23CSE044,Nandini Ahmed,Female,CSE,Computer Science and Engineering,3,5.79,89.2,1,Yes,Mysuru,nandini.ahmed.194@greenfield.example
+S0195,GIT23CSE045,Harsh Menon,Male,CSE,Computer Science and Engineering,3,8.66,82.3,0,No,Coimbatore,harsh.menon.195@greenfield.example
+S0196,GIT23CSE046,Mansi Kurian,Female,CSE,Computer Science and Engineering,3,7.42,85.3,0,No,Hyderabad,mansi.kurian.196@greenfield.example
+S0197,GIT23CSE047,Tara Shetty,Female,CSE,Computer Science and Engineering,3,6.54,76.6,0,No,Chennai,tara.shetty.197@greenfield.example
+S0198,GIT23CSE048,Ankit Menon,Male,CSE,Computer Science and Engineering,3,7.17,86.7,0,No,Hyderabad,ankit.menon.198@greenfield.example
+S0199,GIT23CSE049,Kritika Tiwari,Female,CSE,Computer Science and Engineering,3,7.08,90.2,0,Yes,Coimbatore,kritika.tiwari.199@greenfield.example
+S0200,GIT23CSE050,Pooja Malhotra,Female,CSE,Computer Science and Engineering,3,7.46,87.6,0,Yes,Chennai,pooja.malhotra.200@greenfield.example
+S0201,GIT23CSE051,Gauri Ghosh,Female,CSE,Computer Science and Engineering,3,6.88,79.9,0,No,Bengaluru,gauri.ghosh.201@greenfield.example
+S0202,GIT23CSE052,Vivaan Ahmed,Male,CSE,Computer Science and Engineering,3,6.36,90.8,0,Yes,Kolkata,vivaan.ahmed.202@greenfield.example
+S0203,GIT23CSE053,Tanmay Chauhan,Male,CSE,Computer Science and Engineering,3,7.72,70.9,0,No,Lucknow,tanmay.chauhan.203@greenfield.example
+S0204,GIT23CSE054,Vijay George,Male,CSE,Computer Science and Engineering,3,8.76,86.4,0,No,Nagpur,vijay.george.204@greenfield.example
+S0205,GIT23CSE055,Jatin Tiwari,Male,CSE,Computer Science and Engineering,3,6.70,77.0,0,No,Chennai,jatin.tiwari.205@greenfield.example
+S0206,GIT23CSE056,Manish Gupta,Male,CSE,Computer Science and Engineering,3,7.12,82.9,0,No,Mumbai,manish.gupta.206@greenfield.example
+S0207,GIT23CSE057,Pallavi Raman,Female,CSE,Computer Science and Engineering,3,6.07,100.0,0,No,Chennai,pallavi.raman.207@greenfield.example
+S0208,GIT23CSE058,Sneha Mathew,Female,CSE,Computer Science and Engineering,3,6.48,92.3,0,No,Delhi,sneha.mathew.208@greenfield.example
+S0209,GIT23CSE059,Trisha Thomas,Female,CSE,Computer Science and Engineering,3,8.53,92.7,0,No,Nagpur,trisha.thomas.209@greenfield.example
+S0210,GIT23CSE060,Pavan Shah,Male,CSE,Computer Science and Engineering,3,6.55,87.8,0,Yes,Lucknow,pavan.shah.210@greenfield.example
+S0211,GIT23CSE061,Mansi Ghosh,Female,CSE,Computer Science and Engineering,3,7.34,78.4,0,No,Chennai,mansi.ghosh.211@greenfield.example
+S0212,GIT23CSE062,Nitin Iyer,Male,CSE,Computer Science and Engineering,3,8.46,78.9,0,No,Mumbai,nitin.iyer.212@greenfield.example
+S0213,GIT23CSE063,Esha Pandey,Female,CSE,Computer Science and Engineering,3,9.90,75.6,0,Yes,Kolkata,esha.pandey.213@greenfield.example
+S0214,GIT23CSE064,Pranav Desai,Male,CSE,Computer Science and Engineering,3,6.07,84.4,0,No,Kolkata,pranav.desai.214@greenfield.example
+S0215,GIT23CSE065,Bharat Sethi,Male,CSE,Computer Science and Engineering,3,7.19,83.9,0,Yes,Kochi,bharat.sethi.215@greenfield.example
+S0216,GIT23CSE066,Riya Das,Female,CSE,Computer Science and Engineering,3,8.18,75.5,0,No,Jaipur,riya.das.216@greenfield.example
+S0217,GIT23CSE067,Utkarsh Iyer,Male,CSE,Computer Science and Engineering,3,7.32,72.0,0,No,Mumbai,utkarsh.iyer.217@greenfield.example
+S0218,GIT23CSE068,Kavya Dubey,Female,CSE,Computer Science and Engineering,3,7.87,89.4,0,Yes,Lucknow,kavya.dubey.218@greenfield.example
+S0219,GIT23CSE069,Indira Fernandes,Female,CSE,Computer Science and Engineering,3,9.41,82.9,0,No,Lucknow,indira.fernandes.219@greenfield.example
+S0220,GIT23CSE070,Vijay Dubey,Male,CSE,Computer Science and Engineering,3,7.73,74.5,3,No,Jaipur,vijay.dubey.220@greenfield.example
+S0221,GIT23CSE071,Mahika Mishra,Female,CSE,Computer Science and Engineering,3,7.00,79.7,0,No,Mumbai,mahika.mishra.221@greenfield.example
+S0222,GIT23CSE072,Naveen Hegde,Male,CSE,Computer Science and Engineering,3,5.82,82.3,0,Yes,Pune,naveen.hegde.222@greenfield.example
+S0223,GIT23CSE073,Gauri Krishnan,Female,CSE,Computer Science and Engineering,3,6.19,82.8,0,No,Bhopal,gauri.krishnan.223@greenfield.example
+S0224,GIT23CSE074,Rhea Ghosh,Female,CSE,Computer Science and Engineering,3,7.39,79.0,0,No,Kochi,rhea.ghosh.224@greenfield.example
+S0225,GIT23CSE075,Ojasvi Sharma,Female,CSE,Computer Science and Engineering,3,8.10,82.0,0,No,Delhi,ojasvi.sharma.225@greenfield.example
+S0226,GIT22CSE001,Manish Mehta,Male,CSE,Computer Science and Engineering,4,6.17,90.1,0,No,Vizag,manish.mehta.226@greenfield.example
+S0227,GIT22CSE002,Mayank Pandey,Male,CSE,Computer Science and Engineering,4,7.44,73.7,0,Yes,Chennai,mayank.pandey.227@greenfield.example
+S0228,GIT22CSE003,Ritvik Kulkarni,Male,CSE,Computer Science and Engineering,4,8.38,81.9,0,Yes,Kochi,ritvik.kulkarni.228@greenfield.example
+S0229,GIT22CSE004,Neha Rao,Female,CSE,Computer Science and Engineering,4,6.27,84.6,0,No,Delhi,neha.rao.229@greenfield.example
+S0230,GIT22CSE005,Pallavi Mehta,Female,CSE,Computer Science and Engineering,4,8.54,98.2,0,Yes,Jaipur,pallavi.mehta.230@greenfield.example
+S0231,GIT22CSE006,Prateek Ahmed,Male,CSE,Computer Science and Engineering,4,9.16,87.9,0,No,Bhopal,prateek.ahmed.231@greenfield.example
+S0232,GIT22CSE007,Barkha Yadav,Female,CSE,Computer Science and Engineering,4,5.66,92.0,0,Yes,Kochi,barkha.yadav.232@greenfield.example
+S0233,GIT22CSE008,Pallavi Saxena,Female,CSE,Computer Science and Engineering,4,6.86,55.3,0,No,Jaipur,pallavi.saxena.233@greenfield.example
+S0234,GIT22CSE009,Yuvraj Chandra,Male,CSE,Computer Science and Engineering,4,6.97,79.6,0,No,Kolkata,yuvraj.chandra.234@greenfield.example
+S0235,GIT22CSE010,Nitin Mishra,Male,CSE,Computer Science and Engineering,4,7.47,85.9,0,No,Bengaluru,nitin.mishra.235@greenfield.example
+S0236,GIT22CSE011,Aarav Sethi,Male,CSE,Computer Science and Engineering,4,7.08,68.8,0,No,Vizag,aarav.sethi.236@greenfield.example
+S0237,GIT22CSE012,Varun Kapoor,Male,CSE,Computer Science and Engineering,4,8.04,76.1,0,No,Jaipur,varun.kapoor.237@greenfield.example
+S0238,GIT22CSE013,Vedant Fernandes,Male,CSE,Computer Science and Engineering,4,7.28,100.0,0,No,Vizag,vedant.fernandes.238@greenfield.example
+S0239,GIT22CSE014,Kunal Chandra,Male,CSE,Computer Science and Engineering,4,6.30,79.8,0,No,Mysuru,kunal.chandra.239@greenfield.example
+S0240,GIT22CSE015,Latha Thakur,Female,CSE,Computer Science and Engineering,4,7.00,69.5,0,No,Mysuru,latha.thakur.240@greenfield.example
+S0241,GIT22CSE016,Kritika Raman,Female,CSE,Computer Science and Engineering,4,6.74,80.6,0,Yes,Vizag,kritika.raman.241@greenfield.example
+S0242,GIT22CSE017,Lavanya Pillai,Female,CSE,Computer Science and Engineering,4,7.08,82.8,0,Yes,Vizag,lavanya.pillai.242@greenfield.example
+S0243,GIT22CSE018,Ekta Chandra,Female,CSE,Computer Science and Engineering,4,7.21,75.9,0,Yes,Kolkata,ekta.chandra.243@greenfield.example
+S0244,GIT22CSE019,Isha Mathew,Female,CSE,Computer Science and Engineering,4,6.42,71.7,0,No,Kolkata,isha.mathew.244@greenfield.example
+S0245,GIT22CSE020,Ganesh Verma,Male,CSE,Computer Science and Engineering,4,7.04,73.6,0,No,Pune,ganesh.verma.245@greenfield.example
+S0246,GIT22CSE021,Bhavna Pillai,Female,CSE,Computer Science and Engineering,4,8.05,73.4,0,Yes,Bengaluru,bhavna.pillai.246@greenfield.example
+S0247,GIT22CSE022,Chitra Fernandes,Female,CSE,Computer Science and Engineering,4,8.18,85.6,0,Yes,Vizag,chitra.fernandes.247@greenfield.example
+S0248,GIT22CSE023,Vikram Mehta,Male,CSE,Computer Science and Engineering,4,8.19,84.9,0,No,Vizag,vikram.mehta.248@greenfield.example
+S0249,GIT22CSE024,Rajat Raman,Male,CSE,Computer Science and Engineering,4,7.54,75.2,0,Yes,Nagpur,rajat.raman.249@greenfield.example
+S0250,GIT22CSE025,Saanvi Singh,Female,CSE,Computer Science and Engineering,4,5.82,70.1,2,Yes,Kochi,saanvi.singh.250@greenfield.example
+S0251,GIT22CSE026,Divya Naidu,Female,CSE,Computer Science and Engineering,4,6.45,84.7,0,No,Hyderabad,divya.naidu.251@greenfield.example
+S0252,GIT22CSE027,Mansi Sethi,Female,CSE,Computer Science and Engineering,4,7.91,65.4,0,Yes,Coimbatore,mansi.sethi.252@greenfield.example
+S0253,GIT22CSE028,Kavya Joshi,Female,CSE,Computer Science and Engineering,4,5.91,88.6,0,No,Hyderabad,kavya.joshi.253@greenfield.example
+S0254,GIT22CSE029,Latha Pillai,Female,CSE,Computer Science and Engineering,4,7.79,78.2,0,Yes,Vizag,latha.pillai.254@greenfield.example
+S0255,GIT22CSE030,Mayank George,Male,CSE,Computer Science and Engineering,4,7.22,63.6,0,No,Vizag,mayank.george.255@greenfield.example
+S0256,GIT22CSE031,Devansh Chauhan,Male,CSE,Computer Science and Engineering,4,7.07,82.6,0,No,Chennai,devansh.chauhan.256@greenfield.example
+S0257,GIT22CSE032,Aarohi Ahmed,Female,CSE,Computer Science and Engineering,4,6.12,70.6,0,No,Delhi,aarohi.ahmed.257@greenfield.example
+S0258,GIT22CSE033,Indira Venkatesh,Female,CSE,Computer Science and Engineering,4,6.84,92.0,0,Yes,Nagpur,indira.venkatesh.258@greenfield.example
+S0259,GIT22CSE034,Mayank Fernandes,Male,CSE,Computer Science and Engineering,4,9.37,71.7,0,No,Lucknow,mayank.fernandes.259@greenfield.example
+S0260,GIT22CSE035,Aditi Saxena,Female,CSE,Computer Science and Engineering,4,6.31,73.3,0,No,Mysuru,aditi.saxena.260@greenfield.example
+S0261,GIT22CSE036,Nitin Siddiqui,Male,CSE,Computer Science and Engineering,4,8.49,74.0,0,Yes,Bengaluru,nitin.siddiqui.261@greenfield.example
+S0262,GIT22CSE037,Kavya Das,Female,CSE,Computer Science and Engineering,4,7.45,84.3,0,No,Kolkata,kavya.das.262@greenfield.example
+S0263,GIT22CSE038,Siddharth Iyer,Male,CSE,Computer Science and Engineering,4,8.61,77.7,0,No,Bhopal,siddharth.iyer.263@greenfield.example
+S0264,GIT22CSE039,Priya Gupta,Female,CSE,Computer Science and Engineering,4,7.52,77.3,0,No,Delhi,priya.gupta.264@greenfield.example
+S0265,GIT22CSE040,Uday Krishnan,Male,CSE,Computer Science and Engineering,4,9.00,75.6,0,Yes,Kolkata,uday.krishnan.265@greenfield.example
+S0266,GIT22CSE041,Urvi Patel,Female,CSE,Computer Science and Engineering,4,7.10,89.9,0,Yes,Kolkata,urvi.patel.266@greenfield.example
+S0267,GIT22CSE042,Gauri Saxena,Female,CSE,Computer Science and Engineering,4,7.28,86.4,0,No,Kochi,gauri.saxena.267@greenfield.example
+S0268,GIT22CSE043,Fatima Deshmukh,Female,CSE,Computer Science and Engineering,4,6.63,79.4,0,No,Bhopal,fatima.deshmukh.268@greenfield.example
+S0269,GIT22CSE044,Jhanvi Singh,Female,CSE,Computer Science and Engineering,4,8.96,88.4,0,Yes,Chennai,jhanvi.singh.269@greenfield.example
+S0270,GIT22CSE045,Rahul Chauhan,Male,CSE,Computer Science and Engineering,4,7.54,71.5,0,No,Kochi,rahul.chauhan.270@greenfield.example
+S0271,GIT22CSE046,Deepak Verma,Male,CSE,Computer Science and Engineering,4,8.79,83.1,0,No,Bhopal,deepak.verma.271@greenfield.example
+S0272,GIT22CSE047,Rahul Bose,Male,CSE,Computer Science and Engineering,4,6.86,88.1,0,No,Nagpur,rahul.bose.272@greenfield.example
+S0273,GIT22CSE048,Radhika Arora,Female,CSE,Computer Science and Engineering,4,8.94,78.6,0,Yes,Bhopal,radhika.arora.273@greenfield.example
+S0274,GIT22CSE049,Siddharth Chandra,Male,CSE,Computer Science and Engineering,4,7.37,89.9,0,No,Delhi,siddharth.chandra.274@greenfield.example
+S0275,GIT22CSE050,Bharat Bhatia,Male,CSE,Computer Science and Engineering,4,6.88,68.7,0,Yes,Lucknow,bharat.bhatia.275@greenfield.example
+S0276,GIT22CSE051,Uma Yadav,Female,CSE,Computer Science and Engineering,4,7.00,89.2,0,No,Mysuru,uma.yadav.276@greenfield.example
+S0277,GIT22CSE052,Siddharth Saxena,Male,CSE,Computer Science and Engineering,4,6.29,84.1,0,No,Delhi,siddharth.saxena.277@greenfield.example
+S0278,GIT22CSE053,Gauri Kulkarni,Female,CSE,Computer Science and Engineering,4,8.10,74.0,0,Yes,Vizag,gauri.kulkarni.278@greenfield.example
+S0279,GIT22CSE054,Kunal Malhotra,Male,CSE,Computer Science and Engineering,4,5.77,82.5,1,Yes,Mysuru,kunal.malhotra.279@greenfield.example
+S0280,GIT22CSE055,Pavan Bhat,Male,CSE,Computer Science and Engineering,4,7.09,73.9,0,No,Pune,pavan.bhat.280@greenfield.example
+S0281,GIT22CSE056,Saanvi Nair,Female,CSE,Computer Science and Engineering,4,8.25,89.1,0,No,Pune,saanvi.nair.281@greenfield.example
+S0282,GIT22CSE057,Tanvi Pillai,Female,CSE,Computer Science and Engineering,4,8.76,89.4,0,No,Kolkata,tanvi.pillai.282@greenfield.example
+S0283,GIT22CSE058,Yashika Das,Female,CSE,Computer Science and Engineering,4,7.88,71.7,0,Yes,Lucknow,yashika.das.283@greenfield.example
+S0284,GIT22CSE059,Akash Mukherjee,Male,CSE,Computer Science and Engineering,4,7.20,83.5,0,Yes,Vizag,akash.mukherjee.284@greenfield.example
+S0285,GIT22CSE060,Akash Nair,Male,CSE,Computer Science and Engineering,4,6.79,87.3,0,Yes,Kochi,akash.nair.285@greenfield.example
+S0286,GIT22CSE061,Ankit Banerjee,Male,CSE,Computer Science and Engineering,4,7.26,75.1,0,No,Vizag,ankit.banerjee.286@greenfield.example
+S0287,GIT22CSE062,Hemant Singh,Male,CSE,Computer Science and Engineering,4,7.31,90.4,0,No,Jaipur,hemant.singh.287@greenfield.example
+S0288,GIT22CSE063,Kunal Gupta,Male,CSE,Computer Science and Engineering,4,8.83,57.0,0,No,Kolkata,kunal.gupta.288@greenfield.example
+S0289,GIT22CSE064,Ojasvi Venkatesh,Female,CSE,Computer Science and Engineering,4,6.89,76.0,0,No,Coimbatore,ojasvi.venkatesh.289@greenfield.example
+S0290,GIT22CSE065,Sneha Bhatia,Female,CSE,Computer Science and Engineering,4,5.94,66.4,0,Yes,Bengaluru,sneha.bhatia.290@greenfield.example
+S0291,GIT22CSE066,Garima Chatterjee,Female,CSE,Computer Science and Engineering,4,6.65,100.0,0,No,Bengaluru,garima.chatterjee.291@greenfield.example
+S0292,GIT22CSE067,Zoya Shetty,Female,CSE,Computer Science and Engineering,4,6.79,80.2,0,No,Vizag,zoya.shetty.292@greenfield.example
+S0293,GIT22CSE068,Farhan Deshmukh,Male,CSE,Computer Science and Engineering,4,8.25,64.4,0,No,Bengaluru,farhan.deshmukh.293@greenfield.example
+S0294,GIT22CSE069,Pooja Gupta,Female,CSE,Computer Science and Engineering,4,8.28,91.9,0,Yes,Hyderabad,pooja.gupta.294@greenfield.example
+S0295,GIT22CSE070,Neeraj Malhotra,Male,CSE,Computer Science and Engineering,4,7.51,77.0,0,Yes,Hyderabad,neeraj.malhotra.295@greenfield.example
+S0296,GIT22CSE071,Mohit Naidu,Male,CSE,Computer Science and Engineering,4,7.89,78.3,0,Yes,Bengaluru,mohit.naidu.296@greenfield.example
+S0297,GIT22CSE072,Vijay Joshi,Male,CSE,Computer Science and Engineering,4,7.58,72.2,0,No,Jaipur,vijay.joshi.297@greenfield.example
+S0298,GIT22CSE073,Harsh Joshi,Male,CSE,Computer Science and Engineering,4,6.88,82.3,3,No,Bhopal,harsh.joshi.298@greenfield.example
+S0299,GIT22CSE074,Kabir DSouza,Male,CSE,Computer Science and Engineering,4,6.22,93.3,0,No,Jaipur,kabir.dsouza.299@greenfield.example
+S0300,GIT22CSE075,Nitin Chatterjee,Male,CSE,Computer Science and Engineering,4,7.68,85.1,0,No,Kochi,nitin.chatterjee.300@greenfield.example
+S0301,GIT25ECE001,Arjun Bhat,Male,ECE,Electronics and Communication Engineering,1,6.76,100.0,0,Yes,Nagpur,arjun.bhat.301@greenfield.example
+S0302,GIT25ECE002,Vikram Venkatesh,Male,ECE,Electronics and Communication Engineering,1,6.74,74.5,0,Yes,Nagpur,vikram.venkatesh.302@greenfield.example
+S0303,GIT25ECE003,Aarav Mishra,Male,ECE,Electronics and Communication Engineering,1,7.05,95.9,0,Yes,Delhi,aarav.mishra.303@greenfield.example
+S0304,GIT25ECE004,Imran George,Male,ECE,Electronics and Communication Engineering,1,9.09,75.3,0,Yes,Pune,imran.george.304@greenfield.example
+S0305,GIT25ECE005,Aarav Naidu,Male,ECE,Electronics and Communication Engineering,1,7.68,75.2,0,No,Bengaluru,aarav.naidu.305@greenfield.example
+S0306,GIT25ECE006,Navya Agarwal,Female,ECE,Electronics and Communication Engineering,1,7.27,89.0,0,No,Lucknow,navya.agarwal.306@greenfield.example
+S0307,GIT25ECE007,Zoya Bhatia,Female,ECE,Electronics and Communication Engineering,1,9.24,89.5,0,Yes,Bengaluru,zoya.bhatia.307@greenfield.example
+S0308,GIT25ECE008,Jatin Subramanian,Male,ECE,Electronics and Communication Engineering,1,7.95,90.2,0,No,Kolkata,jatin.subramanian.308@greenfield.example
+S0309,GIT25ECE009,Divya Kapoor,Female,ECE,Electronics and Communication Engineering,1,7.82,86.0,0,Yes,Bhopal,divya.kapoor.309@greenfield.example
+S0310,GIT25ECE010,Radhika Mehta,Female,ECE,Electronics and Communication Engineering,1,7.93,67.2,0,No,Hyderabad,radhika.mehta.310@greenfield.example
+S0311,GIT25ECE011,Vaishnavi Chatterjee,Female,ECE,Electronics and Communication Engineering,1,5.30,75.1,2,Yes,Jaipur,vaishnavi.chatterjee.311@greenfield.example
+S0312,GIT25ECE012,Omkar Thomas,Male,ECE,Electronics and Communication Engineering,1,8.29,86.1,0,Yes,Bengaluru,omkar.thomas.312@greenfield.example
+S0313,GIT25ECE013,Navya Khanna,Female,ECE,Electronics and Communication Engineering,1,8.56,76.7,0,No,Hyderabad,navya.khanna.313@greenfield.example
+S0314,GIT25ECE014,Ganesh Pandey,Male,ECE,Electronics and Communication Engineering,1,8.06,80.1,0,No,Kochi,ganesh.pandey.314@greenfield.example
+S0315,GIT25ECE015,Aarohi Malhotra,Female,ECE,Electronics and Communication Engineering,1,7.18,80.5,0,No,Hyderabad,aarohi.malhotra.315@greenfield.example
+S0316,GIT25ECE016,Yashika George,Female,ECE,Electronics and Communication Engineering,1,8.04,71.4,0,No,Bhopal,yashika.george.316@greenfield.example
+S0317,GIT25ECE017,Esha Bose,Female,ECE,Electronics and Communication Engineering,1,8.75,87.1,0,No,Delhi,esha.bose.317@greenfield.example
+S0318,GIT25ECE018,Harini Fernandes,Female,ECE,Electronics and Communication Engineering,1,7.52,75.1,0,Yes,Vizag,harini.fernandes.318@greenfield.example
+S0319,GIT25ECE019,Kunal Sethi,Male,ECE,Electronics and Communication Engineering,1,5.88,78.3,2,Yes,Nagpur,kunal.sethi.319@greenfield.example
+S0320,GIT25ECE020,Devansh Menon,Male,ECE,Electronics and Communication Engineering,1,7.11,89.5,0,No,Bengaluru,devansh.menon.320@greenfield.example
+S0321,GIT25ECE021,Rohan Ghosh,Male,ECE,Electronics and Communication Engineering,1,7.91,79.6,1,Yes,Kochi,rohan.ghosh.321@greenfield.example
+S0322,GIT25ECE022,Tanmay Bhat,Male,ECE,Electronics and Communication Engineering,1,8.34,79.6,0,No,Bhopal,tanmay.bhat.322@greenfield.example
+S0323,GIT25ECE023,Imran Reddy,Male,ECE,Electronics and Communication Engineering,1,9.35,74.4,0,No,Kochi,imran.reddy.323@greenfield.example
+S0324,GIT25ECE024,Pavan Sen,Male,ECE,Electronics and Communication Engineering,1,6.46,85.8,0,Yes,Kochi,pavan.sen.324@greenfield.example
+S0325,GIT25ECE025,Piyush Pandey,Male,ECE,Electronics and Communication Engineering,1,7.74,77.6,0,No,Bengaluru,piyush.pandey.325@greenfield.example
+S0326,GIT25ECE026,Divya Varghese,Female,ECE,Electronics and Communication Engineering,1,8.40,88.4,0,No,Chennai,divya.varghese.326@greenfield.example
+S0327,GIT25ECE027,Rhea Arora,Female,ECE,Electronics and Communication Engineering,1,7.12,72.2,0,No,Kochi,rhea.arora.327@greenfield.example
+S0328,GIT25ECE028,Gaurav Pillai,Male,ECE,Electronics and Communication Engineering,1,9.03,78.5,0,No,Jaipur,gaurav.pillai.328@greenfield.example
+S0329,GIT25ECE029,Navya Chandra,Female,ECE,Electronics and Communication Engineering,1,7.23,64.2,0,No,Bengaluru,navya.chandra.329@greenfield.example
+S0330,GIT25ECE030,Barkha George,Female,ECE,Electronics and Communication Engineering,1,6.07,81.1,0,Yes,Kolkata,barkha.george.330@greenfield.example
+S0331,GIT25ECE031,Siddharth Krishnan,Male,ECE,Electronics and Communication Engineering,1,7.52,86.7,0,No,Bengaluru,siddharth.krishnan.331@greenfield.example
+S0332,GIT25ECE032,Nitin Deshmukh,Male,ECE,Electronics and Communication Engineering,1,6.74,85.2,0,No,Bengaluru,nitin.deshmukh.332@greenfield.example
+S0333,GIT25ECE033,Ojasvi Ahmed,Female,ECE,Electronics and Communication Engineering,1,5.81,87.6,0,Yes,Kochi,ojasvi.ahmed.333@greenfield.example
+S0334,GIT25ECE034,Saanvi Thakur,Female,ECE,Electronics and Communication Engineering,1,8.61,82.4,0,Yes,Hyderabad,saanvi.thakur.334@greenfield.example
+S0335,GIT25ECE035,Naveen Chatterjee,Male,ECE,Electronics and Communication Engineering,1,5.62,83.8,3,No,Bengaluru,naveen.chatterjee.335@greenfield.example
+S0336,GIT25ECE036,Nitin Pillai,Male,ECE,Electronics and Communication Engineering,1,8.20,87.5,0,Yes,Pune,nitin.pillai.336@greenfield.example
+S0337,GIT25ECE037,Falguni Deshmukh,Female,ECE,Electronics and Communication Engineering,1,7.29,82.3,0,No,Jaipur,falguni.deshmukh.337@greenfield.example
+S0338,GIT25ECE038,Karthik Fernandes,Male,ECE,Electronics and Communication Engineering,1,6.30,84.1,0,No,Hyderabad,karthik.fernandes.338@greenfield.example
+S0339,GIT25ECE039,Prateek Kapoor,Male,ECE,Electronics and Communication Engineering,1,8.09,83.9,0,Yes,Mysuru,prateek.kapoor.339@greenfield.example
+S0340,GIT25ECE040,Uday Ghosh,Male,ECE,Electronics and Communication Engineering,1,7.17,70.5,0,Yes,Hyderabad,uday.ghosh.340@greenfield.example
+S0341,GIT25ECE041,Siddharth Mukherjee,Male,ECE,Electronics and Communication Engineering,1,8.19,82.7,0,Yes,Mysuru,siddharth.mukherjee.341@greenfield.example
+S0342,GIT25ECE042,Meera Kapoor,Female,ECE,Electronics and Communication Engineering,1,8.45,88.0,0,No,Pune,meera.kapoor.342@greenfield.example
+S0343,GIT25ECE043,Rohan Gupta,Male,ECE,Electronics and Communication Engineering,1,8.76,80.0,0,No,Pune,rohan.gupta.343@greenfield.example
+S0344,GIT25ECE044,Rhea Pillai,Female,ECE,Electronics and Communication Engineering,1,7.23,70.9,0,No,Coimbatore,rhea.pillai.344@greenfield.example
+S0345,GIT25ECE045,Vedant Gowda,Male,ECE,Electronics and Communication Engineering,1,6.78,67.1,2,No,Delhi,vedant.gowda.345@greenfield.example
+S0346,GIT25ECE046,Pranav Malhotra,Male,ECE,Electronics and Communication Engineering,1,6.18,75.7,0,Yes,Kolkata,pranav.malhotra.346@greenfield.example
+S0347,GIT25ECE047,Yash Reddy,Male,ECE,Electronics and Communication Engineering,1,6.97,67.3,0,No,Jaipur,yash.reddy.347@greenfield.example
+S0348,GIT25ECE048,Madhav Tiwari,Male,ECE,Electronics and Communication Engineering,1,8.46,81.8,0,Yes,Nagpur,madhav.tiwari.348@greenfield.example
+S0349,GIT25ECE049,Imran Shah,Male,ECE,Electronics and Communication Engineering,1,6.39,85.3,1,No,Jaipur,imran.shah.349@greenfield.example
+S0350,GIT25ECE050,Harsh Pandey,Male,ECE,Electronics and Communication Engineering,1,8.58,72.2,0,No,Hyderabad,harsh.pandey.350@greenfield.example
+S0351,GIT25ECE051,Priya Saxena,Female,ECE,Electronics and Communication Engineering,1,8.73,85.7,0,Yes,Nagpur,priya.saxena.351@greenfield.example
+S0352,GIT25ECE052,Varun Sharma,Male,ECE,Electronics and Communication Engineering,1,7.85,78.0,0,No,Coimbatore,varun.sharma.352@greenfield.example
+S0353,GIT25ECE053,Vidya Siddiqui,Female,ECE,Electronics and Communication Engineering,1,6.65,89.7,0,No,Bhopal,vidya.siddiqui.353@greenfield.example
+S0354,GIT25ECE054,Imran DSouza,Male,ECE,Electronics and Communication Engineering,1,5.58,83.3,0,Yes,Bhopal,imran.dsouza.354@greenfield.example
+S0355,GIT25ECE055,Pooja Deshmukh,Female,ECE,Electronics and Communication Engineering,1,6.12,73.6,0,No,Jaipur,pooja.deshmukh.355@greenfield.example
+S0356,GIT25ECE056,Aarohi Patel,Female,ECE,Electronics and Communication Engineering,1,7.35,66.8,0,No,Hyderabad,aarohi.patel.356@greenfield.example
+S0357,GIT25ECE057,Kabir Kurian,Male,ECE,Electronics and Communication Engineering,1,5.03,88.1,2,No,Lucknow,kabir.kurian.357@greenfield.example
+S0358,GIT25ECE058,Hema Thomas,Female,ECE,Electronics and Communication Engineering,1,6.63,75.2,0,No,Hyderabad,hema.thomas.358@greenfield.example
+S0359,GIT25ECE059,Aarav Iyer,Male,ECE,Electronics and Communication Engineering,1,7.52,88.3,0,Yes,Mysuru,aarav.iyer.359@greenfield.example
+S0360,GIT25ECE060,Suresh Iyer,Male,ECE,Electronics and Communication Engineering,1,8.10,94.0,0,No,Mumbai,suresh.iyer.360@greenfield.example
+S0361,GIT25ECE061,Komal Pillai,Female,ECE,Electronics and Communication Engineering,1,7.78,80.1,0,No,Bhopal,komal.pillai.361@greenfield.example
+S0362,GIT25ECE062,Uday Malhotra,Male,ECE,Electronics and Communication Engineering,1,6.94,74.9,0,No,Bhopal,uday.malhotra.362@greenfield.example
+S0363,GIT25ECE063,Urvi Bhatia,Female,ECE,Electronics and Communication Engineering,1,7.39,83.3,0,Yes,Chennai,urvi.bhatia.363@greenfield.example
+S0364,GIT25ECE064,Chirag Pandey,Male,ECE,Electronics and Communication Engineering,1,8.93,80.1,0,No,Nagpur,chirag.pandey.364@greenfield.example
+S0365,GIT25ECE065,Vijay Shetty,Male,ECE,Electronics and Communication Engineering,1,8.09,89.0,0,Yes,Coimbatore,vijay.shetty.365@greenfield.example
+S0366,GIT25ECE066,Indira Nair,Female,ECE,Electronics and Communication Engineering,1,6.38,87.2,0,Yes,Lucknow,indira.nair.366@greenfield.example
+S0367,GIT25ECE067,Aditya Bose,Male,ECE,Electronics and Communication Engineering,1,6.86,76.6,0,Yes,Lucknow,aditya.bose.367@greenfield.example
+S0368,GIT25ECE068,Farhan Subramanian,Male,ECE,Electronics and Communication Engineering,1,9.32,68.2,0,Yes,Lucknow,farhan.subramanian.368@greenfield.example
+S0369,GIT25ECE069,Yuvraj Joshi,Male,ECE,Electronics and Communication Engineering,1,7.05,76.0,0,Yes,Delhi,yuvraj.joshi.369@greenfield.example
+S0370,GIT25ECE070,Naveen Yadav,Male,ECE,Electronics and Communication Engineering,1,6.44,85.2,0,No,Vizag,naveen.yadav.370@greenfield.example
+S0371,GIT25ECE071,Tanmay Khan,Male,ECE,Electronics and Communication Engineering,1,8.61,77.0,0,No,Coimbatore,tanmay.khan.371@greenfield.example
+S0372,GIT25ECE072,Yashika Pillai,Female,ECE,Electronics and Communication Engineering,1,5.99,69.4,1,Yes,Lucknow,yashika.pillai.372@greenfield.example
+S0373,GIT25ECE073,Zoya Patel,Female,ECE,Electronics and Communication Engineering,1,9.39,81.7,0,No,Coimbatore,zoya.patel.373@greenfield.example
+S0374,GIT25ECE074,Rohan Bhat,Male,ECE,Electronics and Communication Engineering,1,7.42,67.3,0,No,Vizag,rohan.bhat.374@greenfield.example
+S0375,GIT25ECE075,Ekta Joshi,Female,ECE,Electronics and Communication Engineering,1,7.33,78.3,0,Yes,Coimbatore,ekta.joshi.375@greenfield.example
+S0376,GIT24ECE001,Aditi Kulkarni,Female,ECE,Electronics and Communication Engineering,2,6.92,100.0,0,No,Delhi,aditi.kulkarni.376@greenfield.example
+S0377,GIT24ECE002,Meera Patel,Female,ECE,Electronics and Communication Engineering,2,8.27,89.7,0,No,Hyderabad,meera.patel.377@greenfield.example
+S0378,GIT24ECE003,Akash Kulkarni,Male,ECE,Electronics and Communication Engineering,2,8.23,84.7,0,Yes,Lucknow,akash.kulkarni.378@greenfield.example
+S0379,GIT24ECE004,Dhruv Hegde,Male,ECE,Electronics and Communication Engineering,2,8.56,78.5,0,No,Jaipur,dhruv.hegde.379@greenfield.example
+S0380,GIT24ECE005,Lokesh Patel,Male,ECE,Electronics and Communication Engineering,2,6.03,86.5,0,No,Delhi,lokesh.patel.380@greenfield.example
+S0381,GIT24ECE006,Deepa Mukherjee,Female,ECE,Electronics and Communication Engineering,2,7.75,72.8,0,No,Mumbai,deepa.mukherjee.381@greenfield.example
+S0382,GIT24ECE007,Chitra Ghosh,Female,ECE,Electronics and Communication Engineering,2,8.33,89.6,0,No,Chennai,chitra.ghosh.382@greenfield.example
+S0383,GIT24ECE008,Diya Krishnan,Female,ECE,Electronics and Communication Engineering,2,6.90,81.5,0,No,Bhopal,diya.krishnan.383@greenfield.example
+S0384,GIT24ECE009,Suresh Ahmed,Male,ECE,Electronics and Communication Engineering,2,9.21,81.0,0,Yes,Coimbatore,suresh.ahmed.384@greenfield.example
+S0385,GIT24ECE010,Saanvi Raman,Female,ECE,Electronics and Communication Engineering,2,8.44,78.5,0,Yes,Mumbai,saanvi.raman.385@greenfield.example
+S0386,GIT24ECE011,Gauri Shah,Female,ECE,Electronics and Communication Engineering,2,9.27,94.4,0,Yes,Hyderabad,gauri.shah.386@greenfield.example
+S0387,GIT24ECE012,Prateek Varghese,Male,ECE,Electronics and Communication Engineering,2,8.50,85.4,0,Yes,Mumbai,prateek.varghese.387@greenfield.example
+S0388,GIT24ECE013,Sanjay Pandey,Male,ECE,Electronics and Communication Engineering,2,7.52,100.0,0,Yes,Vizag,sanjay.pandey.388@greenfield.example
+S0389,GIT24ECE014,Sameer Malhotra,Male,ECE,Electronics and Communication Engineering,2,7.06,86.0,0,Yes,Coimbatore,sameer.malhotra.389@greenfield.example
+S0390,GIT24ECE015,Mahika Reddy,Female,ECE,Electronics and Communication Engineering,2,7.53,82.4,0,No,Jaipur,mahika.reddy.390@greenfield.example
+S0391,GIT24ECE016,Mansi Yadav,Female,ECE,Electronics and Communication Engineering,2,8.16,72.8,0,Yes,Chennai,mansi.yadav.391@greenfield.example
+S0392,GIT24ECE017,Sneha Kulkarni,Female,ECE,Electronics and Communication Engineering,2,7.34,91.5,0,No,Bhopal,sneha.kulkarni.392@greenfield.example
+S0393,GIT24ECE018,Mohit Agarwal,Male,ECE,Electronics and Communication Engineering,2,7.30,72.8,0,Yes,Nagpur,mohit.agarwal.393@greenfield.example
+S0394,GIT24ECE019,Madhav Ahmed,Male,ECE,Electronics and Communication Engineering,2,8.94,71.1,0,No,Chennai,madhav.ahmed.394@greenfield.example
+S0395,GIT24ECE020,Ananya Arora,Female,ECE,Electronics and Communication Engineering,2,7.88,95.8,0,Yes,Pune,ananya.arora.395@greenfield.example
+S0396,GIT24ECE021,Aditya Dubey,Male,ECE,Electronics and Communication Engineering,2,7.98,94.2,0,No,Mumbai,aditya.dubey.396@greenfield.example
+S0397,GIT24ECE022,Lavanya Chandra,Female,ECE,Electronics and Communication Engineering,2,6.37,100.0,1,Yes,Bengaluru,lavanya.chandra.397@greenfield.example
+S0398,GIT24ECE023,Rajat Verma,Male,ECE,Electronics and Communication Engineering,2,6.56,85.7,3,No,Delhi,rajat.verma.398@greenfield.example
+S0399,GIT24ECE024,Kiran Varghese,Male,ECE,Electronics and Communication Engineering,2,7.79,91.7,0,No,Bhopal,kiran.varghese.399@greenfield.example
+S0400,GIT24ECE025,Rahul Mishra,Male,ECE,Electronics and Communication Engineering,2,6.33,74.9,0,Yes,Nagpur,rahul.mishra.400@greenfield.example
+S0401,GIT24ECE026,Nikhil Krishnan,Male,ECE,Electronics and Communication Engineering,2,8.37,88.3,0,Yes,Hyderabad,nikhil.krishnan.401@greenfield.example
+S0402,GIT24ECE027,Ananya Mukherjee,Female,ECE,Electronics and Communication Engineering,2,4.50,74.9,1,No,Vizag,ananya.mukherjee.402@greenfield.example
+S0403,GIT24ECE028,Priya Mishra,Female,ECE,Electronics and Communication Engineering,2,7.56,75.5,0,Yes,Kochi,priya.mishra.403@greenfield.example
+S0404,GIT24ECE029,Trisha Bhatia,Female,ECE,Electronics and Communication Engineering,2,7.39,90.3,0,Yes,Pune,trisha.bhatia.404@greenfield.example
+S0405,GIT24ECE030,Vikram Tiwari,Male,ECE,Electronics and Communication Engineering,2,7.92,74.2,0,No,Jaipur,vikram.tiwari.405@greenfield.example
+S0406,GIT24ECE031,Ira Das,Female,ECE,Electronics and Communication Engineering,2,8.01,77.9,0,Yes,Lucknow,ira.das.406@greenfield.example
+S0407,GIT24ECE032,Trisha Deshmukh,Female,ECE,Electronics and Communication Engineering,2,6.93,85.2,0,No,Kochi,trisha.deshmukh.407@greenfield.example
+S0408,GIT24ECE033,Lokesh Varghese,Male,ECE,Electronics and Communication Engineering,2,8.36,79.2,0,Yes,Mysuru,lokesh.varghese.408@greenfield.example
+S0409,GIT24ECE034,Pallavi Pillai,Female,ECE,Electronics and Communication Engineering,2,8.10,75.3,0,Yes,Kolkata,pallavi.pillai.409@greenfield.example
+S0410,GIT24ECE035,Deepak Agarwal,Male,ECE,Electronics and Communication Engineering,2,8.78,83.7,0,No,Coimbatore,deepak.agarwal.410@greenfield.example
+S0411,GIT24ECE036,Manish Siddiqui,Male,ECE,Electronics and Communication Engineering,2,6.33,87.2,0,No,Kolkata,manish.siddiqui.411@greenfield.example
+S0412,GIT24ECE037,Vidya Gupta,Female,ECE,Electronics and Communication Engineering,2,7.53,70.3,0,No,Mumbai,vidya.gupta.412@greenfield.example
+S0413,GIT24ECE038,Devansh Nair,Male,ECE,Electronics and Communication Engineering,2,7.69,96.8,0,Yes,Kochi,devansh.nair.413@greenfield.example
+S0414,GIT24ECE039,Urvi Ghosh,Female,ECE,Electronics and Communication Engineering,2,6.77,73.4,0,Yes,Lucknow,urvi.ghosh.414@greenfield.example
+S0415,GIT24ECE040,Deepak Nair,Male,ECE,Electronics and Communication Engineering,2,8.52,82.7,0,Yes,Kolkata,deepak.nair.415@greenfield.example
+S0416,GIT24ECE041,Varun Banerjee,Male,ECE,Electronics and Communication Engineering,2,5.55,80.2,0,Yes,Bengaluru,varun.banerjee.416@greenfield.example
+S0417,GIT24ECE042,Vikram Sethi,Male,ECE,Electronics and Communication Engineering,2,7.08,91.9,0,Yes,Bengaluru,vikram.sethi.417@greenfield.example
+S0418,GIT24ECE043,Suresh Verma,Male,ECE,Electronics and Communication Engineering,2,7.28,81.4,0,Yes,Kolkata,suresh.verma.418@greenfield.example
+S0419,GIT24ECE044,Vidya Tiwari,Female,ECE,Electronics and Communication Engineering,2,8.12,100.0,0,Yes,Jaipur,vidya.tiwari.419@greenfield.example
+S0420,GIT24ECE045,Garima Mehta,Female,ECE,Electronics and Communication Engineering,2,6.06,73.4,0,Yes,Hyderabad,garima.mehta.420@greenfield.example
+S0421,GIT24ECE046,Isha Thomas,Female,ECE,Electronics and Communication Engineering,2,8.29,78.9,0,Yes,Coimbatore,isha.thomas.421@greenfield.example
+S0422,GIT24ECE047,Pranav Kulkarni,Male,ECE,Electronics and Communication Engineering,2,6.92,78.3,0,No,Bhopal,pranav.kulkarni.422@greenfield.example
+S0423,GIT24ECE048,Yashika Venkatesh,Female,ECE,Electronics and Communication Engineering,2,5.70,100.0,0,No,Kolkata,yashika.venkatesh.423@greenfield.example
+S0424,GIT24ECE049,Rahul Mehta,Male,ECE,Electronics and Communication Engineering,2,7.00,81.7,0,No,Vizag,rahul.mehta.424@greenfield.example
+S0425,GIT24ECE050,Suresh Krishnan,Male,ECE,Electronics and Communication Engineering,2,7.27,67.3,0,Yes,Bengaluru,suresh.krishnan.425@greenfield.example
+S0426,GIT24ECE051,Janaki Ghosh,Female,ECE,Electronics and Communication Engineering,2,7.72,69.3,0,No,Hyderabad,janaki.ghosh.426@greenfield.example
+S0427,GIT24ECE052,Kabir Venkatesh,Male,ECE,Electronics and Communication Engineering,2,5.63,77.3,0,Yes,Coimbatore,kabir.venkatesh.427@greenfield.example
+S0428,GIT24ECE053,Ritvik Sharma,Male,ECE,Electronics and Communication Engineering,2,7.36,69.2,0,Yes,Bhopal,ritvik.sharma.428@greenfield.example
+S0429,GIT24ECE054,Rhea DSouza,Female,ECE,Electronics and Communication Engineering,2,8.29,76.2,0,No,Hyderabad,rhea.dsouza.429@greenfield.example
+S0430,GIT24ECE055,Tanvi Desai,Female,ECE,Electronics and Communication Engineering,2,7.09,68.2,0,No,Hyderabad,tanvi.desai.430@greenfield.example
+S0431,GIT24ECE056,Neeraj Rao,Male,ECE,Electronics and Communication Engineering,2,6.66,100.0,0,No,Mumbai,neeraj.rao.431@greenfield.example
+S0432,GIT24ECE057,Akash Kurian,Male,ECE,Electronics and Communication Engineering,2,9.31,87.2,2,No,Pune,akash.kurian.432@greenfield.example
+S0433,GIT24ECE058,Arjun Krishnan,Male,ECE,Electronics and Communication Engineering,2,6.75,84.9,0,No,Kolkata,arjun.krishnan.433@greenfield.example
+S0434,GIT24ECE059,Yashika Gupta,Female,ECE,Electronics and Communication Engineering,2,6.98,89.5,0,No,Kolkata,yashika.gupta.434@greenfield.example
+S0435,GIT24ECE060,Vijay Sharma,Male,ECE,Electronics and Communication Engineering,2,5.12,84.9,1,Yes,Mysuru,vijay.sharma.435@greenfield.example
+S0436,GIT24ECE061,Aarohi Yadav,Female,ECE,Electronics and Communication Engineering,2,8.02,78.0,0,Yes,Vizag,aarohi.yadav.436@greenfield.example
+S0437,GIT24ECE062,Kunal Kurian,Male,ECE,Electronics and Communication Engineering,2,6.65,78.3,0,No,Nagpur,kunal.kurian.437@greenfield.example
+S0438,GIT24ECE063,Suresh Venkatesh,Male,ECE,Electronics and Communication Engineering,2,8.39,71.4,0,No,Mumbai,suresh.venkatesh.438@greenfield.example
+S0439,GIT24ECE064,Karthik Mukherjee,Male,ECE,Electronics and Communication Engineering,2,8.35,76.0,0,Yes,Coimbatore,karthik.mukherjee.439@greenfield.example
+S0440,GIT24ECE065,Vidya Chatterjee,Female,ECE,Electronics and Communication Engineering,2,6.48,79.3,1,No,Jaipur,vidya.chatterjee.440@greenfield.example
+S0441,GIT24ECE066,Farhan Bhatia,Male,ECE,Electronics and Communication Engineering,2,9.90,94.0,0,Yes,Nagpur,farhan.bhatia.441@greenfield.example
+S0442,GIT24ECE067,Ojasvi Tiwari,Female,ECE,Electronics and Communication Engineering,2,6.69,88.9,1,No,Bengaluru,ojasvi.tiwari.442@greenfield.example
+S0443,GIT24ECE068,Radhika Malhotra,Female,ECE,Electronics and Communication Engineering,2,7.41,75.8,0,No,Mysuru,radhika.malhotra.443@greenfield.example
+S0444,GIT24ECE069,Imran Gowda,Male,ECE,Electronics and Communication Engineering,2,7.83,88.3,0,No,Kolkata,imran.gowda.444@greenfield.example
+S0445,GIT24ECE070,Harini Gowda,Female,ECE,Electronics and Communication Engineering,2,9.11,76.6,0,Yes,Hyderabad,harini.gowda.445@greenfield.example
+S0446,GIT24ECE071,Mahika Thakur,Female,ECE,Electronics and Communication Engineering,2,6.55,79.0,0,Yes,Lucknow,mahika.thakur.446@greenfield.example
+S0447,GIT24ECE072,Aditi Ahmed,Female,ECE,Electronics and Communication Engineering,2,4.88,89.6,1,No,Chennai,aditi.ahmed.447@greenfield.example
+S0448,GIT24ECE073,Suresh Raman,Male,ECE,Electronics and Communication Engineering,2,8.81,85.6,0,Yes,Vizag,suresh.raman.448@greenfield.example
+S0449,GIT24ECE074,Priya Pillai,Female,ECE,Electronics and Communication Engineering,2,5.62,79.4,1,Yes,Jaipur,priya.pillai.449@greenfield.example
+S0450,GIT24ECE075,Zoya George,Female,ECE,Electronics and Communication Engineering,2,7.71,95.4,0,Yes,Hyderabad,zoya.george.450@greenfield.example
+S0451,GIT23ECE001,Lokesh Kulkarni,Male,ECE,Electronics and Communication Engineering,3,6.55,66.1,0,No,Delhi,lokesh.kulkarni.451@greenfield.example
+S0452,GIT23ECE002,Pranav Agarwal,Male,ECE,Electronics and Communication Engineering,3,8.55,63.0,0,Yes,Mysuru,pranav.agarwal.452@greenfield.example
+S0453,GIT23ECE003,Aditi Thomas,Female,ECE,Electronics and Communication Engineering,3,8.44,91.5,0,Yes,Mysuru,aditi.thomas.453@greenfield.example
+S0454,GIT23ECE004,Priya Malhotra,Female,ECE,Electronics and Communication Engineering,3,6.94,92.0,0,Yes,Lucknow,priya.malhotra.454@greenfield.example
+S0455,GIT23ECE005,Uday Das,Male,ECE,Electronics and Communication Engineering,3,8.19,88.1,0,No,Bengaluru,uday.das.455@greenfield.example
+S0456,GIT23ECE006,Vaishnavi Hegde,Female,ECE,Electronics and Communication Engineering,3,7.15,63.8,0,No,Nagpur,vaishnavi.hegde.456@greenfield.example
+S0457,GIT23ECE007,Varun Agarwal,Male,ECE,Electronics and Communication Engineering,3,8.34,82.6,0,Yes,Coimbatore,varun.agarwal.457@greenfield.example
+S0458,GIT23ECE008,Neeraj Sharma,Male,ECE,Electronics and Communication Engineering,3,7.00,74.9,0,Yes,Mysuru,neeraj.sharma.458@greenfield.example
+S0459,GIT23ECE009,Tejas Desai,Male,ECE,Electronics and Communication Engineering,3,6.74,78.1,0,No,Kolkata,tejas.desai.459@greenfield.example
+S0460,GIT23ECE010,Aditi George,Female,ECE,Electronics and Communication Engineering,3,7.94,95.8,0,Yes,Bengaluru,aditi.george.460@greenfield.example
+S0461,GIT23ECE011,Sameer Ghosh,Male,ECE,Electronics and Communication Engineering,3,5.10,80.2,3,No,Mumbai,sameer.ghosh.461@greenfield.example
+S0462,GIT23ECE012,Garima Chauhan,Female,ECE,Electronics and Communication Engineering,3,5.70,71.7,0,Yes,Mysuru,garima.chauhan.462@greenfield.example
+S0463,GIT23ECE013,Gauri Varghese,Female,ECE,Electronics and Communication Engineering,3,8.01,74.9,0,No,Jaipur,gauri.varghese.463@greenfield.example
+S0464,GIT23ECE014,Bharat Ghosh,Male,ECE,Electronics and Communication Engineering,3,7.32,92.8,0,No,Mumbai,bharat.ghosh.464@greenfield.example
+S0465,GIT23ECE015,Pallavi Shetty,Female,ECE,Electronics and Communication Engineering,3,7.35,81.3,0,Yes,Delhi,pallavi.shetty.465@greenfield.example
+S0466,GIT23ECE016,Neeraj Bhat,Male,ECE,Electronics and Communication Engineering,3,6.95,73.5,0,No,Bengaluru,neeraj.bhat.466@greenfield.example
+S0467,GIT23ECE017,Varun Verma,Male,ECE,Electronics and Communication Engineering,3,6.84,99.2,1,Yes,Kolkata,varun.verma.467@greenfield.example
+S0468,GIT23ECE018,Tejas Rao,Male,ECE,Electronics and Communication Engineering,3,8.27,68.1,0,No,Vizag,tejas.rao.468@greenfield.example
+S0469,GIT23ECE019,Kiran DSouza,Male,ECE,Electronics and Communication Engineering,3,7.85,78.3,0,Yes,Nagpur,kiran.dsouza.469@greenfield.example
+S0470,GIT23ECE020,Aarohi Desai,Female,ECE,Electronics and Communication Engineering,3,7.75,97.2,0,Yes,Lucknow,aarohi.desai.470@greenfield.example
+S0471,GIT23ECE021,Vikram Reddy,Male,ECE,Electronics and Communication Engineering,3,6.46,66.2,0,Yes,Mumbai,vikram.reddy.471@greenfield.example
+S0472,GIT23ECE022,Deepak Varghese,Male,ECE,Electronics and Communication Engineering,3,8.50,90.2,0,Yes,Pune,deepak.varghese.472@greenfield.example
+S0473,GIT23ECE023,Sneha Chauhan,Female,ECE,Electronics and Communication Engineering,3,7.34,75.0,0,No,Mysuru,sneha.chauhan.473@greenfield.example
+S0474,GIT23ECE024,Pranav Gupta,Male,ECE,Electronics and Communication Engineering,3,6.91,83.1,0,Yes,Chennai,pranav.gupta.474@greenfield.example
+S0475,GIT23ECE025,Imran Kapoor,Male,ECE,Electronics and Communication Engineering,3,7.19,85.5,0,No,Kochi,imran.kapoor.475@greenfield.example
+S0476,GIT23ECE026,Dhruv Kurian,Male,ECE,Electronics and Communication Engineering,3,8.30,77.4,0,No,Kochi,dhruv.kurian.476@greenfield.example
+S0477,GIT23ECE027,Rahul Chatterjee,Male,ECE,Electronics and Communication Engineering,3,9.27,89.3,0,No,Lucknow,rahul.chatterjee.477@greenfield.example
+S0478,GIT23ECE028,Divya Reddy,Female,ECE,Electronics and Communication Engineering,3,7.99,90.7,0,No,Nagpur,divya.reddy.478@greenfield.example
+S0479,GIT23ECE029,Dhruv Fernandes,Male,ECE,Electronics and Communication Engineering,3,7.93,77.1,0,Yes,Jaipur,dhruv.fernandes.479@greenfield.example
+S0480,GIT23ECE030,Farhan Pillai,Male,ECE,Electronics and Communication Engineering,3,8.71,73.8,0,No,Bhopal,farhan.pillai.480@greenfield.example
+S0481,GIT23ECE031,Riya Agarwal,Female,ECE,Electronics and Communication Engineering,3,8.28,74.5,0,Yes,Delhi,riya.agarwal.481@greenfield.example
+S0482,GIT23ECE032,Zoya Thomas,Female,ECE,Electronics and Communication Engineering,3,7.19,72.9,0,No,Chennai,zoya.thomas.482@greenfield.example
+S0483,GIT23ECE033,Tanmay Dubey,Male,ECE,Electronics and Communication Engineering,3,8.76,81.6,0,Yes,Chennai,tanmay.dubey.483@greenfield.example
+S0484,GIT23ECE034,Falguni Khan,Female,ECE,Electronics and Communication Engineering,3,8.01,95.0,0,Yes,Lucknow,falguni.khan.484@greenfield.example
+S0485,GIT23ECE035,Indira Khan,Female,ECE,Electronics and Communication Engineering,3,8.27,78.4,0,No,Hyderabad,indira.khan.485@greenfield.example
+S0486,GIT23ECE036,Mansi Chatterjee,Female,ECE,Electronics and Communication Engineering,3,5.65,85.5,0,No,Kolkata,mansi.chatterjee.486@greenfield.example
+S0487,GIT23ECE037,Komal Thakur,Female,ECE,Electronics and Communication Engineering,3,8.37,86.5,0,Yes,Mumbai,komal.thakur.487@greenfield.example
+S0488,GIT23ECE038,Diya Mukherjee,Female,ECE,Electronics and Communication Engineering,3,6.86,83.9,0,Yes,Bengaluru,diya.mukherjee.488@greenfield.example
+S0489,GIT23ECE039,Isha Kulkarni,Female,ECE,Electronics and Communication Engineering,3,6.32,81.3,0,No,Nagpur,isha.kulkarni.489@greenfield.example
+S0490,GIT23ECE040,Pranav Nair,Male,ECE,Electronics and Communication Engineering,3,7.85,82.2,0,No,Kochi,pranav.nair.490@greenfield.example
+S0491,GIT23ECE041,Ganesh Fernandes,Male,ECE,Electronics and Communication Engineering,3,9.54,75.2,0,No,Pune,ganesh.fernandes.491@greenfield.example
+S0492,GIT23ECE042,Komal Arora,Female,ECE,Electronics and Communication Engineering,3,6.74,80.3,0,Yes,Lucknow,komal.arora.492@greenfield.example
+S0493,GIT23ECE043,Rhea Mathew,Female,ECE,Electronics and Communication Engineering,3,5.76,72.5,0,Yes,Hyderabad,rhea.mathew.493@greenfield.example
+S0494,GIT23ECE044,Yashika Saxena,Female,ECE,Electronics and Communication Engineering,3,8.33,72.0,0,No,Vizag,yashika.saxena.494@greenfield.example
+S0495,GIT23ECE045,Janaki Kapoor,Female,ECE,Electronics and Communication Engineering,3,7.26,100.0,0,No,Mumbai,janaki.kapoor.495@greenfield.example
+S0496,GIT23ECE046,Lokesh Thakur,Male,ECE,Electronics and Communication Engineering,3,7.69,84.9,0,No,Bhopal,lokesh.thakur.496@greenfield.example
+S0497,GIT23ECE047,Suresh Desai,Male,ECE,Electronics and Communication Engineering,3,7.26,86.0,0,Yes,Mumbai,suresh.desai.497@greenfield.example
+S0498,GIT23ECE048,Uma Chatterjee,Female,ECE,Electronics and Communication Engineering,3,7.05,100.0,0,Yes,Bhopal,uma.chatterjee.498@greenfield.example
+S0499,GIT23ECE049,Aditi Banerjee,Female,ECE,Electronics and Communication Engineering,3,6.62,79.3,0,No,Coimbatore,aditi.banerjee.499@greenfield.example
+S0500,GIT23ECE050,Manish Raman,Male,ECE,Electronics and Communication Engineering,3,7.10,72.2,0,Yes,Delhi,manish.raman.500@greenfield.example
+S0501,GIT23ECE051,Pavan Thomas,Male,ECE,Electronics and Communication Engineering,3,6.37,79.3,0,No,Pune,pavan.thomas.501@greenfield.example
+S0502,GIT23ECE052,Mansi Bhat,Female,ECE,Electronics and Communication Engineering,3,6.72,100.0,0,No,Delhi,mansi.bhat.502@greenfield.example
+S0503,GIT23ECE053,Gauri Chatterjee,Female,ECE,Electronics and Communication Engineering,3,7.41,71.0,0,Yes,Hyderabad,gauri.chatterjee.503@greenfield.example
+S0504,GIT23ECE054,Manish Malhotra,Male,ECE,Electronics and Communication Engineering,3,7.12,93.9,0,No,Jaipur,manish.malhotra.504@greenfield.example
+S0505,GIT23ECE055,Vijay Reddy,Male,ECE,Electronics and Communication Engineering,3,7.11,83.9,0,No,Pune,vijay.reddy.505@greenfield.example
+S0506,GIT23ECE056,Rhea Sethi,Female,ECE,Electronics and Communication Engineering,3,8.41,87.7,0,No,Bhopal,rhea.sethi.506@greenfield.example
+S0507,GIT23ECE057,Lokesh Dubey,Male,ECE,Electronics and Communication Engineering,3,7.74,80.6,0,Yes,Mumbai,lokesh.dubey.507@greenfield.example
+S0508,GIT23ECE058,Yuvraj Desai,Male,ECE,Electronics and Communication Engineering,3,8.62,84.7,0,Yes,Jaipur,yuvraj.desai.508@greenfield.example
+S0509,GIT23ECE059,Deepa Reddy,Female,ECE,Electronics and Communication Engineering,3,7.12,86.1,0,No,Jaipur,deepa.reddy.509@greenfield.example
+S0510,GIT23ECE060,Barkha Subramanian,Female,ECE,Electronics and Communication Engineering,3,7.71,93.9,0,No,Bengaluru,barkha.subramanian.510@greenfield.example
+S0511,GIT23ECE061,Jhanvi Pillai,Female,ECE,Electronics and Communication Engineering,3,7.85,94.6,0,No,Delhi,jhanvi.pillai.511@greenfield.example
+S0512,GIT23ECE062,Uday Verma,Male,ECE,Electronics and Communication Engineering,3,8.06,80.0,0,Yes,Bhopal,uday.verma.512@greenfield.example
+S0513,GIT23ECE063,Tarun Kurian,Male,ECE,Electronics and Communication Engineering,3,7.98,90.9,0,Yes,Mysuru,tarun.kurian.513@greenfield.example
+S0514,GIT23ECE064,Ramesh Verma,Male,ECE,Electronics and Communication Engineering,3,8.09,74.9,0,No,Mysuru,ramesh.verma.514@greenfield.example
+S0515,GIT23ECE065,Pooja Raman,Female,ECE,Electronics and Communication Engineering,3,7.61,79.4,0,Yes,Mysuru,pooja.raman.515@greenfield.example
+S0516,GIT23ECE066,Ritvik Reddy,Male,ECE,Electronics and Communication Engineering,3,7.16,78.5,0,Yes,Lucknow,ritvik.reddy.516@greenfield.example
+S0517,GIT23ECE067,Komal Khan,Female,ECE,Electronics and Communication Engineering,3,6.19,80.2,0,Yes,Bengaluru,komal.khan.517@greenfield.example
+S0518,GIT23ECE068,Barkha Joshi,Female,ECE,Electronics and Communication Engineering,3,8.34,100.0,0,No,Bengaluru,barkha.joshi.518@greenfield.example
+S0519,GIT23ECE069,Yashika Kurian,Female,ECE,Electronics and Communication Engineering,3,7.40,81.2,0,No,Pune,yashika.kurian.519@greenfield.example
+S0520,GIT23ECE070,Omkar Chatterjee,Male,ECE,Electronics and Communication Engineering,3,8.34,73.5,0,No,Coimbatore,omkar.chatterjee.520@greenfield.example
+S0521,GIT23ECE071,Deepak Raman,Male,ECE,Electronics and Communication Engineering,3,7.30,76.4,0,Yes,Coimbatore,deepak.raman.521@greenfield.example
+S0522,GIT23ECE072,Divya Banerjee,Female,ECE,Electronics and Communication Engineering,3,6.64,87.0,0,No,Kolkata,divya.banerjee.522@greenfield.example
+S0523,GIT23ECE073,Vaishnavi Kulkarni,Female,ECE,Electronics and Communication Engineering,3,7.60,78.6,0,No,Bhopal,vaishnavi.kulkarni.523@greenfield.example
+S0524,GIT23ECE074,Kabir Ahmed,Male,ECE,Electronics and Communication Engineering,3,8.70,80.8,0,Yes,Kolkata,kabir.ahmed.524@greenfield.example
+S0525,GIT23ECE075,Aarav Patel,Male,ECE,Electronics and Communication Engineering,3,6.50,90.3,0,Yes,Hyderabad,aarav.patel.525@greenfield.example
+S0526,GIT22ECE001,Ritvik Sen,Male,ECE,Electronics and Communication Engineering,4,6.75,79.9,0,No,Vizag,ritvik.sen.526@greenfield.example
+S0527,GIT22ECE002,Sanjay Fernandes,Male,ECE,Electronics and Communication Engineering,4,9.17,93.8,0,Yes,Chennai,sanjay.fernandes.527@greenfield.example
+S0528,GIT22ECE003,Yuvraj George,Male,ECE,Electronics and Communication Engineering,4,7.41,83.2,0,No,Jaipur,yuvraj.george.528@greenfield.example
+S0529,GIT22ECE004,Fatima Nair,Female,ECE,Electronics and Communication Engineering,4,7.42,65.3,0,Yes,Mysuru,fatima.nair.529@greenfield.example
+S0530,GIT22ECE005,Saanvi Deshmukh,Female,ECE,Electronics and Communication Engineering,4,6.14,75.6,0,Yes,Bengaluru,saanvi.deshmukh.530@greenfield.example
+S0531,GIT22ECE006,Ritvik Siddiqui,Male,ECE,Electronics and Communication Engineering,4,6.19,87.4,0,No,Bengaluru,ritvik.siddiqui.531@greenfield.example
+S0532,GIT22ECE007,Ananya Menon,Female,ECE,Electronics and Communication Engineering,4,6.56,78.5,2,No,Delhi,ananya.menon.532@greenfield.example
+S0533,GIT22ECE008,Indira Singh,Female,ECE,Electronics and Communication Engineering,4,8.34,77.6,0,No,Mumbai,indira.singh.533@greenfield.example
+S0534,GIT22ECE009,Rhea Singh,Female,ECE,Electronics and Communication Engineering,4,7.97,78.4,0,No,Hyderabad,rhea.singh.534@greenfield.example
+S0535,GIT22ECE010,Shreya Kapoor,Female,ECE,Electronics and Communication Engineering,4,8.62,97.4,0,No,Chennai,shreya.kapoor.535@greenfield.example
+S0536,GIT22ECE011,Komal Iyer,Female,ECE,Electronics and Communication Engineering,4,6.04,79.1,0,No,Mysuru,komal.iyer.536@greenfield.example
+S0537,GIT22ECE012,Pranav Yadav,Male,ECE,Electronics and Communication Engineering,4,4.82,87.3,0,Yes,Vizag,pranav.yadav.537@greenfield.example
+S0538,GIT22ECE013,Vaishnavi Kapoor,Female,ECE,Electronics and Communication Engineering,4,6.73,100.0,2,Yes,Delhi,vaishnavi.kapoor.538@greenfield.example
+S0539,GIT22ECE014,Ishaan Dubey,Male,ECE,Electronics and Communication Engineering,4,9.37,90.3,0,No,Kolkata,ishaan.dubey.539@greenfield.example
+S0540,GIT22ECE015,Harini Sen,Female,ECE,Electronics and Communication Engineering,4,7.76,73.8,0,No,Vizag,harini.sen.540@greenfield.example
+S0541,GIT22ECE016,Tejas Hegde,Male,ECE,Electronics and Communication Engineering,4,6.84,68.4,0,No,Delhi,tejas.hegde.541@greenfield.example
+S0542,GIT22ECE017,Ananya Banerjee,Female,ECE,Electronics and Communication Engineering,4,5.78,81.2,3,Yes,Lucknow,ananya.banerjee.542@greenfield.example
+S0543,GIT22ECE018,Aditi Shetty,Female,ECE,Electronics and Communication Engineering,4,7.85,82.2,0,No,Chennai,aditi.shetty.543@greenfield.example
+S0544,GIT22ECE019,Utkarsh Desai,Male,ECE,Electronics and Communication Engineering,4,8.37,84.1,0,No,Bhopal,utkarsh.desai.544@greenfield.example
+S0545,GIT22ECE020,Yashika Desai,Female,ECE,Electronics and Communication Engineering,4,7.30,66.6,0,Yes,Delhi,yashika.desai.545@greenfield.example
+S0546,GIT22ECE021,Vidya Raman,Female,ECE,Electronics and Communication Engineering,4,7.83,75.1,0,Yes,Coimbatore,vidya.raman.546@greenfield.example
+S0547,GIT22ECE022,Garima Siddiqui,Female,ECE,Electronics and Communication Engineering,4,7.56,84.2,0,No,Delhi,garima.siddiqui.547@greenfield.example
+S0548,GIT22ECE023,Zoya Venkatesh,Female,ECE,Electronics and Communication Engineering,4,7.44,90.6,0,No,Kochi,zoya.venkatesh.548@greenfield.example
+S0549,GIT22ECE024,Garima Dubey,Female,ECE,Electronics and Communication Engineering,4,9.90,75.6,0,No,Vizag,garima.dubey.549@greenfield.example
+S0550,GIT22ECE025,Ramesh George,Male,ECE,Electronics and Communication Engineering,4,7.85,76.2,0,Yes,Mumbai,ramesh.george.550@greenfield.example
+S0551,GIT22ECE026,Riya Saxena,Female,ECE,Electronics and Communication Engineering,4,6.54,71.3,0,Yes,Lucknow,riya.saxena.551@greenfield.example
+S0552,GIT22ECE027,Neeraj Joshi,Male,ECE,Electronics and Communication Engineering,4,8.69,79.1,0,Yes,Delhi,neeraj.joshi.552@greenfield.example
+S0553,GIT22ECE028,Kritika Shetty,Female,ECE,Electronics and Communication Engineering,4,7.29,67.0,0,No,Delhi,kritika.shetty.553@greenfield.example
+S0554,GIT22ECE029,Jatin Chandra,Male,ECE,Electronics and Communication Engineering,4,9.29,86.0,0,Yes,Mumbai,jatin.chandra.554@greenfield.example
+S0555,GIT22ECE030,Ankit Sharma,Male,ECE,Electronics and Communication Engineering,4,6.31,79.0,0,No,Hyderabad,ankit.sharma.555@greenfield.example
+S0556,GIT22ECE031,Ramesh Khanna,Male,ECE,Electronics and Communication Engineering,4,7.27,97.7,0,Yes,Chennai,ramesh.khanna.556@greenfield.example
+S0557,GIT22ECE032,Siddharth Malhotra,Male,ECE,Electronics and Communication Engineering,4,7.49,92.0,0,No,Coimbatore,siddharth.malhotra.557@greenfield.example
+S0558,GIT22ECE033,Lavanya Sharma,Female,ECE,Electronics and Communication Engineering,4,7.12,88.7,0,Yes,Bhopal,lavanya.sharma.558@greenfield.example
+S0559,GIT22ECE034,Lokesh Pillai,Male,ECE,Electronics and Communication Engineering,4,8.14,100.0,0,No,Pune,lokesh.pillai.559@greenfield.example
+S0560,GIT22ECE035,Indira Kapoor,Female,ECE,Electronics and Communication Engineering,4,8.02,78.7,0,Yes,Lucknow,indira.kapoor.560@greenfield.example
+S0561,GIT22ECE036,Ekta Arora,Female,ECE,Electronics and Communication Engineering,4,8.60,88.8,0,No,Kolkata,ekta.arora.561@greenfield.example
+S0562,GIT22ECE037,Sameer Singh,Male,ECE,Electronics and Communication Engineering,4,5.74,82.7,0,Yes,Mumbai,sameer.singh.562@greenfield.example
+S0563,GIT22ECE038,Siddharth Joshi,Male,ECE,Electronics and Communication Engineering,4,6.93,82.3,0,Yes,Chennai,siddharth.joshi.563@greenfield.example
+S0564,GIT22ECE039,Hemant George,Male,ECE,Electronics and Communication Engineering,4,7.32,87.6,0,No,Kolkata,hemant.george.564@greenfield.example
+S0565,GIT22ECE040,Vikram Naidu,Male,ECE,Electronics and Communication Engineering,4,7.13,82.6,0,No,Bengaluru,vikram.naidu.565@greenfield.example
+S0566,GIT22ECE041,Hemant Mathew,Male,ECE,Electronics and Communication Engineering,4,8.18,95.4,0,No,Mysuru,hemant.mathew.566@greenfield.example
+S0567,GIT22ECE042,Zoya Pillai,Female,ECE,Electronics and Communication Engineering,4,6.83,83.7,0,Yes,Pune,zoya.pillai.567@greenfield.example
+S0568,GIT22ECE043,Radhika Kapoor,Female,ECE,Electronics and Communication Engineering,4,7.36,84.4,0,No,Kochi,radhika.kapoor.568@greenfield.example
+S0569,GIT22ECE044,Kiran Iyer,Male,ECE,Electronics and Communication Engineering,4,6.46,64.6,0,No,Chennai,kiran.iyer.569@greenfield.example
+S0570,GIT22ECE045,Navya Varghese,Female,ECE,Electronics and Communication Engineering,4,9.38,84.2,0,Yes,Pune,navya.varghese.570@greenfield.example
+S0571,GIT22ECE046,Aditya Joshi,Male,ECE,Electronics and Communication Engineering,4,6.79,88.4,0,No,Jaipur,aditya.joshi.571@greenfield.example
+S0572,GIT22ECE047,Rhea Dubey,Female,ECE,Electronics and Communication Engineering,4,6.92,85.3,0,No,Coimbatore,rhea.dubey.572@greenfield.example
+S0573,GIT22ECE048,Madhav Gupta,Male,ECE,Electronics and Communication Engineering,4,7.99,63.7,0,No,Nagpur,madhav.gupta.573@greenfield.example
+S0574,GIT22ECE049,Chirag Sethi,Male,ECE,Electronics and Communication Engineering,4,8.49,70.5,0,No,Mumbai,chirag.sethi.574@greenfield.example
+S0575,GIT22ECE050,Navya Naidu,Female,ECE,Electronics and Communication Engineering,4,7.89,80.6,0,No,Hyderabad,navya.naidu.575@greenfield.example
+S0576,GIT22ECE051,Indira Siddiqui,Female,ECE,Electronics and Communication Engineering,4,8.59,75.9,0,No,Mysuru,indira.siddiqui.576@greenfield.example
+S0577,GIT22ECE052,Ekta Sen,Female,ECE,Electronics and Communication Engineering,4,9.69,80.4,0,Yes,Delhi,ekta.sen.577@greenfield.example
+S0578,GIT22ECE053,Deepak Chandra,Male,ECE,Electronics and Communication Engineering,4,5.55,94.2,0,No,Chennai,deepak.chandra.578@greenfield.example
+S0579,GIT22ECE054,Ojasvi Chandra,Female,ECE,Electronics and Communication Engineering,4,7.71,95.7,0,Yes,Kolkata,ojasvi.chandra.579@greenfield.example
+S0580,GIT22ECE055,Kunal Yadav,Male,ECE,Electronics and Communication Engineering,4,8.04,94.4,0,Yes,Nagpur,kunal.yadav.580@greenfield.example
+S0581,GIT22ECE056,Vikram Khanna,Male,ECE,Electronics and Communication Engineering,4,9.33,76.1,0,Yes,Lucknow,vikram.khanna.581@greenfield.example
+S0582,GIT22ECE057,Ramesh Kapoor,Male,ECE,Electronics and Communication Engineering,4,7.76,85.8,0,No,Mysuru,ramesh.kapoor.582@greenfield.example
+S0583,GIT22ECE058,Arjun Raman,Male,ECE,Electronics and Communication Engineering,4,9.72,79.5,0,Yes,Lucknow,arjun.raman.583@greenfield.example
+S0584,GIT22ECE059,Rajat Iyer,Male,ECE,Electronics and Communication Engineering,4,8.91,94.3,0,Yes,Coimbatore,rajat.iyer.584@greenfield.example
+S0585,GIT22ECE060,Ira Sethi,Female,ECE,Electronics and Communication Engineering,4,6.69,87.9,0,Yes,Coimbatore,ira.sethi.585@greenfield.example
+S0586,GIT22ECE061,Rhea Joshi,Female,ECE,Electronics and Communication Engineering,4,7.61,81.8,0,Yes,Pune,rhea.joshi.586@greenfield.example
+S0587,GIT22ECE062,Kabir Mehta,Male,ECE,Electronics and Communication Engineering,4,9.07,63.4,0,No,Jaipur,kabir.mehta.587@greenfield.example
+S0588,GIT22ECE063,Navya Ahmed,Female,ECE,Electronics and Communication Engineering,4,7.92,94.4,0,No,Bengaluru,navya.ahmed.588@greenfield.example
+S0589,GIT22ECE064,Pranav Sethi,Male,ECE,Electronics and Communication Engineering,4,6.85,85.0,0,Yes,Jaipur,pranav.sethi.589@greenfield.example
+S0590,GIT22ECE065,Vivaan Arora,Male,ECE,Electronics and Communication Engineering,4,8.47,84.5,0,No,Kolkata,vivaan.arora.590@greenfield.example
+S0591,GIT22ECE066,Uday Sen,Male,ECE,Electronics and Communication Engineering,4,6.13,94.0,1,No,Mumbai,uday.sen.591@greenfield.example
+S0592,GIT22ECE067,Vaishnavi Varghese,Female,ECE,Electronics and Communication Engineering,4,7.36,76.2,0,No,Lucknow,vaishnavi.varghese.592@greenfield.example
+S0593,GIT22ECE068,Kiran Pillai,Male,ECE,Electronics and Communication Engineering,4,5.09,81.3,2,No,Jaipur,kiran.pillai.593@greenfield.example
+S0594,GIT22ECE069,Dhruv George,Male,ECE,Electronics and Communication Engineering,4,6.74,90.6,0,No,Kolkata,dhruv.george.594@greenfield.example
+S0595,GIT22ECE070,Vikram Mukherjee,Male,ECE,Electronics and Communication Engineering,4,7.96,80.3,0,Yes,Mysuru,vikram.mukherjee.595@greenfield.example
+S0596,GIT22ECE071,Charvi Pillai,Female,ECE,Electronics and Communication Engineering,4,9.56,100.0,0,No,Mysuru,charvi.pillai.596@greenfield.example
+S0597,GIT22ECE072,Fatima Arora,Female,ECE,Electronics and Communication Engineering,4,6.09,82.8,0,No,Kochi,fatima.arora.597@greenfield.example
+S0598,GIT22ECE073,Utkarsh Chandra,Male,ECE,Electronics and Communication Engineering,4,6.36,83.6,1,No,Kolkata,utkarsh.chandra.598@greenfield.example
+S0599,GIT22ECE074,Manish Sharma,Male,ECE,Electronics and Communication Engineering,4,7.00,92.2,0,No,Bhopal,manish.sharma.599@greenfield.example
+S0600,GIT22ECE075,Madhav Naidu,Male,ECE,Electronics and Communication Engineering,4,8.36,70.9,0,No,Coimbatore,madhav.naidu.600@greenfield.example
+S0601,GIT25MECH001,Madhav Venkatesh,Male,MECH,Mechanical Engineering,1,8.03,83.0,0,No,Bengaluru,madhav.venkatesh.601@greenfield.example
+S0602,GIT25MECH002,Uma Venkatesh,Female,MECH,Mechanical Engineering,1,7.13,80.5,0,No,Bengaluru,uma.venkatesh.602@greenfield.example
+S0603,GIT25MECH003,Hema Mehta,Female,MECH,Mechanical Engineering,1,5.30,73.6,0,No,Mumbai,hema.mehta.603@greenfield.example
+S0604,GIT25MECH004,Saanvi Menon,Female,MECH,Mechanical Engineering,1,9.90,80.5,0,No,Jaipur,saanvi.menon.604@greenfield.example
+S0605,GIT25MECH005,Naveen Gupta,Male,MECH,Mechanical Engineering,1,7.13,82.0,0,No,Hyderabad,naveen.gupta.605@greenfield.example
+S0606,GIT25MECH006,Mahika Mehta,Female,MECH,Mechanical Engineering,1,8.02,69.4,0,No,Delhi,mahika.mehta.606@greenfield.example
+S0607,GIT25MECH007,Esha Khanna,Female,MECH,Mechanical Engineering,1,8.67,97.4,0,No,Bengaluru,esha.khanna.607@greenfield.example
+S0608,GIT25MECH008,Nandini Hegde,Female,MECH,Mechanical Engineering,1,7.15,77.3,0,No,Mumbai,nandini.hegde.608@greenfield.example
+S0609,GIT25MECH009,Garima Reddy,Female,MECH,Mechanical Engineering,1,9.90,84.0,0,No,Mumbai,garima.reddy.609@greenfield.example
+S0610,GIT25MECH010,Pallavi Singh,Female,MECH,Mechanical Engineering,1,7.55,79.0,0,No,Nagpur,pallavi.singh.610@greenfield.example
+S0611,GIT25MECH011,Sneha Nair,Female,MECH,Mechanical Engineering,1,5.83,72.6,0,No,Mysuru,sneha.nair.611@greenfield.example
+S0612,GIT25MECH012,Utkarsh Chauhan,Male,MECH,Mechanical Engineering,1,6.05,84.0,0,No,Vizag,utkarsh.chauhan.612@greenfield.example
+S0613,GIT25MECH013,Urvi Desai,Female,MECH,Mechanical Engineering,1,6.73,77.1,0,Yes,Jaipur,urvi.desai.613@greenfield.example
+S0614,GIT25MECH014,Bhavna Tiwari,Female,MECH,Mechanical Engineering,1,7.76,76.1,0,No,Coimbatore,bhavna.tiwari.614@greenfield.example
+S0615,GIT25MECH015,Mayank Verma,Male,MECH,Mechanical Engineering,1,7.20,88.0,0,No,Lucknow,mayank.verma.615@greenfield.example
+S0616,GIT25MECH016,Suresh Rao,Male,MECH,Mechanical Engineering,1,7.21,74.9,0,Yes,Jaipur,suresh.rao.616@greenfield.example
+S0617,GIT25MECH017,Bharat George,Male,MECH,Mechanical Engineering,1,7.45,100.0,0,No,Nagpur,bharat.george.617@greenfield.example
+S0618,GIT25MECH018,Shreya Bhat,Female,MECH,Mechanical Engineering,1,4.87,74.2,0,Yes,Bengaluru,shreya.bhat.618@greenfield.example
+S0619,GIT25MECH019,Nikhil Bhat,Male,MECH,Mechanical Engineering,1,5.12,96.1,0,No,Bhopal,nikhil.bhat.619@greenfield.example
+S0620,GIT25MECH020,Nikhil Raman,Male,MECH,Mechanical Engineering,1,6.31,93.9,0,No,Bengaluru,nikhil.raman.620@greenfield.example
+S0621,GIT25MECH021,Divya Subramanian,Female,MECH,Mechanical Engineering,1,7.19,90.5,0,No,Bengaluru,divya.subramanian.621@greenfield.example
+S0622,GIT25MECH022,Pooja Bhatia,Female,MECH,Mechanical Engineering,1,6.80,90.7,0,Yes,Delhi,pooja.bhatia.622@greenfield.example
+S0623,GIT25MECH023,Akash Agarwal,Male,MECH,Mechanical Engineering,1,6.81,84.5,0,No,Vizag,akash.agarwal.623@greenfield.example
+S0624,GIT25MECH024,Janaki Pandey,Female,MECH,Mechanical Engineering,1,7.58,80.6,0,No,Vizag,janaki.pandey.624@greenfield.example
+S0625,GIT25MECH025,Sameer Khan,Male,MECH,Mechanical Engineering,1,6.90,75.7,0,No,Jaipur,sameer.khan.625@greenfield.example
+S0626,GIT25MECH026,Pavan Sethi,Male,MECH,Mechanical Engineering,1,7.96,86.5,0,No,Kolkata,pavan.sethi.626@greenfield.example
+S0627,GIT25MECH027,Diya Agarwal,Female,MECH,Mechanical Engineering,1,7.41,71.1,0,Yes,Chennai,diya.agarwal.627@greenfield.example
+S0628,GIT25MECH028,Akash Singh,Male,MECH,Mechanical Engineering,1,8.15,93.6,0,Yes,Nagpur,akash.singh.628@greenfield.example
+S0629,GIT25MECH029,Dhruv Venkatesh,Male,MECH,Mechanical Engineering,1,8.65,83.0,0,No,Kolkata,dhruv.venkatesh.629@greenfield.example
+S0630,GIT25MECH030,Siddharth Shah,Male,MECH,Mechanical Engineering,1,9.06,81.5,0,Yes,Lucknow,siddharth.shah.630@greenfield.example
+S0631,GIT25MECH031,Farhan Kulkarni,Male,MECH,Mechanical Engineering,1,7.86,81.7,0,No,Chennai,farhan.kulkarni.631@greenfield.example
+S0632,GIT25MECH032,Aarav Shah,Male,MECH,Mechanical Engineering,1,8.06,92.1,0,Yes,Chennai,aarav.shah.632@greenfield.example
+S0633,GIT25MECH033,Gauri Reddy,Female,MECH,Mechanical Engineering,1,7.53,89.7,0,Yes,Kochi,gauri.reddy.633@greenfield.example
+S0634,GIT25MECH034,Lokesh Khan,Male,MECH,Mechanical Engineering,1,8.55,71.5,0,Yes,Coimbatore,lokesh.khan.634@greenfield.example
+S0635,GIT25MECH035,Arjun Mishra,Male,MECH,Mechanical Engineering,1,6.91,80.5,0,No,Hyderabad,arjun.mishra.635@greenfield.example
+S0636,GIT25MECH036,Esha Sharma,Female,MECH,Mechanical Engineering,1,7.34,92.1,0,No,Lucknow,esha.sharma.636@greenfield.example
+S0637,GIT25MECH037,Ojasvi Hegde,Female,MECH,Mechanical Engineering,1,8.06,78.5,0,Yes,Bhopal,ojasvi.hegde.637@greenfield.example
+S0638,GIT25MECH038,Tara Siddiqui,Female,MECH,Mechanical Engineering,1,7.12,72.6,0,No,Mumbai,tara.siddiqui.638@greenfield.example
+S0639,GIT25MECH039,Ganesh Kurian,Male,MECH,Mechanical Engineering,1,6.86,75.6,0,No,Mysuru,ganesh.kurian.639@greenfield.example
+S0640,GIT25MECH040,Bharat Chauhan,Male,MECH,Mechanical Engineering,1,8.41,89.4,0,No,Vizag,bharat.chauhan.640@greenfield.example
+S0641,GIT25MECH041,Kritika Shah,Female,MECH,Mechanical Engineering,1,6.19,87.3,0,No,Coimbatore,kritika.shah.641@greenfield.example
+S0642,GIT25MECH042,Radhika Sen,Female,MECH,Mechanical Engineering,1,7.75,85.2,0,No,Nagpur,radhika.sen.642@greenfield.example
+S0643,GIT25MECH043,Janaki Rao,Female,MECH,Mechanical Engineering,1,7.45,78.8,0,No,Pune,janaki.rao.643@greenfield.example
+S0644,GIT25MECH044,Urvi Kapoor,Female,MECH,Mechanical Engineering,1,9.68,100.0,0,No,Kolkata,urvi.kapoor.644@greenfield.example
+S0645,GIT25MECH045,Rajat Gupta,Male,MECH,Mechanical Engineering,1,7.13,90.4,0,Yes,Kolkata,rajat.gupta.645@greenfield.example
+S0646,GIT25MECH046,Varun Krishnan,Male,MECH,Mechanical Engineering,1,6.60,49.7,0,Yes,Chennai,varun.krishnan.646@greenfield.example
+S0647,GIT25MECH047,Harsh Mehta,Male,MECH,Mechanical Engineering,1,8.26,85.9,0,No,Chennai,harsh.mehta.647@greenfield.example
+S0648,GIT25MECH048,Jhanvi Sharma,Female,MECH,Mechanical Engineering,1,7.80,90.2,0,No,Lucknow,jhanvi.sharma.648@greenfield.example
+S0649,GIT25MECH049,Mahika Yadav,Female,MECH,Mechanical Engineering,1,7.84,75.9,0,No,Vizag,mahika.yadav.649@greenfield.example
+S0650,GIT25MECH050,Kabir Tiwari,Male,MECH,Mechanical Engineering,1,6.92,86.7,3,Yes,Mumbai,kabir.tiwari.650@greenfield.example
+S0651,GIT25MECH051,Nandini Pillai,Female,MECH,Mechanical Engineering,1,5.41,76.8,1,No,Chennai,nandini.pillai.651@greenfield.example
+S0652,GIT25MECH052,Utkarsh Mathew,Male,MECH,Mechanical Engineering,1,9.50,81.1,0,No,Vizag,utkarsh.mathew.652@greenfield.example
+S0653,GIT25MECH053,Deepak Siddiqui,Male,MECH,Mechanical Engineering,1,6.16,86.9,2,No,Mumbai,deepak.siddiqui.653@greenfield.example
+S0654,GIT25MECH054,Esha Fernandes,Female,MECH,Mechanical Engineering,1,5.87,79.2,0,No,Vizag,esha.fernandes.654@greenfield.example
+S0655,GIT25MECH055,Zoya Gowda,Female,MECH,Mechanical Engineering,1,6.64,96.2,0,Yes,Nagpur,zoya.gowda.655@greenfield.example
+S0656,GIT25MECH056,Ritvik Mishra,Male,MECH,Mechanical Engineering,1,6.95,79.4,0,No,Mysuru,ritvik.mishra.656@greenfield.example
+S0657,GIT25MECH057,Yuvraj Shetty,Male,MECH,Mechanical Engineering,1,7.76,70.3,0,Yes,Hyderabad,yuvraj.shetty.657@greenfield.example
+S0658,GIT25MECH058,Pooja Bose,Female,MECH,Mechanical Engineering,1,7.86,76.8,0,No,Vizag,pooja.bose.658@greenfield.example
+S0659,GIT25MECH059,Suresh Sharma,Male,MECH,Mechanical Engineering,1,7.26,89.1,0,No,Nagpur,suresh.sharma.659@greenfield.example
+S0660,GIT25MECH060,Devansh Deshmukh,Male,MECH,Mechanical Engineering,1,7.52,82.9,0,Yes,Hyderabad,devansh.deshmukh.660@greenfield.example
+S0661,GIT25MECH061,Komal Mehta,Female,MECH,Mechanical Engineering,1,8.82,79.8,0,Yes,Nagpur,komal.mehta.661@greenfield.example
+S0662,GIT25MECH062,Tarun Chandra,Male,MECH,Mechanical Engineering,1,8.76,95.1,0,No,Pune,tarun.chandra.662@greenfield.example
+S0663,GIT25MECH063,Ira Verma,Female,MECH,Mechanical Engineering,1,7.40,82.4,0,No,Jaipur,ira.verma.663@greenfield.example
+S0664,GIT25MECH064,Kavya Nair,Female,MECH,Mechanical Engineering,1,6.91,79.7,0,No,Nagpur,kavya.nair.664@greenfield.example
+S0665,GIT25MECH065,Divya Dubey,Female,MECH,Mechanical Engineering,1,7.48,72.1,0,Yes,Hyderabad,divya.dubey.665@greenfield.example
+S0666,GIT25MECH066,Trisha Bose,Female,MECH,Mechanical Engineering,1,6.88,81.5,2,No,Delhi,trisha.bose.666@greenfield.example
+S0667,GIT25MECH067,Piyush Saxena,Male,MECH,Mechanical Engineering,1,6.50,68.8,0,No,Mumbai,piyush.saxena.667@greenfield.example
+S0668,GIT25MECH068,Deepa DSouza,Female,MECH,Mechanical Engineering,1,6.50,84.2,1,No,Jaipur,deepa.dsouza.668@greenfield.example
+S0669,GIT25MECH069,Neeraj Chauhan,Male,MECH,Mechanical Engineering,1,7.83,85.6,0,No,Coimbatore,neeraj.chauhan.669@greenfield.example
+S0670,GIT25MECH070,Pooja Ghosh,Female,MECH,Mechanical Engineering,1,8.03,87.0,0,Yes,Pune,pooja.ghosh.670@greenfield.example
+S0671,GIT25MECH071,Rajat Patel,Male,MECH,Mechanical Engineering,1,8.58,78.0,0,No,Vizag,rajat.patel.671@greenfield.example
+S0672,GIT25MECH072,Pallavi Sethi,Female,MECH,Mechanical Engineering,1,7.37,74.3,0,Yes,Vizag,pallavi.sethi.672@greenfield.example
+S0673,GIT25MECH073,Kabir Bhat,Male,MECH,Mechanical Engineering,1,7.21,93.1,0,No,Jaipur,kabir.bhat.673@greenfield.example
+S0674,GIT25MECH074,Madhav Thomas,Male,MECH,Mechanical Engineering,1,8.27,67.7,0,No,Nagpur,madhav.thomas.674@greenfield.example
+S0675,GIT25MECH075,Omkar Mehta,Male,MECH,Mechanical Engineering,1,6.24,84.7,0,No,Hyderabad,omkar.mehta.675@greenfield.example
+S0676,GIT24MECH001,Vidya Thakur,Female,MECH,Mechanical Engineering,2,8.40,90.5,0,No,Kolkata,vidya.thakur.676@greenfield.example
+S0677,GIT24MECH002,Vivaan Kulkarni,Male,MECH,Mechanical Engineering,2,6.88,87.0,0,Yes,Lucknow,vivaan.kulkarni.677@greenfield.example
+S0678,GIT24MECH003,Harsh Mishra,Male,MECH,Mechanical Engineering,2,5.92,96.5,0,No,Coimbatore,harsh.mishra.678@greenfield.example
+S0679,GIT24MECH004,Mahika Naidu,Female,MECH,Mechanical Engineering,2,8.18,71.1,0,No,Delhi,mahika.naidu.679@greenfield.example
+S0680,GIT24MECH005,Saanvi Mukherjee,Female,MECH,Mechanical Engineering,2,8.74,86.2,0,No,Jaipur,saanvi.mukherjee.680@greenfield.example
+S0681,GIT24MECH006,Priya Venkatesh,Female,MECH,Mechanical Engineering,2,7.39,88.1,0,Yes,Mumbai,priya.venkatesh.681@greenfield.example
+S0682,GIT24MECH007,Akash Mehta,Male,MECH,Mechanical Engineering,2,7.93,70.2,0,No,Coimbatore,akash.mehta.682@greenfield.example
+S0683,GIT24MECH008,Aditi Reddy,Female,MECH,Mechanical Engineering,2,7.77,89.0,0,No,Bhopal,aditi.reddy.683@greenfield.example
+S0684,GIT24MECH009,Esha Ghosh,Female,MECH,Mechanical Engineering,2,4.90,84.1,0,No,Vizag,esha.ghosh.684@greenfield.example
+S0685,GIT24MECH010,Aditya Shah,Male,MECH,Mechanical Engineering,2,6.40,65.3,0,No,Kochi,aditya.shah.685@greenfield.example
+S0686,GIT24MECH011,Hemant Sethi,Male,MECH,Mechanical Engineering,2,9.07,96.7,1,No,Jaipur,hemant.sethi.686@greenfield.example
+S0687,GIT24MECH012,Karthik Malhotra,Male,MECH,Mechanical Engineering,2,7.30,90.1,0,No,Mumbai,karthik.malhotra.687@greenfield.example
+S0688,GIT24MECH013,Meera Sharma,Female,MECH,Mechanical Engineering,2,5.66,75.2,0,No,Coimbatore,meera.sharma.688@greenfield.example
+S0689,GIT24MECH014,Yuvraj Arora,Male,MECH,Mechanical Engineering,2,6.57,78.4,0,Yes,Mumbai,yuvraj.arora.689@greenfield.example
+S0690,GIT24MECH015,Nikhil Desai,Male,MECH,Mechanical Engineering,2,6.86,82.4,0,No,Kolkata,nikhil.desai.690@greenfield.example
+S0691,GIT24MECH016,Vivaan Shah,Male,MECH,Mechanical Engineering,2,6.89,83.8,0,Yes,Vizag,vivaan.shah.691@greenfield.example
+S0692,GIT24MECH017,Ritvik Raman,Male,MECH,Mechanical Engineering,2,7.52,80.5,0,No,Chennai,ritvik.raman.692@greenfield.example
+S0693,GIT24MECH018,Ishaan Siddiqui,Male,MECH,Mechanical Engineering,2,5.50,78.9,2,No,Kochi,ishaan.siddiqui.693@greenfield.example
+S0694,GIT24MECH019,Tara Kurian,Female,MECH,Mechanical Engineering,2,9.16,91.9,0,Yes,Delhi,tara.kurian.694@greenfield.example
+S0695,GIT24MECH020,Utkarsh Banerjee,Male,MECH,Mechanical Engineering,2,6.88,81.8,0,Yes,Vizag,utkarsh.banerjee.695@greenfield.example
+S0696,GIT24MECH021,Bharat Singh,Male,MECH,Mechanical Engineering,2,7.50,88.5,0,No,Vizag,bharat.singh.696@greenfield.example
+S0697,GIT24MECH022,Aditya Fernandes,Male,MECH,Mechanical Engineering,2,6.65,100.0,0,Yes,Hyderabad,aditya.fernandes.697@greenfield.example
+S0698,GIT24MECH023,Navya Bhatia,Female,MECH,Mechanical Engineering,2,9.19,87.7,0,Yes,Delhi,navya.bhatia.698@greenfield.example
+S0699,GIT24MECH024,Tara Gowda,Female,MECH,Mechanical Engineering,2,7.21,89.1,0,Yes,Mysuru,tara.gowda.699@greenfield.example
+S0700,GIT24MECH025,Vedant Subramanian,Male,MECH,Mechanical Engineering,2,7.96,80.6,0,No,Bhopal,vedant.subramanian.700@greenfield.example
+S0701,GIT24MECH026,Riya Chatterjee,Female,MECH,Mechanical Engineering,2,7.10,78.9,0,Yes,Hyderabad,riya.chatterjee.701@greenfield.example
+S0702,GIT24MECH027,Komal Kulkarni,Female,MECH,Mechanical Engineering,2,8.96,89.5,0,Yes,Bhopal,komal.kulkarni.702@greenfield.example
+S0703,GIT24MECH028,Varun George,Male,MECH,Mechanical Engineering,2,8.51,91.9,0,Yes,Bengaluru,varun.george.703@greenfield.example
+S0704,GIT24MECH029,Isha Bhat,Female,MECH,Mechanical Engineering,2,8.63,71.4,0,Yes,Pune,isha.bhat.704@greenfield.example
+S0705,GIT24MECH030,Tanmay Saxena,Male,MECH,Mechanical Engineering,2,6.68,84.9,0,No,Nagpur,tanmay.saxena.705@greenfield.example
+S0706,GIT24MECH031,Kavya Agarwal,Female,MECH,Mechanical Engineering,2,6.02,78.6,0,No,Mysuru,kavya.agarwal.706@greenfield.example
+S0707,GIT24MECH032,Farhan Malhotra,Male,MECH,Mechanical Engineering,2,7.90,79.7,0,No,Kolkata,farhan.malhotra.707@greenfield.example
+S0708,GIT24MECH033,Siddharth Shetty,Male,MECH,Mechanical Engineering,2,7.93,77.6,0,Yes,Hyderabad,siddharth.shetty.708@greenfield.example
+S0709,GIT24MECH034,Farhan Mathew,Male,MECH,Mechanical Engineering,2,8.22,76.2,0,No,Bengaluru,farhan.mathew.709@greenfield.example
+S0710,GIT24MECH035,Komal Bhatia,Female,MECH,Mechanical Engineering,2,6.95,75.1,0,Yes,Pune,komal.bhatia.710@greenfield.example
+S0711,GIT24MECH036,Janaki Bhatia,Female,MECH,Mechanical Engineering,2,7.00,74.4,0,No,Jaipur,janaki.bhatia.711@greenfield.example
+S0712,GIT24MECH037,Neha Singh,Female,MECH,Mechanical Engineering,2,6.46,85.5,0,No,Chennai,neha.singh.712@greenfield.example
+S0713,GIT24MECH038,Sameer Mukherjee,Male,MECH,Mechanical Engineering,2,6.81,93.2,0,No,Pune,sameer.mukherjee.713@greenfield.example
+S0714,GIT24MECH039,Kiran Sharma,Male,MECH,Mechanical Engineering,2,6.27,75.4,1,No,Mumbai,kiran.sharma.714@greenfield.example
+S0715,GIT24MECH040,Utkarsh Reddy,Male,MECH,Mechanical Engineering,2,6.50,72.4,0,No,Lucknow,utkarsh.reddy.715@greenfield.example
+S0716,GIT24MECH041,Isha Malhotra,Female,MECH,Mechanical Engineering,2,8.75,68.7,0,Yes,Chennai,isha.malhotra.716@greenfield.example
+S0717,GIT24MECH042,Imran Mehta,Male,MECH,Mechanical Engineering,2,7.35,86.9,0,Yes,Bhopal,imran.mehta.717@greenfield.example
+S0718,GIT24MECH043,Isha Desai,Female,MECH,Mechanical Engineering,2,8.77,83.3,0,No,Chennai,isha.desai.718@greenfield.example
+S0719,GIT24MECH044,Ekta Saxena,Female,MECH,Mechanical Engineering,2,8.40,88.1,0,No,Jaipur,ekta.saxena.719@greenfield.example
+S0720,GIT24MECH045,Sneha Pandey,Female,MECH,Mechanical Engineering,2,7.95,86.6,0,No,Hyderabad,sneha.pandey.720@greenfield.example
+S0721,GIT24MECH046,Komal Fernandes,Female,MECH,Mechanical Engineering,2,6.33,97.7,0,Yes,Mumbai,komal.fernandes.721@greenfield.example
+S0722,GIT24MECH047,Neha Bhat,Female,MECH,Mechanical Engineering,2,7.81,86.7,0,No,Bengaluru,neha.bhat.722@greenfield.example
+S0723,GIT24MECH048,Yuvraj Sen,Male,MECH,Mechanical Engineering,2,7.93,84.9,0,No,Coimbatore,yuvraj.sen.723@greenfield.example
+S0724,GIT24MECH049,Tejas Mathew,Male,MECH,Mechanical Engineering,2,7.80,87.2,1,Yes,Hyderabad,tejas.mathew.724@greenfield.example
+S0725,GIT24MECH050,Varun Thomas,Male,MECH,Mechanical Engineering,2,8.43,67.8,0,No,Chennai,varun.thomas.725@greenfield.example
+S0726,GIT24MECH051,Kavya Chandra,Female,MECH,Mechanical Engineering,2,9.49,83.7,0,Yes,Vizag,kavya.chandra.726@greenfield.example
+S0727,GIT24MECH052,Bhavna Shetty,Female,MECH,Mechanical Engineering,2,9.50,78.4,0,Yes,Lucknow,bhavna.shetty.727@greenfield.example
+S0728,GIT24MECH053,Tanmay Varghese,Male,MECH,Mechanical Engineering,2,6.20,94.2,1,No,Hyderabad,tanmay.varghese.728@greenfield.example
+S0729,GIT24MECH054,Pallavi Nair,Female,MECH,Mechanical Engineering,2,6.17,95.5,1,Yes,Chennai,pallavi.nair.729@greenfield.example
+S0730,GIT24MECH055,Trisha Chatterjee,Female,MECH,Mechanical Engineering,2,7.19,70.6,0,Yes,Jaipur,trisha.chatterjee.730@greenfield.example
+S0731,GIT24MECH056,Tara Reddy,Female,MECH,Mechanical Engineering,2,6.81,88.8,0,No,Lucknow,tara.reddy.731@greenfield.example
+S0732,GIT24MECH057,Devansh Chandra,Male,MECH,Mechanical Engineering,2,6.98,65.5,0,No,Bhopal,devansh.chandra.732@greenfield.example
+S0733,GIT24MECH058,Prateek Saxena,Male,MECH,Mechanical Engineering,2,7.12,72.7,0,No,Mysuru,prateek.saxena.733@greenfield.example
+S0734,GIT24MECH059,Tara Chatterjee,Female,MECH,Mechanical Engineering,2,7.60,91.3,0,No,Mumbai,tara.chatterjee.734@greenfield.example
+S0735,GIT24MECH060,Tanmay Kapoor,Male,MECH,Mechanical Engineering,2,8.48,72.5,0,No,Pune,tanmay.kapoor.735@greenfield.example
+S0736,GIT24MECH061,Bhavna Deshmukh,Female,MECH,Mechanical Engineering,2,6.94,80.5,0,No,Chennai,bhavna.deshmukh.736@greenfield.example
+S0737,GIT24MECH062,Jhanvi Hegde,Female,MECH,Mechanical Engineering,2,8.38,75.2,0,No,Mysuru,jhanvi.hegde.737@greenfield.example
+S0738,GIT24MECH063,Harini Dubey,Female,MECH,Mechanical Engineering,2,7.08,90.8,0,Yes,Mysuru,harini.dubey.738@greenfield.example
+S0739,GIT24MECH064,Arjun Shah,Male,MECH,Mechanical Engineering,2,7.90,82.1,0,Yes,Kolkata,arjun.shah.739@greenfield.example
+S0740,GIT24MECH065,Ira Mehta,Female,MECH,Mechanical Engineering,2,9.11,82.4,0,No,Delhi,ira.mehta.740@greenfield.example
+S0741,GIT24MECH066,Meera Thomas,Female,MECH,Mechanical Engineering,2,7.52,81.9,0,No,Kolkata,meera.thomas.741@greenfield.example
+S0742,GIT24MECH067,Uday Bhat,Male,MECH,Mechanical Engineering,2,7.05,77.2,0,Yes,Bengaluru,uday.bhat.742@greenfield.example
+S0743,GIT24MECH068,Hema Siddiqui,Female,MECH,Mechanical Engineering,2,7.93,94.5,0,Yes,Bengaluru,hema.siddiqui.743@greenfield.example
+S0744,GIT24MECH069,Indira Yadav,Female,MECH,Mechanical Engineering,2,5.86,79.8,0,Yes,Kochi,indira.yadav.744@greenfield.example
+S0745,GIT24MECH070,Jhanvi Chatterjee,Female,MECH,Mechanical Engineering,2,7.38,71.1,0,No,Nagpur,jhanvi.chatterjee.745@greenfield.example
+S0746,GIT24MECH071,Pallavi Mishra,Female,MECH,Mechanical Engineering,2,7.89,99.8,0,No,Lucknow,pallavi.mishra.746@greenfield.example
+S0747,GIT24MECH072,Kunal Dubey,Male,MECH,Mechanical Engineering,2,6.16,87.6,0,Yes,Bengaluru,kunal.dubey.747@greenfield.example
+S0748,GIT24MECH073,Rajat Mehta,Male,MECH,Mechanical Engineering,2,7.02,82.5,0,No,Chennai,rajat.mehta.748@greenfield.example
+S0749,GIT24MECH074,Rohan Banerjee,Male,MECH,Mechanical Engineering,2,7.05,85.9,0,No,Hyderabad,rohan.banerjee.749@greenfield.example
+S0750,GIT24MECH075,Riya Shah,Female,MECH,Mechanical Engineering,2,9.05,72.3,0,No,Bengaluru,riya.shah.750@greenfield.example
+S0751,GIT23MECH001,Ira Chauhan,Female,MECH,Mechanical Engineering,3,9.05,77.1,0,No,Mysuru,ira.chauhan.751@greenfield.example
+S0752,GIT23MECH002,Lokesh Sethi,Male,MECH,Mechanical Engineering,3,7.53,61.5,0,No,Lucknow,lokesh.sethi.752@greenfield.example
+S0753,GIT23MECH003,Bharat Sharma,Male,MECH,Mechanical Engineering,3,6.34,82.3,0,Yes,Vizag,bharat.sharma.753@greenfield.example
+S0754,GIT23MECH004,Tarun Iyer,Male,MECH,Mechanical Engineering,3,6.03,92.0,0,No,Delhi,tarun.iyer.754@greenfield.example
+S0755,GIT23MECH005,Chitra Kapoor,Female,MECH,Mechanical Engineering,3,6.41,82.9,0,Yes,Nagpur,chitra.kapoor.755@greenfield.example
+S0756,GIT23MECH006,Trisha Hegde,Female,MECH,Mechanical Engineering,3,9.79,80.3,0,No,Kochi,trisha.hegde.756@greenfield.example
+S0757,GIT23MECH007,Varun Deshmukh,Male,MECH,Mechanical Engineering,3,9.27,78.8,0,Yes,Vizag,varun.deshmukh.757@greenfield.example
+S0758,GIT23MECH008,Trisha Patel,Female,MECH,Mechanical Engineering,3,8.20,86.4,0,No,Bhopal,trisha.patel.758@greenfield.example
+S0759,GIT23MECH009,Uma DSouza,Female,MECH,Mechanical Engineering,3,7.62,83.8,0,Yes,Coimbatore,uma.dsouza.759@greenfield.example
+S0760,GIT23MECH010,Aditya Thomas,Male,MECH,Mechanical Engineering,3,8.79,90.9,0,No,Kochi,aditya.thomas.760@greenfield.example
+S0761,GIT23MECH011,Varun Pillai,Male,MECH,Mechanical Engineering,3,8.12,82.3,0,No,Vizag,varun.pillai.761@greenfield.example
+S0762,GIT23MECH012,Ankit Kapoor,Male,MECH,Mechanical Engineering,3,7.86,78.8,0,No,Jaipur,ankit.kapoor.762@greenfield.example
+S0763,GIT23MECH013,Kavya Varghese,Female,MECH,Mechanical Engineering,3,4.95,87.1,0,Yes,Delhi,kavya.varghese.763@greenfield.example
+S0764,GIT23MECH014,Deepak George,Male,MECH,Mechanical Engineering,3,7.00,93.7,0,Yes,Mysuru,deepak.george.764@greenfield.example
+S0765,GIT23MECH015,Rajat Mishra,Male,MECH,Mechanical Engineering,3,6.46,71.2,0,No,Chennai,rajat.mishra.765@greenfield.example
+S0766,GIT23MECH016,Fatima Chandra,Female,MECH,Mechanical Engineering,3,6.89,93.8,0,Yes,Nagpur,fatima.chandra.766@greenfield.example
+S0767,GIT23MECH017,Madhav Thakur,Male,MECH,Mechanical Engineering,3,5.73,70.3,3,No,Kochi,madhav.thakur.767@greenfield.example
+S0768,GIT23MECH018,Ganesh Ahmed,Male,MECH,Mechanical Engineering,3,5.90,73.6,0,Yes,Nagpur,ganesh.ahmed.768@greenfield.example
+S0769,GIT23MECH019,Jhanvi Reddy,Female,MECH,Mechanical Engineering,3,8.41,74.2,0,No,Coimbatore,jhanvi.reddy.769@greenfield.example
+S0770,GIT23MECH020,Navya Chatterjee,Female,MECH,Mechanical Engineering,3,7.87,78.7,0,No,Hyderabad,navya.chatterjee.770@greenfield.example
+S0771,GIT23MECH021,Pranav Siddiqui,Male,MECH,Mechanical Engineering,3,8.62,68.5,0,Yes,Kolkata,pranav.siddiqui.771@greenfield.example
+S0772,GIT23MECH022,Varun Rao,Male,MECH,Mechanical Engineering,3,5.85,75.0,0,No,Delhi,varun.rao.772@greenfield.example
+S0773,GIT23MECH023,Ishaan Subramanian,Male,MECH,Mechanical Engineering,3,6.73,79.5,1,Yes,Mumbai,ishaan.subramanian.773@greenfield.example
+S0774,GIT23MECH024,Rohan Chatterjee,Male,MECH,Mechanical Engineering,3,8.44,75.9,0,No,Chennai,rohan.chatterjee.774@greenfield.example
+S0775,GIT23MECH025,Mahika Sethi,Female,MECH,Mechanical Engineering,3,7.31,85.4,0,No,Chennai,mahika.sethi.775@greenfield.example
+S0776,GIT23MECH026,Ira DSouza,Female,MECH,Mechanical Engineering,3,7.52,100.0,0,No,Mysuru,ira.dsouza.776@greenfield.example
+S0777,GIT23MECH027,Aarohi Mathew,Female,MECH,Mechanical Engineering,3,5.72,83.4,1,No,Lucknow,aarohi.mathew.777@greenfield.example
+S0778,GIT23MECH028,Tejas Verma,Male,MECH,Mechanical Engineering,3,7.62,83.7,0,No,Mumbai,tejas.verma.778@greenfield.example
+S0779,GIT23MECH029,Nikhil Hegde,Male,MECH,Mechanical Engineering,3,6.82,89.3,1,No,Bhopal,nikhil.hegde.779@greenfield.example
+S0780,GIT23MECH030,Aarohi DSouza,Female,MECH,Mechanical Engineering,3,6.08,67.9,0,No,Pune,aarohi.dsouza.780@greenfield.example
+S0781,GIT23MECH031,Piyush Gowda,Male,MECH,Mechanical Engineering,3,6.37,79.1,0,Yes,Mysuru,piyush.gowda.781@greenfield.example
+S0782,GIT23MECH032,Ramesh Shah,Male,MECH,Mechanical Engineering,3,6.44,81.1,0,No,Delhi,ramesh.shah.782@greenfield.example
+S0783,GIT23MECH033,Uma Sethi,Female,MECH,Mechanical Engineering,3,7.48,64.9,0,Yes,Pune,uma.sethi.783@greenfield.example
+S0784,GIT23MECH034,Karthik Kapoor,Male,MECH,Mechanical Engineering,3,8.79,74.7,0,Yes,Delhi,karthik.kapoor.784@greenfield.example
+S0785,GIT23MECH035,Ira Iyer,Female,MECH,Mechanical Engineering,3,8.09,64.2,0,No,Kolkata,ira.iyer.785@greenfield.example
+S0786,GIT23MECH036,Ananya Yadav,Female,MECH,Mechanical Engineering,3,5.55,77.7,1,Yes,Coimbatore,ananya.yadav.786@greenfield.example
+S0787,GIT23MECH037,Piyush Kapoor,Male,MECH,Mechanical Engineering,3,8.09,77.9,0,No,Mumbai,piyush.kapoor.787@greenfield.example
+S0788,GIT23MECH038,Charvi Ghosh,Female,MECH,Mechanical Engineering,3,8.27,88.8,0,No,Lucknow,charvi.ghosh.788@greenfield.example
+S0789,GIT23MECH039,Garima Thakur,Female,MECH,Mechanical Engineering,3,7.74,83.1,0,Yes,Lucknow,garima.thakur.789@greenfield.example
+S0790,GIT23MECH040,Ritvik Banerjee,Male,MECH,Mechanical Engineering,3,6.59,78.0,0,No,Lucknow,ritvik.banerjee.790@greenfield.example
+S0791,GIT23MECH041,Manish Deshmukh,Male,MECH,Mechanical Engineering,3,7.45,79.1,0,No,Vizag,manish.deshmukh.791@greenfield.example
+S0792,GIT23MECH042,Riya Chandra,Female,MECH,Mechanical Engineering,3,8.55,93.6,0,Yes,Coimbatore,riya.chandra.792@greenfield.example
+S0793,GIT23MECH043,Radhika Bose,Female,MECH,Mechanical Engineering,3,6.52,82.5,0,No,Mysuru,radhika.bose.793@greenfield.example
+S0794,GIT23MECH044,Ankit Mishra,Male,MECH,Mechanical Engineering,3,9.29,81.0,0,Yes,Coimbatore,ankit.mishra.794@greenfield.example
+S0795,GIT23MECH045,Pallavi Arora,Female,MECH,Mechanical Engineering,3,6.51,91.8,0,No,Vizag,pallavi.arora.795@greenfield.example
+S0796,GIT23MECH046,Prateek Thomas,Male,MECH,Mechanical Engineering,3,8.38,87.0,0,Yes,Kolkata,prateek.thomas.796@greenfield.example
+S0797,GIT23MECH047,Bharat Raman,Male,MECH,Mechanical Engineering,3,8.67,82.1,0,No,Chennai,bharat.raman.797@greenfield.example
+S0798,GIT23MECH048,Sanjay Iyer,Male,MECH,Mechanical Engineering,3,9.26,83.2,0,Yes,Lucknow,sanjay.iyer.798@greenfield.example
+S0799,GIT23MECH049,Aditi Siddiqui,Female,MECH,Mechanical Engineering,3,7.96,82.7,0,No,Mumbai,aditi.siddiqui.799@greenfield.example
+S0800,GIT23MECH050,Ishaan Chauhan,Male,MECH,Mechanical Engineering,3,7.35,72.1,0,Yes,Bengaluru,ishaan.chauhan.800@greenfield.example
+S0801,GIT23MECH051,Mahika Sen,Female,MECH,Mechanical Engineering,3,6.17,74.5,0,No,Lucknow,mahika.sen.801@greenfield.example
+S0802,GIT23MECH052,Deepa Arora,Female,MECH,Mechanical Engineering,3,7.97,73.6,0,No,Mumbai,deepa.arora.802@greenfield.example
+S0803,GIT23MECH053,Manish Varghese,Male,MECH,Mechanical Engineering,3,8.45,89.2,0,No,Pune,manish.varghese.803@greenfield.example
+S0804,GIT23MECH054,Vivaan Agarwal,Male,MECH,Mechanical Engineering,3,7.58,72.5,0,No,Pune,vivaan.agarwal.804@greenfield.example
+S0805,GIT23MECH055,Uday Mehta,Male,MECH,Mechanical Engineering,3,7.93,88.3,0,No,Lucknow,uday.mehta.805@greenfield.example
+S0806,GIT23MECH056,Charvi Desai,Female,MECH,Mechanical Engineering,3,4.50,95.3,0,No,Mysuru,charvi.desai.806@greenfield.example
+S0807,GIT23MECH057,Jhanvi Siddiqui,Female,MECH,Mechanical Engineering,3,8.52,79.3,0,No,Hyderabad,jhanvi.siddiqui.807@greenfield.example
+S0808,GIT23MECH058,Mansi Chauhan,Female,MECH,Mechanical Engineering,3,7.57,69.3,0,No,Jaipur,mansi.chauhan.808@greenfield.example
+S0809,GIT23MECH059,Hema Singh,Female,MECH,Mechanical Engineering,3,6.42,64.3,0,No,Bhopal,hema.singh.809@greenfield.example
+S0810,GIT23MECH060,Garima Verma,Female,MECH,Mechanical Engineering,3,6.55,72.2,0,No,Chennai,garima.verma.810@greenfield.example
+S0811,GIT23MECH061,Kiran Gowda,Male,MECH,Mechanical Engineering,3,9.20,93.6,0,No,Jaipur,kiran.gowda.811@greenfield.example
+S0812,GIT23MECH062,Ganesh Mishra,Male,MECH,Mechanical Engineering,3,7.25,79.8,0,Yes,Pune,ganesh.mishra.812@greenfield.example
+S0813,GIT23MECH063,Chirag George,Male,MECH,Mechanical Engineering,3,7.34,76.4,0,No,Mysuru,chirag.george.813@greenfield.example
+S0814,GIT23MECH064,Farhan Thakur,Male,MECH,Mechanical Engineering,3,7.17,70.4,0,No,Mysuru,farhan.thakur.814@greenfield.example
+S0815,GIT23MECH065,Fatima Siddiqui,Female,MECH,Mechanical Engineering,3,8.27,65.4,0,Yes,Bengaluru,fatima.siddiqui.815@greenfield.example
+S0816,GIT23MECH066,Nitin Sharma,Male,MECH,Mechanical Engineering,3,7.90,88.4,0,No,Chennai,nitin.sharma.816@greenfield.example
+S0817,GIT23MECH067,Gauri Pandey,Female,MECH,Mechanical Engineering,3,7.38,71.4,0,No,Bengaluru,gauri.pandey.817@greenfield.example
+S0818,GIT23MECH068,Tara DSouza,Female,MECH,Mechanical Engineering,3,8.11,72.0,0,No,Bhopal,tara.dsouza.818@greenfield.example
+S0819,GIT23MECH069,Zoya DSouza,Female,MECH,Mechanical Engineering,3,6.82,80.1,3,No,Delhi,zoya.dsouza.819@greenfield.example
+S0820,GIT23MECH070,Ekta Naidu,Female,MECH,Mechanical Engineering,3,8.09,75.5,0,No,Chennai,ekta.naidu.820@greenfield.example
+S0821,GIT23MECH071,Tarun Reddy,Male,MECH,Mechanical Engineering,3,6.80,71.8,3,Yes,Delhi,tarun.reddy.821@greenfield.example
+S0822,GIT23MECH072,Shreya Khan,Female,MECH,Mechanical Engineering,3,6.69,89.7,0,Yes,Coimbatore,shreya.khan.822@greenfield.example
+S0823,GIT23MECH073,Vivaan Dubey,Male,MECH,Mechanical Engineering,3,6.09,84.9,0,No,Pune,vivaan.dubey.823@greenfield.example
+S0824,GIT23MECH074,Charvi Saxena,Female,MECH,Mechanical Engineering,3,5.79,80.6,0,Yes,Hyderabad,charvi.saxena.824@greenfield.example
+S0825,GIT23MECH075,Harsh Thakur,Male,MECH,Mechanical Engineering,3,7.41,88.3,0,Yes,Lucknow,harsh.thakur.825@greenfield.example
+S0826,GIT22MECH001,Yuvraj Banerjee,Male,MECH,Mechanical Engineering,4,8.68,69.4,0,No,Nagpur,yuvraj.banerjee.826@greenfield.example
+S0827,GIT22MECH002,Saanvi George,Female,MECH,Mechanical Engineering,4,7.35,86.3,0,Yes,Hyderabad,saanvi.george.827@greenfield.example
+S0828,GIT22MECH003,Vikram Kapoor,Male,MECH,Mechanical Engineering,4,7.35,73.0,0,Yes,Chennai,vikram.kapoor.828@greenfield.example
+S0829,GIT22MECH004,Devansh Hegde,Male,MECH,Mechanical Engineering,4,9.57,86.3,0,Yes,Coimbatore,devansh.hegde.829@greenfield.example
+S0830,GIT22MECH005,Arjun Naidu,Male,MECH,Mechanical Engineering,4,6.39,87.5,0,Yes,Lucknow,arjun.naidu.830@greenfield.example
+S0831,GIT22MECH006,Uma Mehta,Female,MECH,Mechanical Engineering,4,5.84,82.9,0,Yes,Mumbai,uma.mehta.831@greenfield.example
+S0832,GIT22MECH007,Kavya Rao,Female,MECH,Mechanical Engineering,4,8.71,77.6,0,No,Lucknow,kavya.rao.832@greenfield.example
+S0833,GIT22MECH008,Naveen Menon,Male,MECH,Mechanical Engineering,4,7.49,72.8,0,No,Kolkata,naveen.menon.833@greenfield.example
+S0834,GIT22MECH009,Gauri Subramanian,Female,MECH,Mechanical Engineering,4,8.47,87.4,0,Yes,Pune,gauri.subramanian.834@greenfield.example
+S0835,GIT22MECH010,Rajat Banerjee,Male,MECH,Mechanical Engineering,4,6.35,98.6,0,Yes,Bhopal,rajat.banerjee.835@greenfield.example
+S0836,GIT22MECH011,Urvi Mukherjee,Female,MECH,Mechanical Engineering,4,8.23,82.8,0,No,Lucknow,urvi.mukherjee.836@greenfield.example
+S0837,GIT22MECH012,Kunal Chatterjee,Male,MECH,Mechanical Engineering,4,6.94,83.3,3,No,Chennai,kunal.chatterjee.837@greenfield.example
+S0838,GIT22MECH013,Omkar Raman,Male,MECH,Mechanical Engineering,4,7.90,81.8,0,Yes,Kochi,omkar.raman.838@greenfield.example
+S0839,GIT22MECH014,Pranav Naidu,Male,MECH,Mechanical Engineering,4,8.96,100.0,0,Yes,Vizag,pranav.naidu.839@greenfield.example
+S0840,GIT22MECH015,Isha Menon,Female,MECH,Mechanical Engineering,4,8.57,100.0,3,No,Pune,isha.menon.840@greenfield.example
+S0841,GIT22MECH016,Ananya Sharma,Female,MECH,Mechanical Engineering,4,6.98,87.8,0,No,Kochi,ananya.sharma.841@greenfield.example
+S0842,GIT22MECH017,Uday Fernandes,Male,MECH,Mechanical Engineering,4,7.82,86.4,0,Yes,Mumbai,uday.fernandes.842@greenfield.example
+S0843,GIT22MECH018,Yuvraj Saxena,Male,MECH,Mechanical Engineering,4,6.86,80.4,0,Yes,Vizag,yuvraj.saxena.843@greenfield.example
+S0844,GIT22MECH019,Nikhil Mishra,Male,MECH,Mechanical Engineering,4,6.45,89.7,0,Yes,Bhopal,nikhil.mishra.844@greenfield.example
+S0845,GIT22MECH020,Neha Pillai,Female,MECH,Mechanical Engineering,4,6.67,78.6,0,No,Hyderabad,neha.pillai.845@greenfield.example
+S0846,GIT22MECH021,Charvi Subramanian,Female,MECH,Mechanical Engineering,4,4.97,88.7,1,No,Jaipur,charvi.subramanian.846@greenfield.example
+S0847,GIT22MECH022,Rohan Pandey,Male,MECH,Mechanical Engineering,4,7.25,80.6,0,No,Coimbatore,rohan.pandey.847@greenfield.example
+S0848,GIT22MECH023,Barkha Bhatia,Female,MECH,Mechanical Engineering,4,9.39,87.9,0,Yes,Bhopal,barkha.bhatia.848@greenfield.example
+S0849,GIT22MECH024,Ananya Nair,Female,MECH,Mechanical Engineering,4,8.20,65.6,0,Yes,Vizag,ananya.nair.849@greenfield.example
+S0850,GIT22MECH025,Indira Chatterjee,Female,MECH,Mechanical Engineering,4,8.62,87.1,0,Yes,Hyderabad,indira.chatterjee.850@greenfield.example
+S0851,GIT22MECH026,Uday Singh,Male,MECH,Mechanical Engineering,4,4.72,96.4,1,No,Lucknow,uday.singh.851@greenfield.example
+S0852,GIT22MECH027,Dhruv Dubey,Male,MECH,Mechanical Engineering,4,9.49,75.8,0,No,Lucknow,dhruv.dubey.852@greenfield.example
+S0853,GIT22MECH028,Arjun Yadav,Male,MECH,Mechanical Engineering,4,8.69,76.2,0,No,Bengaluru,arjun.yadav.853@greenfield.example
+S0854,GIT22MECH029,Varun Nair,Male,MECH,Mechanical Engineering,4,7.12,81.9,0,No,Mysuru,varun.nair.854@greenfield.example
+S0855,GIT22MECH030,Yuvraj Siddiqui,Male,MECH,Mechanical Engineering,4,8.32,79.1,0,No,Mumbai,yuvraj.siddiqui.855@greenfield.example
+S0856,GIT22MECH031,Indira Mehta,Female,MECH,Mechanical Engineering,4,7.12,77.2,0,No,Bhopal,indira.mehta.856@greenfield.example
+S0857,GIT22MECH032,Trisha Malhotra,Female,MECH,Mechanical Engineering,4,7.40,97.0,0,Yes,Bengaluru,trisha.malhotra.857@greenfield.example
+S0858,GIT22MECH033,Urvi Raman,Female,MECH,Mechanical Engineering,4,7.67,82.4,0,No,Mysuru,urvi.raman.858@greenfield.example
+S0859,GIT22MECH034,Vijay Saxena,Male,MECH,Mechanical Engineering,4,8.06,98.2,0,No,Chennai,vijay.saxena.859@greenfield.example
+S0860,GIT22MECH035,Aarav Pandey,Male,MECH,Mechanical Engineering,4,6.96,66.6,0,Yes,Bhopal,aarav.pandey.860@greenfield.example
+S0861,GIT22MECH036,Navya Menon,Female,MECH,Mechanical Engineering,4,7.39,85.8,0,Yes,Vizag,navya.menon.861@greenfield.example
+S0862,GIT22MECH037,Farhan Agarwal,Male,MECH,Mechanical Engineering,4,8.11,91.9,0,Yes,Delhi,farhan.agarwal.862@greenfield.example
+S0863,GIT22MECH038,Saanvi Chandra,Female,MECH,Mechanical Engineering,4,6.68,73.9,0,Yes,Bengaluru,saanvi.chandra.863@greenfield.example
+S0864,GIT22MECH039,Tara Nair,Female,MECH,Mechanical Engineering,4,7.54,84.2,0,Yes,Bengaluru,tara.nair.864@greenfield.example
+S0865,GIT22MECH040,Ankit Patel,Male,MECH,Mechanical Engineering,4,7.69,83.4,0,No,Hyderabad,ankit.patel.865@greenfield.example
+S0866,GIT22MECH041,Siddharth Yadav,Male,MECH,Mechanical Engineering,4,6.08,73.1,0,Yes,Vizag,siddharth.yadav.866@greenfield.example
+S0867,GIT22MECH042,Ojasvi Khanna,Female,MECH,Mechanical Engineering,4,7.83,88.4,0,No,Delhi,ojasvi.khanna.867@greenfield.example
+S0868,GIT22MECH043,Gaurav Agarwal,Male,MECH,Mechanical Engineering,4,5.31,74.7,0,Yes,Bhopal,gaurav.agarwal.868@greenfield.example
+S0869,GIT22MECH044,Tara Bose,Female,MECH,Mechanical Engineering,4,8.19,98.3,0,No,Kolkata,tara.bose.869@greenfield.example
+S0870,GIT22MECH045,Meera Varghese,Female,MECH,Mechanical Engineering,4,6.64,90.1,0,No,Lucknow,meera.varghese.870@greenfield.example
+S0871,GIT22MECH046,Deepa Deshmukh,Female,MECH,Mechanical Engineering,4,6.75,80.7,0,Yes,Bhopal,deepa.deshmukh.871@greenfield.example
+S0872,GIT22MECH047,Ritvik Thomas,Male,MECH,Mechanical Engineering,4,7.46,86.3,0,No,Bhopal,ritvik.thomas.872@greenfield.example
+S0873,GIT22MECH048,Aditi Venkatesh,Female,MECH,Mechanical Engineering,4,5.86,86.8,0,No,Bhopal,aditi.venkatesh.873@greenfield.example
+S0874,GIT22MECH049,Farhan Raman,Male,MECH,Mechanical Engineering,4,8.32,70.0,0,Yes,Coimbatore,farhan.raman.874@greenfield.example
+S0875,GIT22MECH050,Rohan Menon,Male,MECH,Mechanical Engineering,4,9.33,87.7,0,No,Nagpur,rohan.menon.875@greenfield.example
+S0876,GIT22MECH051,Hema Subramanian,Female,MECH,Mechanical Engineering,4,7.19,73.7,0,No,Chennai,hema.subramanian.876@greenfield.example
+S0877,GIT22MECH052,Rajat Sharma,Male,MECH,Mechanical Engineering,4,7.78,73.9,0,No,Nagpur,rajat.sharma.877@greenfield.example
+S0878,GIT22MECH053,Akash Tiwari,Male,MECH,Mechanical Engineering,4,8.69,67.4,0,Yes,Pune,akash.tiwari.878@greenfield.example
+S0879,GIT22MECH054,Karthik Chauhan,Male,MECH,Mechanical Engineering,4,8.33,83.0,0,Yes,Vizag,karthik.chauhan.879@greenfield.example
+S0880,GIT22MECH055,Ganesh Gupta,Male,MECH,Mechanical Engineering,4,6.37,66.9,0,No,Lucknow,ganesh.gupta.880@greenfield.example
+S0881,GIT22MECH056,Bhavna Agarwal,Female,MECH,Mechanical Engineering,4,6.04,82.1,0,Yes,Lucknow,bhavna.agarwal.881@greenfield.example
+S0882,GIT22MECH057,Falguni Reddy,Female,MECH,Mechanical Engineering,4,7.53,75.2,0,No,Lucknow,falguni.reddy.882@greenfield.example
+S0883,GIT22MECH058,Piyush Bose,Male,MECH,Mechanical Engineering,4,8.62,78.6,0,No,Vizag,piyush.bose.883@greenfield.example
+S0884,GIT22MECH059,Nitin Gowda,Male,MECH,Mechanical Engineering,4,8.28,75.5,0,No,Kolkata,nitin.gowda.884@greenfield.example
+S0885,GIT22MECH060,Tara Arora,Female,MECH,Mechanical Engineering,4,6.34,78.7,1,Yes,Bengaluru,tara.arora.885@greenfield.example
+S0886,GIT22MECH061,Prateek Das,Male,MECH,Mechanical Engineering,4,8.23,68.7,0,No,Hyderabad,prateek.das.886@greenfield.example
+S0887,GIT22MECH062,Manish Pillai,Male,MECH,Mechanical Engineering,4,8.52,75.8,0,Yes,Chennai,manish.pillai.887@greenfield.example
+S0888,GIT22MECH063,Chitra Verma,Female,MECH,Mechanical Engineering,4,8.18,88.1,0,Yes,Bengaluru,chitra.verma.888@greenfield.example
+S0889,GIT22MECH064,Hemant Nair,Male,MECH,Mechanical Engineering,4,8.69,74.2,0,No,Delhi,hemant.nair.889@greenfield.example
+S0890,GIT22MECH065,Gaurav Bhat,Male,MECH,Mechanical Engineering,4,9.16,68.4,0,Yes,Kolkata,gaurav.bhat.890@greenfield.example
+S0891,GIT22MECH066,Pranav Subramanian,Male,MECH,Mechanical Engineering,4,8.19,85.0,0,Yes,Pune,pranav.subramanian.891@greenfield.example
+S0892,GIT22MECH067,Falguni DSouza,Female,MECH,Mechanical Engineering,4,8.08,78.1,0,No,Mysuru,falguni.dsouza.892@greenfield.example
+S0893,GIT22MECH068,Diya Fernandes,Female,MECH,Mechanical Engineering,4,7.19,78.8,0,Yes,Mysuru,diya.fernandes.893@greenfield.example
+S0894,GIT22MECH069,Nandini Mishra,Female,MECH,Mechanical Engineering,4,8.15,67.0,0,No,Coimbatore,nandini.mishra.894@greenfield.example
+S0895,GIT22MECH070,Ritvik Gowda,Male,MECH,Mechanical Engineering,4,9.90,85.7,0,Yes,Chennai,ritvik.gowda.895@greenfield.example
+S0896,GIT22MECH071,Riya Pandey,Female,MECH,Mechanical Engineering,4,8.36,83.6,0,Yes,Delhi,riya.pandey.896@greenfield.example
+S0897,GIT22MECH072,Hema Ghosh,Female,MECH,Mechanical Engineering,4,6.41,84.0,0,No,Mumbai,hema.ghosh.897@greenfield.example
+S0898,GIT22MECH073,Aarav Yadav,Male,MECH,Mechanical Engineering,4,8.74,83.9,0,No,Coimbatore,aarav.yadav.898@greenfield.example
+S0899,GIT22MECH074,Aarohi Raman,Female,MECH,Mechanical Engineering,4,8.75,79.3,1,Yes,Bengaluru,aarohi.raman.899@greenfield.example
+S0900,GIT22MECH075,Indira Khanna,Female,MECH,Mechanical Engineering,4,6.99,54.5,0,Yes,Mumbai,indira.khanna.900@greenfield.example
+S0901,GIT25CIVIL001,Vedant Kulkarni,Male,CIVIL,Civil Engineering,1,8.18,73.4,0,Yes,Jaipur,vedant.kulkarni.901@greenfield.example
+S0902,GIT25CIVIL002,Ira Menon,Female,CIVIL,Civil Engineering,1,8.57,97.0,0,No,Coimbatore,ira.menon.902@greenfield.example
+S0903,GIT25CIVIL003,Janaki Chauhan,Female,CIVIL,Civil Engineering,1,9.55,73.0,0,No,Chennai,janaki.chauhan.903@greenfield.example
+S0904,GIT25CIVIL004,Uday Saxena,Male,CIVIL,Civil Engineering,1,6.32,72.2,0,No,Bhopal,uday.saxena.904@greenfield.example
+S0905,GIT25CIVIL005,Trisha Nair,Female,CIVIL,Civil Engineering,1,7.16,82.3,0,No,Bengaluru,trisha.nair.905@greenfield.example
+S0906,GIT25CIVIL006,Deepa Desai,Female,CIVIL,Civil Engineering,1,7.28,82.1,2,No,Bengaluru,deepa.desai.906@greenfield.example
+S0907,GIT25CIVIL007,Vikram Malhotra,Male,CIVIL,Civil Engineering,1,7.95,73.2,0,No,Coimbatore,vikram.malhotra.907@greenfield.example
+S0908,GIT25CIVIL008,Aditya Subramanian,Male,CIVIL,Civil Engineering,1,6.65,89.5,0,No,Hyderabad,aditya.subramanian.908@greenfield.example
+S0909,GIT25CIVIL009,Vedant Bose,Male,CIVIL,Civil Engineering,1,8.14,78.1,0,Yes,Coimbatore,vedant.bose.909@greenfield.example
+S0910,GIT25CIVIL010,Siddharth Arora,Male,CIVIL,Civil Engineering,1,8.14,85.7,0,No,Kochi,siddharth.arora.910@greenfield.example
+S0911,GIT25CIVIL011,Jhanvi Verma,Female,CIVIL,Civil Engineering,1,7.66,73.2,0,No,Chennai,jhanvi.verma.911@greenfield.example
+S0912,GIT25CIVIL012,Bhavna Nair,Female,CIVIL,Civil Engineering,1,8.07,74.6,0,No,Coimbatore,bhavna.nair.912@greenfield.example
+S0913,GIT25CIVIL013,Nikhil Tiwari,Male,CIVIL,Civil Engineering,1,4.89,72.9,0,Yes,Chennai,nikhil.tiwari.913@greenfield.example
+S0914,GIT25CIVIL014,Mahika Shetty,Female,CIVIL,Civil Engineering,1,8.19,87.7,0,No,Pune,mahika.shetty.914@greenfield.example
+S0915,GIT25CIVIL015,Vijay Hegde,Male,CIVIL,Civil Engineering,1,7.28,81.4,0,Yes,Vizag,vijay.hegde.915@greenfield.example
+S0916,GIT25CIVIL016,Shreya Mishra,Female,CIVIL,Civil Engineering,1,7.99,66.5,0,Yes,Vizag,shreya.mishra.916@greenfield.example
+S0917,GIT25CIVIL017,Zoya Saxena,Female,CIVIL,Civil Engineering,1,7.19,78.4,0,No,Mysuru,zoya.saxena.917@greenfield.example
+S0918,GIT25CIVIL018,Mayank Siddiqui,Male,CIVIL,Civil Engineering,1,7.49,90.0,0,No,Lucknow,mayank.siddiqui.918@greenfield.example
+S0919,GIT25CIVIL019,Prateek Iyer,Male,CIVIL,Civil Engineering,1,9.00,80.8,0,No,Kolkata,prateek.iyer.919@greenfield.example
+S0920,GIT25CIVIL020,Chirag Khanna,Male,CIVIL,Civil Engineering,1,8.58,67.1,0,Yes,Mysuru,chirag.khanna.920@greenfield.example
+S0921,GIT25CIVIL021,Falguni Sethi,Female,CIVIL,Civil Engineering,1,6.72,87.0,0,Yes,Kochi,falguni.sethi.921@greenfield.example
+S0922,GIT25CIVIL022,Divya Tiwari,Female,CIVIL,Civil Engineering,1,8.53,81.5,0,No,Vizag,divya.tiwari.922@greenfield.example
+S0923,GIT25CIVIL023,Tejas Bose,Male,CIVIL,Civil Engineering,1,7.99,58.7,0,Yes,Coimbatore,tejas.bose.923@greenfield.example
+S0924,GIT25CIVIL024,Rohan Raman,Male,CIVIL,Civil Engineering,1,6.60,71.9,0,No,Kochi,rohan.raman.924@greenfield.example
+S0925,GIT25CIVIL025,Aarohi Pandey,Female,CIVIL,Civil Engineering,1,8.16,67.9,0,Yes,Lucknow,aarohi.pandey.925@greenfield.example
+S0926,GIT25CIVIL026,Sanjay Subramanian,Male,CIVIL,Civil Engineering,1,7.44,89.1,0,No,Mumbai,sanjay.subramanian.926@greenfield.example
+S0927,GIT25CIVIL027,Ritvik Fernandes,Male,CIVIL,Civil Engineering,1,6.80,70.9,0,No,Bhopal,ritvik.fernandes.927@greenfield.example
+S0928,GIT25CIVIL028,Pallavi DSouza,Female,CIVIL,Civil Engineering,1,7.41,80.5,0,Yes,Bengaluru,pallavi.dsouza.928@greenfield.example
+S0929,GIT25CIVIL029,Ananya Shah,Female,CIVIL,Civil Engineering,1,8.49,79.5,0,Yes,Lucknow,ananya.shah.929@greenfield.example
+S0930,GIT25CIVIL030,Nitin Ghosh,Male,CIVIL,Civil Engineering,1,6.49,84.9,0,No,Kolkata,nitin.ghosh.930@greenfield.example
+S0931,GIT25CIVIL031,Kunal Verma,Male,CIVIL,Civil Engineering,1,7.39,80.1,0,No,Vizag,kunal.verma.931@greenfield.example
+S0932,GIT25CIVIL032,Sameer Pillai,Male,CIVIL,Civil Engineering,1,7.41,64.1,0,Yes,Nagpur,sameer.pillai.932@greenfield.example
+S0933,GIT25CIVIL033,Kabir Shah,Male,CIVIL,Civil Engineering,1,7.39,80.6,3,Yes,Lucknow,kabir.shah.933@greenfield.example
+S0934,GIT25CIVIL034,Pallavi Shah,Female,CIVIL,Civil Engineering,1,7.75,84.4,0,Yes,Bhopal,pallavi.shah.934@greenfield.example
+S0935,GIT25CIVIL035,Harini Mishra,Female,CIVIL,Civil Engineering,1,7.84,96.0,0,No,Kochi,harini.mishra.935@greenfield.example
+S0936,GIT25CIVIL036,Jatin Shetty,Male,CIVIL,Civil Engineering,1,6.74,82.3,3,Yes,Chennai,jatin.shetty.936@greenfield.example
+S0937,GIT25CIVIL037,Uma Banerjee,Female,CIVIL,Civil Engineering,1,6.51,88.4,0,No,Lucknow,uma.banerjee.937@greenfield.example
+S0938,GIT25CIVIL038,Ramesh Das,Male,CIVIL,Civil Engineering,1,6.72,71.6,0,Yes,Bengaluru,ramesh.das.938@greenfield.example
+S0939,GIT25CIVIL039,Uma Kulkarni,Female,CIVIL,Civil Engineering,1,7.42,88.0,0,No,Chennai,uma.kulkarni.939@greenfield.example
+S0940,GIT25CIVIL040,Harini Saxena,Female,CIVIL,Civil Engineering,1,7.78,82.8,0,Yes,Chennai,harini.saxena.940@greenfield.example
+S0941,GIT25CIVIL041,Riya Bhat,Female,CIVIL,Civil Engineering,1,7.34,78.1,0,No,Mysuru,riya.bhat.941@greenfield.example
+S0942,GIT25CIVIL042,Karthik Mishra,Male,CIVIL,Civil Engineering,1,8.62,89.1,0,No,Nagpur,karthik.mishra.942@greenfield.example
+S0943,GIT25CIVIL043,Priya Kulkarni,Female,CIVIL,Civil Engineering,1,7.79,88.7,0,Yes,Bhopal,priya.kulkarni.943@greenfield.example
+S0944,GIT25CIVIL044,Ishaan Pandey,Male,CIVIL,Civil Engineering,1,7.14,82.5,0,No,Coimbatore,ishaan.pandey.944@greenfield.example
+S0945,GIT25CIVIL045,Kunal Singh,Male,CIVIL,Civil Engineering,1,9.42,73.0,0,Yes,Delhi,kunal.singh.945@greenfield.example
+S0946,GIT25CIVIL046,Riya Shetty,Female,CIVIL,Civil Engineering,1,7.34,76.0,0,Yes,Pune,riya.shetty.946@greenfield.example
+S0947,GIT25CIVIL047,Ishaan Banerjee,Male,CIVIL,Civil Engineering,1,7.82,83.3,1,No,Mumbai,ishaan.banerjee.947@greenfield.example
+S0948,GIT25CIVIL048,Piyush Sharma,Male,CIVIL,Civil Engineering,1,7.85,71.6,0,No,Lucknow,piyush.sharma.948@greenfield.example
+S0949,GIT25CIVIL049,Tanmay Thakur,Male,CIVIL,Civil Engineering,1,6.56,72.2,0,No,Pune,tanmay.thakur.949@greenfield.example
+S0950,GIT25CIVIL050,Neeraj Tiwari,Male,CIVIL,Civil Engineering,1,8.51,90.1,0,No,Chennai,neeraj.tiwari.950@greenfield.example
+S0951,GIT25CIVIL051,Tanmay DSouza,Male,CIVIL,Civil Engineering,1,7.54,76.7,0,No,Bhopal,tanmay.dsouza.951@greenfield.example
+S0952,GIT25CIVIL052,Pavan Mehta,Male,CIVIL,Civil Engineering,1,7.24,72.7,0,Yes,Chennai,pavan.mehta.952@greenfield.example
+S0953,GIT25CIVIL053,Pallavi Kurian,Female,CIVIL,Civil Engineering,1,7.80,75.7,0,No,Coimbatore,pallavi.kurian.953@greenfield.example
+S0954,GIT25CIVIL054,Prateek Hegde,Male,CIVIL,Civil Engineering,1,7.68,77.0,0,Yes,Mysuru,prateek.hegde.954@greenfield.example
+S0955,GIT25CIVIL055,Latha Malhotra,Female,CIVIL,Civil Engineering,1,9.15,96.6,0,Yes,Vizag,latha.malhotra.955@greenfield.example
+S0956,GIT25CIVIL056,Mohit DSouza,Male,CIVIL,Civil Engineering,1,6.18,95.3,0,No,Nagpur,mohit.dsouza.956@greenfield.example
+S0957,GIT25CIVIL057,Naveen Bhat,Male,CIVIL,Civil Engineering,1,6.89,70.0,0,Yes,Nagpur,naveen.bhat.957@greenfield.example
+S0958,GIT25CIVIL058,Devansh Raman,Male,CIVIL,Civil Engineering,1,6.54,77.5,0,No,Delhi,devansh.raman.958@greenfield.example
+S0959,GIT25CIVIL059,Imran Pillai,Male,CIVIL,Civil Engineering,1,7.79,94.9,0,No,Kolkata,imran.pillai.959@greenfield.example
+S0960,GIT25CIVIL060,Omkar Yadav,Male,CIVIL,Civil Engineering,1,8.21,92.4,0,Yes,Lucknow,omkar.yadav.960@greenfield.example
+S0961,GIT25CIVIL061,Karthik Ahmed,Male,CIVIL,Civil Engineering,1,5.86,91.7,0,Yes,Mumbai,karthik.ahmed.961@greenfield.example
+S0962,GIT25CIVIL062,Sneha Agarwal,Female,CIVIL,Civil Engineering,1,7.79,91.1,0,No,Kolkata,sneha.agarwal.962@greenfield.example
+S0963,GIT25CIVIL063,Esha Menon,Female,CIVIL,Civil Engineering,1,8.03,91.2,0,Yes,Bhopal,esha.menon.963@greenfield.example
+S0964,GIT25CIVIL064,Manish Khanna,Male,CIVIL,Civil Engineering,1,6.60,91.1,0,Yes,Coimbatore,manish.khanna.964@greenfield.example
+S0965,GIT25CIVIL065,Bhavna Sen,Female,CIVIL,Civil Engineering,1,8.22,72.8,0,No,Bengaluru,bhavna.sen.965@greenfield.example
+S0966,GIT25CIVIL066,Neeraj Subramanian,Male,CIVIL,Civil Engineering,1,5.81,80.3,0,No,Mumbai,neeraj.subramanian.966@greenfield.example
+S0967,GIT25CIVIL067,Vijay Mehta,Male,CIVIL,Civil Engineering,1,6.54,78.6,0,No,Nagpur,vijay.mehta.967@greenfield.example
+S0968,GIT25CIVIL068,Vedant Mehta,Male,CIVIL,Civil Engineering,1,8.40,83.7,0,Yes,Delhi,vedant.mehta.968@greenfield.example
+S0969,GIT25CIVIL069,Meera Shetty,Female,CIVIL,Civil Engineering,1,6.59,88.6,0,No,Kolkata,meera.shetty.969@greenfield.example
+S0970,GIT25CIVIL070,Hema Iyer,Female,CIVIL,Civil Engineering,1,6.49,79.6,0,No,Bhopal,hema.iyer.970@greenfield.example
+S0971,GIT25CIVIL071,Bhavna Kulkarni,Female,CIVIL,Civil Engineering,1,9.36,90.1,0,Yes,Hyderabad,bhavna.kulkarni.971@greenfield.example
+S0972,GIT25CIVIL072,Bhavna Dubey,Female,CIVIL,Civil Engineering,1,8.23,84.5,0,No,Hyderabad,bhavna.dubey.972@greenfield.example
+S0973,GIT25CIVIL073,Chitra Bhat,Female,CIVIL,Civil Engineering,1,6.45,99.0,0,No,Lucknow,chitra.bhat.973@greenfield.example
+S0974,GIT25CIVIL074,Zoya Das,Female,CIVIL,Civil Engineering,1,8.41,89.9,0,No,Kochi,zoya.das.974@greenfield.example
+S0975,GIT25CIVIL075,Suresh Thomas,Male,CIVIL,Civil Engineering,1,6.72,94.6,0,No,Coimbatore,suresh.thomas.975@greenfield.example
+S0976,GIT24CIVIL001,Vidya Verma,Female,CIVIL,Civil Engineering,2,6.99,76.8,0,No,Kolkata,vidya.verma.976@greenfield.example
+S0977,GIT24CIVIL002,Chitra DSouza,Female,CIVIL,Civil Engineering,2,7.89,77.7,0,No,Nagpur,chitra.dsouza.977@greenfield.example
+S0978,GIT24CIVIL003,Piyush Thakur,Male,CIVIL,Civil Engineering,2,7.42,70.1,0,No,Vizag,piyush.thakur.978@greenfield.example
+S0979,GIT24CIVIL004,Mansi Malhotra,Female,CIVIL,Civil Engineering,2,5.15,95.8,0,No,Coimbatore,mansi.malhotra.979@greenfield.example
+S0980,GIT24CIVIL005,Neeraj Hegde,Male,CIVIL,Civil Engineering,2,7.50,75.6,0,No,Mysuru,neeraj.hegde.980@greenfield.example
+S0981,GIT24CIVIL006,Farhan Banerjee,Male,CIVIL,Civil Engineering,2,6.46,81.8,0,Yes,Kochi,farhan.banerjee.981@greenfield.example
+S0982,GIT24CIVIL007,Divya Yadav,Female,CIVIL,Civil Engineering,2,8.24,65.4,0,Yes,Coimbatore,divya.yadav.982@greenfield.example
+S0983,GIT24CIVIL008,Hemant Bhat,Male,CIVIL,Civil Engineering,2,6.84,79.6,0,No,Mysuru,hemant.bhat.983@greenfield.example
+S0984,GIT24CIVIL009,Pranav Bhatia,Male,CIVIL,Civil Engineering,2,9.17,87.8,0,No,Jaipur,pranav.bhatia.984@greenfield.example
+S0985,GIT24CIVIL010,Zoya Nair,Female,CIVIL,Civil Engineering,2,5.98,100.0,2,Yes,Bengaluru,zoya.nair.985@greenfield.example
+S0986,GIT24CIVIL011,Shreya Tiwari,Female,CIVIL,Civil Engineering,2,7.04,91.7,0,Yes,Mysuru,shreya.tiwari.986@greenfield.example
+S0987,GIT24CIVIL012,Rohan Thomas,Male,CIVIL,Civil Engineering,2,5.75,62.0,0,Yes,Lucknow,rohan.thomas.987@greenfield.example
+S0988,GIT24CIVIL013,Yash Tiwari,Male,CIVIL,Civil Engineering,2,6.68,83.4,0,Yes,Jaipur,yash.tiwari.988@greenfield.example
+S0989,GIT24CIVIL014,Esha Das,Female,CIVIL,Civil Engineering,2,7.35,93.3,0,Yes,Lucknow,esha.das.989@greenfield.example
+S0990,GIT24CIVIL015,Mohit Mishra,Male,CIVIL,Civil Engineering,2,7.51,64.2,0,No,Lucknow,mohit.mishra.990@greenfield.example
+S0991,GIT24CIVIL016,Mansi Arora,Female,CIVIL,Civil Engineering,2,7.75,96.0,0,No,Chennai,mansi.arora.991@greenfield.example
+S0992,GIT24CIVIL017,Latha Mehta,Female,CIVIL,Civil Engineering,2,7.62,79.2,0,Yes,Mumbai,latha.mehta.992@greenfield.example
+S0993,GIT24CIVIL018,Bharat Reddy,Male,CIVIL,Civil Engineering,2,9.48,77.5,0,No,Nagpur,bharat.reddy.993@greenfield.example
+S0994,GIT24CIVIL019,Rhea Bhatia,Female,CIVIL,Civil Engineering,2,7.00,96.6,0,No,Vizag,rhea.bhatia.994@greenfield.example
+S0995,GIT24CIVIL020,Ritvik Khan,Male,CIVIL,Civil Engineering,2,7.33,83.5,0,No,Nagpur,ritvik.khan.995@greenfield.example
+S0996,GIT24CIVIL021,Devansh Krishnan,Male,CIVIL,Civil Engineering,2,6.56,82.6,0,Yes,Lucknow,devansh.krishnan.996@greenfield.example
+S0997,GIT24CIVIL022,Indira Sethi,Female,CIVIL,Civil Engineering,2,6.65,90.3,1,Yes,Lucknow,indira.sethi.997@greenfield.example
+S0998,GIT24CIVIL023,Vidya Arora,Female,CIVIL,Civil Engineering,2,7.54,75.8,0,Yes,Kolkata,vidya.arora.998@greenfield.example
+S0999,GIT24CIVIL024,Hemant Pillai,Male,CIVIL,Civil Engineering,2,7.13,69.9,0,Yes,Jaipur,hemant.pillai.999@greenfield.example
+S1000,GIT24CIVIL025,Dhruv Shetty,Male,CIVIL,Civil Engineering,2,7.21,80.5,0,No,Chennai,dhruv.shetty.1000@greenfield.example
+S1001,GIT24CIVIL026,Garima George,Female,CIVIL,Civil Engineering,2,6.41,94.5,2,Yes,Jaipur,garima.george.1001@greenfield.example
+S1002,GIT24CIVIL027,Chitra Shetty,Female,CIVIL,Civil Engineering,2,8.52,84.6,0,Yes,Hyderabad,chitra.shetty.1002@greenfield.example
+S1003,GIT24CIVIL028,Varun DSouza,Male,CIVIL,Civil Engineering,2,9.00,88.3,0,Yes,Delhi,varun.dsouza.1003@greenfield.example
+S1004,GIT24CIVIL029,Meera Reddy,Female,CIVIL,Civil Engineering,2,7.28,78.8,0,No,Jaipur,meera.reddy.1004@greenfield.example
+S1005,GIT24CIVIL030,Aarav Agarwal,Male,CIVIL,Civil Engineering,2,5.71,91.0,0,No,Kochi,aarav.agarwal.1005@greenfield.example
+S1006,GIT24CIVIL031,Tejas Mukherjee,Male,CIVIL,Civil Engineering,2,8.34,76.7,0,Yes,Mysuru,tejas.mukherjee.1006@greenfield.example
+S1007,GIT24CIVIL032,Manish Bhat,Male,CIVIL,Civil Engineering,2,7.08,88.1,0,Yes,Kochi,manish.bhat.1007@greenfield.example
+S1008,GIT24CIVIL033,Deepak Sethi,Male,CIVIL,Civil Engineering,2,8.07,83.9,0,Yes,Vizag,deepak.sethi.1008@greenfield.example
+S1009,GIT24CIVIL034,Meera Thakur,Female,CIVIL,Civil Engineering,2,8.97,87.5,0,No,Coimbatore,meera.thakur.1009@greenfield.example
+S1010,GIT24CIVIL035,Madhav Kulkarni,Male,CIVIL,Civil Engineering,2,7.77,67.0,0,Yes,Lucknow,madhav.kulkarni.1010@greenfield.example
+S1011,GIT24CIVIL036,Nikhil Thomas,Male,CIVIL,Civil Engineering,2,7.23,87.8,0,No,Hyderabad,nikhil.thomas.1011@greenfield.example
+S1012,GIT24CIVIL037,Rajat Gowda,Male,CIVIL,Civil Engineering,2,6.44,82.3,0,No,Bhopal,rajat.gowda.1012@greenfield.example
+S1013,GIT24CIVIL038,Ananya Ghosh,Female,CIVIL,Civil Engineering,2,7.41,75.3,0,No,Coimbatore,ananya.ghosh.1013@greenfield.example
+S1014,GIT24CIVIL039,Lokesh Thomas,Male,CIVIL,Civil Engineering,2,9.15,94.1,0,No,Jaipur,lokesh.thomas.1014@greenfield.example
+S1015,GIT24CIVIL040,Uday George,Male,CIVIL,Civil Engineering,2,8.34,75.5,0,Yes,Vizag,uday.george.1015@greenfield.example
+S1016,GIT24CIVIL041,Urvi Saxena,Female,CIVIL,Civil Engineering,2,7.67,99.7,0,No,Lucknow,urvi.saxena.1016@greenfield.example
+S1017,GIT24CIVIL042,Falguni Joshi,Female,CIVIL,Civil Engineering,2,8.68,72.6,0,Yes,Nagpur,falguni.joshi.1017@greenfield.example
+S1018,GIT24CIVIL043,Omkar DSouza,Male,CIVIL,Civil Engineering,2,9.26,64.5,0,No,Mumbai,omkar.dsouza.1018@greenfield.example
+S1019,GIT24CIVIL044,Nikhil Shah,Male,CIVIL,Civil Engineering,2,9.08,83.6,0,No,Chennai,nikhil.shah.1019@greenfield.example
+S1020,GIT24CIVIL045,Trisha Chandra,Female,CIVIL,Civil Engineering,2,7.08,72.3,0,No,Chennai,trisha.chandra.1020@greenfield.example
+S1021,GIT24CIVIL046,Riya Arora,Female,CIVIL,Civil Engineering,2,6.78,96.3,0,No,Mumbai,riya.arora.1021@greenfield.example
+S1022,GIT24CIVIL047,Siddharth Gowda,Male,CIVIL,Civil Engineering,2,6.92,89.7,0,No,Jaipur,siddharth.gowda.1022@greenfield.example
+S1023,GIT24CIVIL048,Chirag Mukherjee,Male,CIVIL,Civil Engineering,2,7.90,80.9,0,Yes,Vizag,chirag.mukherjee.1023@greenfield.example
+S1024,GIT24CIVIL049,Jatin Gupta,Male,CIVIL,Civil Engineering,2,9.33,79.8,0,No,Coimbatore,jatin.gupta.1024@greenfield.example
+S1025,GIT24CIVIL050,Omkar Pillai,Male,CIVIL,Civil Engineering,2,6.63,82.9,0,Yes,Bengaluru,omkar.pillai.1025@greenfield.example
+S1026,GIT24CIVIL051,Pranav Mishra,Male,CIVIL,Civil Engineering,2,7.90,75.6,0,No,Bengaluru,pranav.mishra.1026@greenfield.example
+S1027,GIT24CIVIL052,Tara Gupta,Female,CIVIL,Civil Engineering,2,7.01,94.9,0,Yes,Coimbatore,tara.gupta.1027@greenfield.example
+S1028,GIT24CIVIL053,Gauri Arora,Female,CIVIL,Civil Engineering,2,7.11,89.3,0,No,Pune,gauri.arora.1028@greenfield.example
+S1029,GIT24CIVIL054,Zoya Menon,Female,CIVIL,Civil Engineering,2,7.10,95.2,0,Yes,Mumbai,zoya.menon.1029@greenfield.example
+S1030,GIT24CIVIL055,Urvi Varghese,Female,CIVIL,Civil Engineering,2,6.51,97.4,0,No,Chennai,urvi.varghese.1030@greenfield.example
+S1031,GIT24CIVIL056,Gauri Venkatesh,Female,CIVIL,Civil Engineering,2,7.54,73.2,0,No,Jaipur,gauri.venkatesh.1031@greenfield.example
+S1032,GIT24CIVIL057,Tejas Bhat,Male,CIVIL,Civil Engineering,2,6.73,77.1,1,No,Coimbatore,tejas.bhat.1032@greenfield.example
+S1033,GIT24CIVIL058,Ganesh Rao,Male,CIVIL,Civil Engineering,2,8.02,81.1,0,No,Nagpur,ganesh.rao.1033@greenfield.example
+S1034,GIT24CIVIL059,Ekta Iyer,Female,CIVIL,Civil Engineering,2,9.56,88.0,0,Yes,Lucknow,ekta.iyer.1034@greenfield.example
+S1035,GIT24CIVIL060,Bhavna Menon,Female,CIVIL,Civil Engineering,2,8.65,87.2,0,No,Nagpur,bhavna.menon.1035@greenfield.example
+S1036,GIT24CIVIL061,Pavan Patel,Male,CIVIL,Civil Engineering,2,8.15,75.3,0,No,Coimbatore,pavan.patel.1036@greenfield.example
+S1037,GIT24CIVIL062,Nitin Shah,Male,CIVIL,Civil Engineering,2,7.75,86.3,0,Yes,Coimbatore,nitin.shah.1037@greenfield.example
+S1038,GIT24CIVIL063,Omkar Siddiqui,Male,CIVIL,Civil Engineering,2,7.97,81.7,0,Yes,Kolkata,omkar.siddiqui.1038@greenfield.example
+S1039,GIT24CIVIL064,Ankit Sethi,Male,CIVIL,Civil Engineering,2,6.47,91.1,0,Yes,Coimbatore,ankit.sethi.1039@greenfield.example
+S1040,GIT24CIVIL065,Saanvi DSouza,Female,CIVIL,Civil Engineering,2,6.79,91.2,3,Yes,Delhi,saanvi.dsouza.1040@greenfield.example
+S1041,GIT24CIVIL066,Ira Reddy,Female,CIVIL,Civil Engineering,2,8.64,78.1,0,No,Coimbatore,ira.reddy.1041@greenfield.example
+S1042,GIT24CIVIL067,Yash Sharma,Male,CIVIL,Civil Engineering,2,7.57,94.8,0,Yes,Lucknow,yash.sharma.1042@greenfield.example
+S1043,GIT24CIVIL068,Tarun Tiwari,Male,CIVIL,Civil Engineering,2,7.20,76.1,0,Yes,Pune,tarun.tiwari.1043@greenfield.example
+S1044,GIT24CIVIL069,Bharat Naidu,Male,CIVIL,Civil Engineering,2,6.67,83.0,0,Yes,Mysuru,bharat.naidu.1044@greenfield.example
+S1045,GIT24CIVIL070,Utkarsh Thakur,Male,CIVIL,Civil Engineering,2,8.83,80.9,0,No,Coimbatore,utkarsh.thakur.1045@greenfield.example
+S1046,GIT24CIVIL071,Deepak Tiwari,Male,CIVIL,Civil Engineering,2,6.17,91.0,0,No,Kochi,deepak.tiwari.1046@greenfield.example
+S1047,GIT24CIVIL072,Utkarsh Kulkarni,Male,CIVIL,Civil Engineering,2,7.28,76.6,0,No,Nagpur,utkarsh.kulkarni.1047@greenfield.example
+S1048,GIT24CIVIL073,Karthik Siddiqui,Male,CIVIL,Civil Engineering,2,6.77,72.4,0,No,Chennai,karthik.siddiqui.1048@greenfield.example
+S1049,GIT24CIVIL074,Tarun Dubey,Male,CIVIL,Civil Engineering,2,9.31,81.6,0,No,Bhopal,tarun.dubey.1049@greenfield.example
+S1050,GIT24CIVIL075,Ankit Chauhan,Male,CIVIL,Civil Engineering,2,8.05,76.9,0,Yes,Pune,ankit.chauhan.1050@greenfield.example
+S1051,GIT23CIVIL001,Urvi DSouza,Female,CIVIL,Civil Engineering,3,6.90,79.9,0,No,Mysuru,urvi.dsouza.1051@greenfield.example
+S1052,GIT23CIVIL002,Trisha Mehta,Female,CIVIL,Civil Engineering,3,6.68,85.8,2,Yes,Hyderabad,trisha.mehta.1052@greenfield.example
+S1053,GIT23CIVIL003,Fatima Tiwari,Female,CIVIL,Civil Engineering,3,7.37,88.0,0,No,Jaipur,fatima.tiwari.1053@greenfield.example
+S1054,GIT23CIVIL004,Mohit Sharma,Male,CIVIL,Civil Engineering,3,8.00,96.8,0,No,Nagpur,mohit.sharma.1054@greenfield.example
+S1055,GIT23CIVIL005,Janaki Desai,Female,CIVIL,Civil Engineering,3,6.18,78.7,3,No,Mumbai,janaki.desai.1055@greenfield.example
+S1056,GIT23CIVIL006,Aarav Shetty,Male,CIVIL,Civil Engineering,3,9.39,98.7,0,No,Coimbatore,aarav.shetty.1056@greenfield.example
+S1057,GIT23CIVIL007,Karthik Venkatesh,Male,CIVIL,Civil Engineering,3,8.79,86.6,0,No,Kochi,karthik.venkatesh.1057@greenfield.example
+S1058,GIT23CIVIL008,Ramesh Shetty,Male,CIVIL,Civil Engineering,3,5.96,89.2,3,No,Jaipur,ramesh.shetty.1058@greenfield.example
+S1059,GIT23CIVIL009,Nikhil Mehta,Male,CIVIL,Civil Engineering,3,8.63,75.3,0,Yes,Kolkata,nikhil.mehta.1059@greenfield.example
+S1060,GIT23CIVIL010,Jatin Mathew,Male,CIVIL,Civil Engineering,3,8.19,85.6,0,No,Chennai,jatin.mathew.1060@greenfield.example
+S1061,GIT23CIVIL011,Lavanya Agarwal,Female,CIVIL,Civil Engineering,3,7.56,84.9,0,Yes,Mumbai,lavanya.agarwal.1061@greenfield.example
+S1062,GIT23CIVIL012,Shreya Khanna,Female,CIVIL,Civil Engineering,3,7.01,78.2,0,Yes,Jaipur,shreya.khanna.1062@greenfield.example
+S1063,GIT23CIVIL013,Latha Tiwari,Female,CIVIL,Civil Engineering,3,5.40,84.6,0,Yes,Kochi,latha.tiwari.1063@greenfield.example
+S1064,GIT23CIVIL014,Deepa Yadav,Female,CIVIL,Civil Engineering,3,7.31,84.4,0,Yes,Lucknow,deepa.yadav.1064@greenfield.example
+S1065,GIT23CIVIL015,Urvi Iyer,Female,CIVIL,Civil Engineering,3,6.62,90.4,0,No,Lucknow,urvi.iyer.1065@greenfield.example
+S1066,GIT23CIVIL016,Mansi Menon,Female,CIVIL,Civil Engineering,3,8.18,74.6,0,No,Chennai,mansi.menon.1066@greenfield.example
+S1067,GIT23CIVIL017,Farhan Gupta,Male,CIVIL,Civil Engineering,3,6.59,97.0,0,No,Kolkata,farhan.gupta.1067@greenfield.example
+S1068,GIT23CIVIL018,Ojasvi Singh,Female,CIVIL,Civil Engineering,3,6.56,89.4,0,No,Delhi,ojasvi.singh.1068@greenfield.example
+S1069,GIT23CIVIL019,Urvi Chatterjee,Female,CIVIL,Civil Engineering,3,7.89,87.2,0,Yes,Hyderabad,urvi.chatterjee.1069@greenfield.example
+S1070,GIT23CIVIL020,Madhav Banerjee,Male,CIVIL,Civil Engineering,3,7.49,95.4,0,No,Vizag,madhav.banerjee.1070@greenfield.example
+S1071,GIT23CIVIL021,Sanjay Chauhan,Male,CIVIL,Civil Engineering,3,6.23,84.7,0,No,Jaipur,sanjay.chauhan.1071@greenfield.example
+S1072,GIT23CIVIL022,Ankit Ghosh,Male,CIVIL,Civil Engineering,3,7.75,75.3,0,No,Nagpur,ankit.ghosh.1072@greenfield.example
+S1073,GIT23CIVIL023,Manish Chauhan,Male,CIVIL,Civil Engineering,3,9.90,78.6,0,No,Kolkata,manish.chauhan.1073@greenfield.example
+S1074,GIT23CIVIL024,Sanjay Menon,Male,CIVIL,Civil Engineering,3,7.93,66.2,0,No,Kochi,sanjay.menon.1074@greenfield.example
+S1075,GIT23CIVIL025,Piyush Gupta,Male,CIVIL,Civil Engineering,3,6.45,81.6,0,No,Delhi,piyush.gupta.1075@greenfield.example
+S1076,GIT23CIVIL026,Utkarsh Patel,Male,CIVIL,Civil Engineering,3,6.83,80.3,0,No,Jaipur,utkarsh.patel.1076@greenfield.example
+S1077,GIT23CIVIL027,Saanvi Pandey,Female,CIVIL,Civil Engineering,3,7.62,72.8,0,Yes,Bhopal,saanvi.pandey.1077@greenfield.example
+S1078,GIT23CIVIL028,Prateek Bhatia,Male,CIVIL,Civil Engineering,3,6.41,83.1,0,No,Nagpur,prateek.bhatia.1078@greenfield.example
+S1079,GIT23CIVIL029,Vaishnavi Patel,Female,CIVIL,Civil Engineering,3,6.68,75.8,0,Yes,Delhi,vaishnavi.patel.1079@greenfield.example
+S1080,GIT23CIVIL030,Ishaan Arora,Male,CIVIL,Civil Engineering,3,6.87,85.3,0,Yes,Delhi,ishaan.arora.1080@greenfield.example
+S1081,GIT23CIVIL031,Navya Pillai,Female,CIVIL,Civil Engineering,3,6.59,81.6,0,No,Hyderabad,navya.pillai.1081@greenfield.example
+S1082,GIT23CIVIL032,Gaurav Rao,Male,CIVIL,Civil Engineering,3,8.40,96.1,0,Yes,Lucknow,gaurav.rao.1082@greenfield.example
+S1083,GIT23CIVIL033,Sanjay Khanna,Male,CIVIL,Civil Engineering,3,8.93,81.7,0,Yes,Coimbatore,sanjay.khanna.1083@greenfield.example
+S1084,GIT23CIVIL034,Esha Naidu,Female,CIVIL,Civil Engineering,3,7.60,80.1,0,Yes,Mysuru,esha.naidu.1084@greenfield.example
+S1085,GIT23CIVIL035,Tara Mishra,Female,CIVIL,Civil Engineering,3,6.78,87.7,0,No,Mysuru,tara.mishra.1085@greenfield.example
+S1086,GIT23CIVIL036,Mansi Venkatesh,Female,CIVIL,Civil Engineering,3,7.05,85.3,0,No,Jaipur,mansi.venkatesh.1086@greenfield.example
+S1087,GIT23CIVIL037,Lokesh Pandey,Male,CIVIL,Civil Engineering,3,8.67,90.5,0,No,Lucknow,lokesh.pandey.1087@greenfield.example
+S1088,GIT23CIVIL038,Navya Gupta,Female,CIVIL,Civil Engineering,3,5.51,82.9,0,Yes,Chennai,navya.gupta.1088@greenfield.example
+S1089,GIT23CIVIL039,Hema Hegde,Female,CIVIL,Civil Engineering,3,6.92,78.4,0,No,Kochi,hema.hegde.1089@greenfield.example
+S1090,GIT23CIVIL040,Rajat Varghese,Male,CIVIL,Civil Engineering,3,7.44,82.5,0,No,Delhi,rajat.varghese.1090@greenfield.example
+S1091,GIT23CIVIL041,Neha Kulkarni,Female,CIVIL,Civil Engineering,3,9.08,80.3,0,No,Coimbatore,neha.kulkarni.1091@greenfield.example
+S1092,GIT23CIVIL042,Vikram Singh,Male,CIVIL,Civil Engineering,3,7.29,89.1,0,No,Delhi,vikram.singh.1092@greenfield.example
+S1093,GIT23CIVIL043,Vidya Bose,Female,CIVIL,Civil Engineering,3,6.57,81.8,0,Yes,Pune,vidya.bose.1093@greenfield.example
+S1094,GIT23CIVIL044,Nitin Naidu,Male,CIVIL,Civil Engineering,3,6.96,83.2,0,No,Kolkata,nitin.naidu.1094@greenfield.example
+S1095,GIT23CIVIL045,Janaki Mehta,Female,CIVIL,Civil Engineering,3,5.87,82.4,1,No,Kolkata,janaki.mehta.1095@greenfield.example
+S1096,GIT23CIVIL046,Nitin Rao,Male,CIVIL,Civil Engineering,3,7.39,83.6,0,Yes,Jaipur,nitin.rao.1096@greenfield.example
+S1097,GIT23CIVIL047,Kavya Malhotra,Female,CIVIL,Civil Engineering,3,7.89,78.8,0,Yes,Bengaluru,kavya.malhotra.1097@greenfield.example
+S1098,GIT23CIVIL048,Ekta Reddy,Female,CIVIL,Civil Engineering,3,7.97,73.7,0,No,Vizag,ekta.reddy.1098@greenfield.example
+S1099,GIT23CIVIL049,Janaki Khan,Female,CIVIL,Civil Engineering,3,6.71,69.5,0,No,Vizag,janaki.khan.1099@greenfield.example
+S1100,GIT23CIVIL050,Pavan Arora,Male,CIVIL,Civil Engineering,3,5.78,56.3,0,Yes,Mysuru,pavan.arora.1100@greenfield.example
+S1101,GIT23CIVIL051,Farhan Singh,Male,CIVIL,Civil Engineering,3,7.37,79.4,0,Yes,Jaipur,farhan.singh.1101@greenfield.example
+S1102,GIT23CIVIL052,Sameer Arora,Male,CIVIL,Civil Engineering,3,5.26,74.2,2,Yes,Jaipur,sameer.arora.1102@greenfield.example
+S1103,GIT23CIVIL053,Uday Thomas,Male,CIVIL,Civil Engineering,3,6.69,74.6,0,No,Chennai,uday.thomas.1103@greenfield.example
+S1104,GIT23CIVIL054,Arjun Verma,Male,CIVIL,Civil Engineering,3,7.72,78.2,0,No,Vizag,arjun.verma.1104@greenfield.example
+S1105,GIT23CIVIL055,Garima Menon,Female,CIVIL,Civil Engineering,3,9.67,100.0,0,No,Jaipur,garima.menon.1105@greenfield.example
+S1106,GIT23CIVIL056,Farhan Shetty,Male,CIVIL,Civil Engineering,3,7.73,75.9,0,Yes,Bhopal,farhan.shetty.1106@greenfield.example
+S1107,GIT23CIVIL057,Bharat Subramanian,Male,CIVIL,Civil Engineering,3,7.36,90.1,0,No,Chennai,bharat.subramanian.1107@greenfield.example
+S1108,GIT23CIVIL058,Ananya Pandey,Female,CIVIL,Civil Engineering,3,7.97,68.3,0,No,Kolkata,ananya.pandey.1108@greenfield.example
+S1109,GIT23CIVIL059,Mayank Patel,Male,CIVIL,Civil Engineering,3,8.50,75.5,0,No,Vizag,mayank.patel.1109@greenfield.example
+S1110,GIT23CIVIL060,Pallavi Desai,Female,CIVIL,Civil Engineering,3,7.94,89.2,0,Yes,Hyderabad,pallavi.desai.1110@greenfield.example
+S1111,GIT23CIVIL061,Shreya Pandey,Female,CIVIL,Civil Engineering,3,7.49,76.6,0,Yes,Vizag,shreya.pandey.1111@greenfield.example
+S1112,GIT23CIVIL062,Vivaan Iyer,Male,CIVIL,Civil Engineering,3,9.23,85.6,0,No,Kochi,vivaan.iyer.1112@greenfield.example
+S1113,GIT23CIVIL063,Shreya Patel,Female,CIVIL,Civil Engineering,3,7.14,73.4,0,Yes,Vizag,shreya.patel.1113@greenfield.example
+S1114,GIT23CIVIL064,Sneha Varghese,Female,CIVIL,Civil Engineering,3,7.34,79.7,0,Yes,Mumbai,sneha.varghese.1114@greenfield.example
+S1115,GIT23CIVIL065,Nitin Yadav,Male,CIVIL,Civil Engineering,3,6.80,93.0,0,Yes,Chennai,nitin.yadav.1115@greenfield.example
+S1116,GIT23CIVIL066,Pallavi Kulkarni,Female,CIVIL,Civil Engineering,3,6.78,73.8,0,No,Nagpur,pallavi.kulkarni.1116@greenfield.example
+S1117,GIT23CIVIL067,Nikhil Rao,Male,CIVIL,Civil Engineering,3,6.38,86.5,3,Yes,Chennai,nikhil.rao.1117@greenfield.example
+S1118,GIT23CIVIL068,Barkha Nair,Female,CIVIL,Civil Engineering,3,8.69,86.2,0,No,Mumbai,barkha.nair.1118@greenfield.example
+S1119,GIT23CIVIL069,Yashika Mathew,Female,CIVIL,Civil Engineering,3,6.67,80.5,0,No,Vizag,yashika.mathew.1119@greenfield.example
+S1120,GIT23CIVIL070,Nikhil Fernandes,Male,CIVIL,Civil Engineering,3,5.84,79.6,0,Yes,Kochi,nikhil.fernandes.1120@greenfield.example
+S1121,GIT23CIVIL071,Meera Sethi,Female,CIVIL,Civil Engineering,3,5.74,83.4,3,No,Mysuru,meera.sethi.1121@greenfield.example
+S1122,GIT23CIVIL072,Akash Naidu,Male,CIVIL,Civil Engineering,3,7.40,82.4,0,Yes,Mumbai,akash.naidu.1122@greenfield.example
+S1123,GIT23CIVIL073,Nikhil Pandey,Male,CIVIL,Civil Engineering,3,7.84,73.4,0,No,Chennai,nikhil.pandey.1123@greenfield.example
+S1124,GIT23CIVIL074,Fatima Reddy,Female,CIVIL,Civil Engineering,3,7.59,94.9,0,No,Kolkata,fatima.reddy.1124@greenfield.example
+S1125,GIT23CIVIL075,Rhea Thakur,Female,CIVIL,Civil Engineering,3,8.85,97.8,0,No,Lucknow,rhea.thakur.1125@greenfield.example
+S1126,GIT22CIVIL001,Lavanya Mishra,Female,CIVIL,Civil Engineering,4,8.10,81.8,0,Yes,Lucknow,lavanya.mishra.1126@greenfield.example
+S1127,GIT22CIVIL002,Yash Siddiqui,Male,CIVIL,Civil Engineering,4,7.69,67.9,0,No,Jaipur,yash.siddiqui.1127@greenfield.example
+S1128,GIT22CIVIL003,Prateek Thakur,Male,CIVIL,Civil Engineering,4,7.56,92.1,0,Yes,Bengaluru,prateek.thakur.1128@greenfield.example
+S1129,GIT22CIVIL004,Vaishnavi Mishra,Female,CIVIL,Civil Engineering,4,6.38,89.0,0,Yes,Mumbai,vaishnavi.mishra.1129@greenfield.example
+S1130,GIT22CIVIL005,Gaurav Krishnan,Male,CIVIL,Civil Engineering,4,7.94,77.5,0,Yes,Kochi,gaurav.krishnan.1130@greenfield.example
+S1131,GIT22CIVIL006,Vivaan Chandra,Male,CIVIL,Civil Engineering,4,6.80,65.4,0,Yes,Chennai,vivaan.chandra.1131@greenfield.example
+S1132,GIT22CIVIL007,Pavan Raman,Male,CIVIL,Civil Engineering,4,7.53,66.8,1,No,Delhi,pavan.raman.1132@greenfield.example
+S1133,GIT22CIVIL008,Jatin Shah,Male,CIVIL,Civil Engineering,4,7.93,75.5,0,No,Vizag,jatin.shah.1133@greenfield.example
+S1134,GIT22CIVIL009,Ganesh George,Male,CIVIL,Civil Engineering,4,6.25,66.7,0,No,Kochi,ganesh.george.1134@greenfield.example
+S1135,GIT22CIVIL010,Janaki Patel,Female,CIVIL,Civil Engineering,4,6.69,76.8,0,No,Coimbatore,janaki.patel.1135@greenfield.example
+S1136,GIT22CIVIL011,Urvi Malhotra,Female,CIVIL,Civil Engineering,4,6.48,81.8,1,No,Chennai,urvi.malhotra.1136@greenfield.example
+S1137,GIT22CIVIL012,Charvi DSouza,Female,CIVIL,Civil Engineering,4,7.87,73.0,1,No,Bengaluru,charvi.dsouza.1137@greenfield.example
+S1138,GIT22CIVIL013,Diya Subramanian,Female,CIVIL,Civil Engineering,4,7.18,83.2,0,Yes,Mysuru,diya.subramanian.1138@greenfield.example
+S1139,GIT22CIVIL014,Barkha Patel,Female,CIVIL,Civil Engineering,4,6.86,77.5,3,No,Coimbatore,barkha.patel.1139@greenfield.example
+S1140,GIT22CIVIL015,Deepa Joshi,Female,CIVIL,Civil Engineering,4,6.95,72.0,0,No,Vizag,deepa.joshi.1140@greenfield.example
+S1141,GIT22CIVIL016,Aarohi Mishra,Female,CIVIL,Civil Engineering,4,6.79,95.7,0,Yes,Mumbai,aarohi.mishra.1141@greenfield.example
+S1142,GIT22CIVIL017,Vijay Yadav,Male,CIVIL,Civil Engineering,4,7.62,73.8,0,Yes,Delhi,vijay.yadav.1142@greenfield.example
+S1143,GIT22CIVIL018,Tarun Yadav,Male,CIVIL,Civil Engineering,4,8.18,83.9,0,Yes,Hyderabad,tarun.yadav.1143@greenfield.example
+S1144,GIT22CIVIL019,Aditi Kurian,Female,CIVIL,Civil Engineering,4,9.32,76.2,0,No,Jaipur,aditi.kurian.1144@greenfield.example
+S1145,GIT22CIVIL020,Manish Verma,Male,CIVIL,Civil Engineering,4,7.77,80.0,0,Yes,Pune,manish.verma.1145@greenfield.example
+S1146,GIT22CIVIL021,Sameer George,Male,CIVIL,Civil Engineering,4,6.03,89.3,0,No,Delhi,sameer.george.1146@greenfield.example
+S1147,GIT22CIVIL022,Vidya Fernandes,Female,CIVIL,Civil Engineering,4,6.87,87.2,0,Yes,Kochi,vidya.fernandes.1147@greenfield.example
+S1148,GIT22CIVIL023,Uma Hegde,Female,CIVIL,Civil Engineering,4,5.66,69.0,0,No,Kolkata,uma.hegde.1148@greenfield.example
+S1149,GIT22CIVIL024,Dhruv Gupta,Male,CIVIL,Civil Engineering,4,6.78,85.5,0,Yes,Bengaluru,dhruv.gupta.1149@greenfield.example
+S1150,GIT22CIVIL025,Garima Banerjee,Female,CIVIL,Civil Engineering,4,7.10,85.9,0,No,Lucknow,garima.banerjee.1150@greenfield.example
+S1151,GIT22CIVIL026,Harini Siddiqui,Female,CIVIL,Civil Engineering,4,7.06,100.0,0,Yes,Coimbatore,harini.siddiqui.1151@greenfield.example
+S1152,GIT22CIVIL027,Rahul Rao,Male,CIVIL,Civil Engineering,4,7.28,77.6,0,No,Bengaluru,rahul.rao.1152@greenfield.example
+S1153,GIT22CIVIL028,Siddharth Khanna,Male,CIVIL,Civil Engineering,4,7.06,82.1,0,No,Vizag,siddharth.khanna.1153@greenfield.example
+S1154,GIT22CIVIL029,Latha Krishnan,Female,CIVIL,Civil Engineering,4,7.75,93.3,0,No,Vizag,latha.krishnan.1154@greenfield.example
+S1155,GIT22CIVIL030,Tarun Varghese,Male,CIVIL,Civil Engineering,4,6.74,78.1,2,No,Mumbai,tarun.varghese.1155@greenfield.example
+S1156,GIT22CIVIL031,Farhan Hegde,Male,CIVIL,Civil Engineering,4,7.22,99.4,0,Yes,Vizag,farhan.hegde.1156@greenfield.example
+S1157,GIT22CIVIL032,Diya Ghosh,Female,CIVIL,Civil Engineering,4,7.16,89.8,0,No,Delhi,diya.ghosh.1157@greenfield.example
+S1158,GIT22CIVIL033,Ganesh Reddy,Male,CIVIL,Civil Engineering,4,6.83,83.5,0,No,Pune,ganesh.reddy.1158@greenfield.example
+S1159,GIT22CIVIL034,Saanvi Reddy,Female,CIVIL,Civil Engineering,4,5.56,84.5,0,No,Lucknow,saanvi.reddy.1159@greenfield.example
+S1160,GIT22CIVIL035,Isha George,Female,CIVIL,Civil Engineering,4,6.69,75.1,0,No,Jaipur,isha.george.1160@greenfield.example
+S1161,GIT22CIVIL036,Vivaan Menon,Male,CIVIL,Civil Engineering,4,7.34,76.4,0,Yes,Vizag,vivaan.menon.1161@greenfield.example
+S1162,GIT22CIVIL037,Kavya George,Female,CIVIL,Civil Engineering,4,6.43,53.2,0,Yes,Bengaluru,kavya.george.1162@greenfield.example
+S1163,GIT22CIVIL038,Jhanvi Tiwari,Female,CIVIL,Civil Engineering,4,5.93,74.2,1,Yes,Mumbai,jhanvi.tiwari.1163@greenfield.example
+S1164,GIT22CIVIL039,Vaishnavi Gupta,Female,CIVIL,Civil Engineering,4,6.45,72.3,0,No,Mumbai,vaishnavi.gupta.1164@greenfield.example
+S1165,GIT22CIVIL040,Jhanvi Sethi,Female,CIVIL,Civil Engineering,4,6.31,88.9,0,Yes,Kochi,jhanvi.sethi.1165@greenfield.example
+S1166,GIT22CIVIL041,Ananya Raman,Female,CIVIL,Civil Engineering,4,8.98,79.4,0,Yes,Kolkata,ananya.raman.1166@greenfield.example
+S1167,GIT22CIVIL042,Priya Mukherjee,Female,CIVIL,Civil Engineering,4,8.49,93.8,0,No,Jaipur,priya.mukherjee.1167@greenfield.example
+S1168,GIT22CIVIL043,Nikhil Mukherjee,Male,CIVIL,Civil Engineering,4,7.08,86.9,0,No,Coimbatore,nikhil.mukherjee.1168@greenfield.example
+S1169,GIT22CIVIL044,Ankit Khan,Male,CIVIL,Civil Engineering,4,5.66,71.5,1,Yes,Jaipur,ankit.khan.1169@greenfield.example
+S1170,GIT22CIVIL045,Aditya Verma,Male,CIVIL,Civil Engineering,4,7.67,85.7,0,No,Lucknow,aditya.verma.1170@greenfield.example
+S1171,GIT22CIVIL046,Kritika Agarwal,Female,CIVIL,Civil Engineering,4,6.43,90.2,0,Yes,Bengaluru,kritika.agarwal.1171@greenfield.example
+S1172,GIT22CIVIL047,Naveen Nair,Male,CIVIL,Civil Engineering,4,8.80,66.5,0,No,Jaipur,naveen.nair.1172@greenfield.example
+S1173,GIT22CIVIL048,Harsh Mukherjee,Male,CIVIL,Civil Engineering,4,7.07,78.3,0,Yes,Bhopal,harsh.mukherjee.1173@greenfield.example
+S1174,GIT22CIVIL049,Tejas Sharma,Male,CIVIL,Civil Engineering,4,7.77,96.9,0,Yes,Bhopal,tejas.sharma.1174@greenfield.example
+S1175,GIT22CIVIL050,Ramesh Reddy,Male,CIVIL,Civil Engineering,4,7.02,88.8,0,No,Coimbatore,ramesh.reddy.1175@greenfield.example
+S1176,GIT22CIVIL051,Piyush Bhatia,Male,CIVIL,Civil Engineering,4,5.57,97.7,1,Yes,Bhopal,piyush.bhatia.1176@greenfield.example
+S1177,GIT22CIVIL052,Zoya Khan,Female,CIVIL,Civil Engineering,4,6.10,69.9,1,Yes,Kolkata,zoya.khan.1177@greenfield.example
+S1178,GIT22CIVIL053,Harini Bose,Female,CIVIL,Civil Engineering,4,7.08,77.5,0,Yes,Jaipur,harini.bose.1178@greenfield.example
+S1179,GIT22CIVIL054,Hema Varghese,Female,CIVIL,Civil Engineering,4,5.97,85.6,3,Yes,Pune,hema.varghese.1179@greenfield.example
+S1180,GIT22CIVIL055,Neeraj Dubey,Male,CIVIL,Civil Engineering,4,7.23,84.1,0,Yes,Bhopal,neeraj.dubey.1180@greenfield.example
+S1181,GIT22CIVIL056,Diya Rao,Female,CIVIL,Civil Engineering,4,5.37,99.1,0,No,Chennai,diya.rao.1181@greenfield.example
+S1182,GIT22CIVIL057,Varun Bose,Male,CIVIL,Civil Engineering,4,7.36,86.3,0,No,Jaipur,varun.bose.1182@greenfield.example
+S1183,GIT22CIVIL058,Rhea Reddy,Female,CIVIL,Civil Engineering,4,6.01,99.8,0,No,Mumbai,rhea.reddy.1183@greenfield.example
+S1184,GIT22CIVIL059,Fatima Dubey,Female,CIVIL,Civil Engineering,4,5.54,80.2,0,Yes,Mysuru,fatima.dubey.1184@greenfield.example
+S1185,GIT22CIVIL060,Tanvi Sethi,Female,CIVIL,Civil Engineering,4,8.64,80.9,0,No,Mumbai,tanvi.sethi.1185@greenfield.example
+S1186,GIT22CIVIL061,Aditya Das,Male,CIVIL,Civil Engineering,4,8.29,87.2,0,Yes,Kolkata,aditya.das.1186@greenfield.example
+S1187,GIT22CIVIL062,Ramesh Malhotra,Male,CIVIL,Civil Engineering,4,7.12,81.7,0,Yes,Jaipur,ramesh.malhotra.1187@greenfield.example
+S1188,GIT22CIVIL063,Ojasvi Varghese,Female,CIVIL,Civil Engineering,4,7.59,89.8,0,No,Mumbai,ojasvi.varghese.1188@greenfield.example
+S1189,GIT22CIVIL064,Neha Mishra,Female,CIVIL,Civil Engineering,4,7.84,85.1,0,No,Lucknow,neha.mishra.1189@greenfield.example
+S1190,GIT22CIVIL065,Trisha Rao,Female,CIVIL,Civil Engineering,4,5.46,92.7,0,No,Vizag,trisha.rao.1190@greenfield.example
+S1191,GIT22CIVIL066,Diya Das,Female,CIVIL,Civil Engineering,4,6.27,84.3,0,No,Mysuru,diya.das.1191@greenfield.example
+S1192,GIT22CIVIL067,Jatin Agarwal,Male,CIVIL,Civil Engineering,4,7.96,83.2,0,No,Chennai,jatin.agarwal.1192@greenfield.example
+S1193,GIT22CIVIL068,Aditi Gupta,Female,CIVIL,Civil Engineering,4,8.55,79.8,0,No,Kolkata,aditi.gupta.1193@greenfield.example
+S1194,GIT22CIVIL069,Manish Das,Male,CIVIL,Civil Engineering,4,9.05,89.5,0,Yes,Jaipur,manish.das.1194@greenfield.example
+S1195,GIT22CIVIL070,Rahul Chandra,Male,CIVIL,Civil Engineering,4,7.63,96.4,0,No,Nagpur,rahul.chandra.1195@greenfield.example
+S1196,GIT22CIVIL071,Ritvik Varghese,Male,CIVIL,Civil Engineering,4,6.21,92.9,0,Yes,Bengaluru,ritvik.varghese.1196@greenfield.example
+S1197,GIT22CIVIL072,Divya Hegde,Female,CIVIL,Civil Engineering,4,7.23,82.8,0,No,Kochi,divya.hegde.1197@greenfield.example
+S1198,GIT22CIVIL073,Esha Iyer,Female,CIVIL,Civil Engineering,4,5.65,75.3,0,No,Jaipur,esha.iyer.1198@greenfield.example
+S1199,GIT22CIVIL074,Vedant Thomas,Male,CIVIL,Civil Engineering,4,7.02,99.7,0,Yes,Lucknow,vedant.thomas.1199@greenfield.example
+S1200,GIT22CIVIL075,Vidya Desai,Female,CIVIL,Civil Engineering,4,7.18,84.9,0,No,Nagpur,vidya.desai.1200@greenfield.example
+S1201,GIT25MBA001,Tanmay Siddiqui,Male,MBA,Management Studies,1,7.79,80.5,0,No,Bhopal,tanmay.siddiqui.1201@greenfield.example
+S1202,GIT25MBA002,Yash Shah,Male,MBA,Management Studies,1,7.86,76.6,0,Yes,Nagpur,yash.shah.1202@greenfield.example
+S1203,GIT25MBA003,Jhanvi Dubey,Female,MBA,Management Studies,1,8.74,84.0,0,No,Kochi,jhanvi.dubey.1203@greenfield.example
+S1204,GIT25MBA004,Ankit Malhotra,Male,MBA,Management Studies,1,9.05,77.0,0,No,Delhi,ankit.malhotra.1204@greenfield.example
+S1205,GIT25MBA005,Tarun Mehta,Male,MBA,Management Studies,1,6.88,84.4,0,No,Vizag,tarun.mehta.1205@greenfield.example
+S1206,GIT25MBA006,Ekta Khan,Female,MBA,Management Studies,1,7.12,79.1,0,No,Vizag,ekta.khan.1206@greenfield.example
+S1207,GIT25MBA007,Indira Shah,Female,MBA,Management Studies,1,7.35,92.7,0,No,Delhi,indira.shah.1207@greenfield.example
+S1208,GIT25MBA008,Charvi Kurian,Female,MBA,Management Studies,1,8.27,85.8,0,No,Bhopal,charvi.kurian.1208@greenfield.example
+S1209,GIT25MBA009,Janaki Sen,Female,MBA,Management Studies,1,8.04,81.7,0,No,Lucknow,janaki.sen.1209@greenfield.example
+S1210,GIT25MBA010,Aarav Tiwari,Male,MBA,Management Studies,1,6.78,74.5,0,Yes,Kochi,aarav.tiwari.1210@greenfield.example
+S1211,GIT25MBA011,Urvi Agarwal,Female,MBA,Management Studies,1,7.34,81.9,0,No,Kochi,urvi.agarwal.1211@greenfield.example
+S1212,GIT25MBA012,Shreya Sethi,Female,MBA,Management Studies,1,8.21,77.9,0,No,Delhi,shreya.sethi.1212@greenfield.example
+S1213,GIT25MBA013,Yashika Deshmukh,Female,MBA,Management Studies,1,7.25,78.4,0,No,Kolkata,yashika.deshmukh.1213@greenfield.example
+S1214,GIT25MBA014,Nitin Kurian,Male,MBA,Management Studies,1,7.68,81.1,0,No,Mumbai,nitin.kurian.1214@greenfield.example
+S1215,GIT25MBA015,Kavya Khanna,Female,MBA,Management Studies,1,7.24,84.1,0,Yes,Hyderabad,kavya.khanna.1215@greenfield.example
+S1216,GIT25MBA016,Zoya Iyer,Female,MBA,Management Studies,1,9.36,78.2,0,No,Nagpur,zoya.iyer.1216@greenfield.example
+S1217,GIT25MBA017,Divya Verma,Female,MBA,Management Studies,1,6.12,84.6,0,No,Coimbatore,divya.verma.1217@greenfield.example
+S1218,GIT25MBA018,Aditya Varghese,Male,MBA,Management Studies,1,7.09,90.2,0,No,Mysuru,aditya.varghese.1218@greenfield.example
+S1219,GIT25MBA019,Latha Desai,Female,MBA,Management Studies,1,6.59,79.1,0,Yes,Jaipur,latha.desai.1219@greenfield.example
+S1220,GIT25MBA020,Kunal Venkatesh,Male,MBA,Management Studies,1,8.22,82.3,0,No,Kochi,kunal.venkatesh.1220@greenfield.example
+S1221,GIT25MBA021,Prateek Banerjee,Male,MBA,Management Studies,1,5.56,59.5,0,No,Mysuru,prateek.banerjee.1221@greenfield.example
+S1222,GIT25MBA022,Falguni Desai,Female,MBA,Management Studies,1,6.94,82.8,0,No,Jaipur,falguni.desai.1222@greenfield.example
+S1223,GIT25MBA023,Neha Naidu,Female,MBA,Management Studies,1,6.57,80.4,0,No,Jaipur,neha.naidu.1223@greenfield.example
+S1224,GIT25MBA024,Rajat Fernandes,Male,MBA,Management Studies,1,9.40,91.4,0,No,Mysuru,rajat.fernandes.1224@greenfield.example
+S1225,GIT25MBA025,Varun Saxena,Male,MBA,Management Studies,1,8.62,89.1,0,Yes,Hyderabad,varun.saxena.1225@greenfield.example
+S1226,GIT25MBA026,Aditi Khan,Female,MBA,Management Studies,1,8.94,85.6,0,Yes,Delhi,aditi.khan.1226@greenfield.example
+S1227,GIT25MBA027,Yashika Iyer,Female,MBA,Management Studies,1,6.34,89.7,0,Yes,Kochi,yashika.iyer.1227@greenfield.example
+S1228,GIT25MBA028,Gaurav Chatterjee,Male,MBA,Management Studies,1,5.72,80.7,1,Yes,Pune,gaurav.chatterjee.1228@greenfield.example
+S1229,GIT25MBA029,Ananya Kulkarni,Female,MBA,Management Studies,1,8.36,64.6,0,Yes,Bengaluru,ananya.kulkarni.1229@greenfield.example
+S1230,GIT25MBA030,Ananya Singh,Female,MBA,Management Studies,1,6.88,69.7,0,No,Kolkata,ananya.singh.1230@greenfield.example
+S1231,GIT25MBA031,Deepa Shah,Female,MBA,Management Studies,1,7.49,83.6,0,No,Vizag,deepa.shah.1231@greenfield.example
+S1232,GIT25MBA032,Ojasvi Shetty,Female,MBA,Management Studies,1,7.76,78.4,0,Yes,Pune,ojasvi.shetty.1232@greenfield.example
+S1233,GIT25MBA033,Vijay Singh,Male,MBA,Management Studies,1,7.57,71.5,0,Yes,Mumbai,vijay.singh.1233@greenfield.example
+S1234,GIT25MBA034,Kavya Sen,Female,MBA,Management Studies,1,8.49,77.1,0,Yes,Kolkata,kavya.sen.1234@greenfield.example
+S1235,GIT25MBA035,Tanmay Gupta,Male,MBA,Management Studies,1,7.77,88.7,0,No,Nagpur,tanmay.gupta.1235@greenfield.example
+S1236,GIT25MBA036,Bhavna Thakur,Female,MBA,Management Studies,1,7.77,73.0,0,Yes,Hyderabad,bhavna.thakur.1236@greenfield.example
+S1237,GIT25MBA037,Mayank Kapoor,Male,MBA,Management Studies,1,7.24,100.0,0,Yes,Chennai,mayank.kapoor.1237@greenfield.example
+S1238,GIT25MBA038,Ananya Chandra,Female,MBA,Management Studies,1,7.08,100.0,0,Yes,Vizag,ananya.chandra.1238@greenfield.example
+S1239,GIT25MBA039,Rhea Bhat,Female,MBA,Management Studies,1,7.10,81.0,0,No,Hyderabad,rhea.bhat.1239@greenfield.example
+S1240,GIT25MBA040,Chirag Verma,Male,MBA,Management Studies,1,6.78,95.9,0,No,Nagpur,chirag.verma.1240@greenfield.example
+S1241,GIT25MBA041,Ramesh Bhat,Male,MBA,Management Studies,1,8.77,63.8,0,No,Pune,ramesh.bhat.1241@greenfield.example
+S1242,GIT25MBA042,Uday Naidu,Male,MBA,Management Studies,1,8.46,77.3,0,No,Bengaluru,uday.naidu.1242@greenfield.example
+S1243,GIT25MBA043,Arjun DSouza,Male,MBA,Management Studies,1,8.44,78.2,0,No,Vizag,arjun.dsouza.1243@greenfield.example
+S1244,GIT25MBA044,Akash Bhatia,Male,MBA,Management Studies,1,7.21,78.4,0,No,Delhi,akash.bhatia.1244@greenfield.example
+S1245,GIT25MBA045,Kabir Malhotra,Male,MBA,Management Studies,1,6.91,79.2,0,No,Hyderabad,kabir.malhotra.1245@greenfield.example
+S1246,GIT25MBA046,Rhea Shah,Female,MBA,Management Studies,1,9.40,89.9,0,No,Hyderabad,rhea.shah.1246@greenfield.example
+S1247,GIT25MBA047,Dhruv Mehta,Male,MBA,Management Studies,1,7.93,93.0,0,No,Nagpur,dhruv.mehta.1247@greenfield.example
+S1248,GIT25MBA048,Gauri DSouza,Female,MBA,Management Studies,1,6.37,87.6,0,Yes,Kolkata,gauri.dsouza.1248@greenfield.example
+S1249,GIT25MBA049,Ankit Saxena,Male,MBA,Management Studies,1,8.25,85.3,0,Yes,Delhi,ankit.saxena.1249@greenfield.example
+S1250,GIT25MBA050,Vaishnavi Venkatesh,Female,MBA,Management Studies,1,8.00,89.0,0,Yes,Bengaluru,vaishnavi.venkatesh.1250@greenfield.example
+S1251,GIT25MBA051,Vivaan Gupta,Male,MBA,Management Studies,1,5.72,75.8,0,Yes,Mysuru,vivaan.gupta.1251@greenfield.example
+S1252,GIT25MBA052,Harsh Fernandes,Male,MBA,Management Studies,1,7.97,73.3,0,No,Mysuru,harsh.fernandes.1252@greenfield.example
+S1253,GIT25MBA053,Uday Shah,Male,MBA,Management Studies,1,7.67,81.7,0,Yes,Lucknow,uday.shah.1253@greenfield.example
+S1254,GIT25MBA054,Hema Bhatia,Female,MBA,Management Studies,1,8.57,78.9,0,No,Pune,hema.bhatia.1254@greenfield.example
+S1255,GIT25MBA055,Pranav Pillai,Male,MBA,Management Studies,1,6.71,87.4,0,No,Coimbatore,pranav.pillai.1255@greenfield.example
+S1256,GIT25MBA056,Naveen Krishnan,Male,MBA,Management Studies,1,6.94,84.9,0,Yes,Nagpur,naveen.krishnan.1256@greenfield.example
+S1257,GIT25MBA057,Ankit Rao,Male,MBA,Management Studies,1,7.60,78.0,0,No,Nagpur,ankit.rao.1257@greenfield.example
+S1258,GIT25MBA058,Prateek Krishnan,Male,MBA,Management Studies,1,7.01,88.8,0,Yes,Nagpur,prateek.krishnan.1258@greenfield.example
+S1259,GIT25MBA059,Shreya Menon,Female,MBA,Management Studies,1,6.80,71.9,0,No,Pune,shreya.menon.1259@greenfield.example
+S1260,GIT25MBA060,Piyush Sethi,Male,MBA,Management Studies,1,8.32,69.6,0,No,Kolkata,piyush.sethi.1260@greenfield.example
+S1261,GIT25MBA061,Dhruv Iyer,Male,MBA,Management Studies,1,7.41,73.5,0,Yes,Lucknow,dhruv.iyer.1261@greenfield.example
+S1262,GIT25MBA062,Varun Kulkarni,Male,MBA,Management Studies,1,8.46,81.6,0,Yes,Jaipur,varun.kulkarni.1262@greenfield.example
+S1263,GIT25MBA063,Mayank Varghese,Male,MBA,Management Studies,1,8.48,79.2,0,No,Delhi,mayank.varghese.1263@greenfield.example
+S1264,GIT25MBA064,Ankit Bose,Male,MBA,Management Studies,1,6.26,88.6,0,Yes,Delhi,ankit.bose.1264@greenfield.example
+S1265,GIT25MBA065,Vidya Varghese,Female,MBA,Management Studies,1,5.71,86.9,2,No,Mysuru,vidya.varghese.1265@greenfield.example
+S1266,GIT25MBA066,Vivaan Hegde,Male,MBA,Management Studies,1,5.09,83.6,0,Yes,Delhi,vivaan.hegde.1266@greenfield.example
+S1267,GIT25MBA067,Jhanvi Das,Female,MBA,Management Studies,1,5.70,94.1,1,No,Bengaluru,jhanvi.das.1267@greenfield.example
+S1268,GIT25MBA068,Mohit Reddy,Male,MBA,Management Studies,1,7.49,73.6,0,No,Bhopal,mohit.reddy.1268@greenfield.example
+S1269,GIT25MBA069,Imran Naidu,Male,MBA,Management Studies,1,6.22,63.5,0,Yes,Mysuru,imran.naidu.1269@greenfield.example
+S1270,GIT25MBA070,Tanvi Tiwari,Female,MBA,Management Studies,1,7.15,100.0,0,No,Chennai,tanvi.tiwari.1270@greenfield.example
+S1271,GIT25MBA071,Mansi Mishra,Female,MBA,Management Studies,1,6.65,86.3,0,Yes,Bengaluru,mansi.mishra.1271@greenfield.example
+S1272,GIT25MBA072,Hemant Reddy,Male,MBA,Management Studies,1,7.77,79.0,0,No,Bhopal,hemant.reddy.1272@greenfield.example
+S1273,GIT25MBA073,Bharat Dubey,Male,MBA,Management Studies,1,7.28,97.6,0,No,Kochi,bharat.dubey.1273@greenfield.example
+S1274,GIT25MBA074,Kavya Khan,Female,MBA,Management Studies,1,7.49,83.9,0,No,Bhopal,kavya.khan.1274@greenfield.example
+S1275,GIT25MBA075,Deepak Kulkarni,Male,MBA,Management Studies,1,6.64,75.6,0,Yes,Jaipur,deepak.kulkarni.1275@greenfield.example
+S1276,GIT24MBA001,Ritvik Krishnan,Male,MBA,Management Studies,2,7.97,83.6,0,No,Mysuru,ritvik.krishnan.1276@greenfield.example
+S1277,GIT24MBA002,Ankit Dubey,Male,MBA,Management Studies,2,6.38,82.5,0,No,Kochi,ankit.dubey.1277@greenfield.example
+S1278,GIT24MBA003,Urvi Gowda,Female,MBA,Management Studies,2,7.87,90.4,0,No,Hyderabad,urvi.gowda.1278@greenfield.example
+S1279,GIT24MBA004,Rajat Bhatia,Male,MBA,Management Studies,2,5.24,86.6,1,Yes,Delhi,rajat.bhatia.1279@greenfield.example
+S1280,GIT24MBA005,Bhavna Patel,Female,MBA,Management Studies,2,7.48,81.4,0,Yes,Nagpur,bhavna.patel.1280@greenfield.example
+S1281,GIT24MBA006,Aarohi Shah,Female,MBA,Management Studies,2,7.66,79.5,0,Yes,Lucknow,aarohi.shah.1281@greenfield.example
+S1282,GIT24MBA007,Aarohi Rao,Female,MBA,Management Studies,2,8.50,75.3,0,No,Pune,aarohi.rao.1282@greenfield.example
+S1283,GIT24MBA008,Chirag Patel,Male,MBA,Management Studies,2,7.55,86.4,0,No,Jaipur,chirag.patel.1283@greenfield.example
+S1284,GIT24MBA009,Neha DSouza,Female,MBA,Management Studies,2,7.60,91.5,0,No,Mysuru,neha.dsouza.1284@greenfield.example
+S1285,GIT24MBA010,Jhanvi Thakur,Female,MBA,Management Studies,2,8.45,84.5,0,Yes,Nagpur,jhanvi.thakur.1285@greenfield.example
+S1286,GIT24MBA011,Kabir Sharma,Male,MBA,Management Studies,2,8.15,83.7,0,No,Pune,kabir.sharma.1286@greenfield.example
+S1287,GIT24MBA012,Fatima Kurian,Female,MBA,Management Studies,2,7.57,84.3,0,No,Mysuru,fatima.kurian.1287@greenfield.example
+S1288,GIT24MBA013,Arjun Iyer,Male,MBA,Management Studies,2,6.56,100.0,3,No,Pune,arjun.iyer.1288@greenfield.example
+S1289,GIT24MBA014,Mahika Rao,Female,MBA,Management Studies,2,7.73,100.0,0,Yes,Lucknow,mahika.rao.1289@greenfield.example
+S1290,GIT24MBA015,Nandini Chandra,Female,MBA,Management Studies,2,8.84,68.1,0,Yes,Chennai,nandini.chandra.1290@greenfield.example
+S1291,GIT24MBA016,Kiran Chauhan,Male,MBA,Management Studies,2,7.96,79.1,0,Yes,Bengaluru,kiran.chauhan.1291@greenfield.example
+S1292,GIT24MBA017,Ira Fernandes,Female,MBA,Management Studies,2,7.81,77.4,0,Yes,Chennai,ira.fernandes.1292@greenfield.example
+S1293,GIT24MBA018,Karthik DSouza,Male,MBA,Management Studies,2,7.96,86.7,0,No,Bengaluru,karthik.dsouza.1293@greenfield.example
+S1294,GIT24MBA019,Barkha Sen,Female,MBA,Management Studies,2,7.94,74.3,0,Yes,Pune,barkha.sen.1294@greenfield.example
+S1295,GIT24MBA020,Isha Shetty,Female,MBA,Management Studies,2,8.67,70.8,0,Yes,Kolkata,isha.shetty.1295@greenfield.example
+S1296,GIT24MBA021,Janaki Nair,Female,MBA,Management Studies,2,7.76,84.8,0,No,Chennai,janaki.nair.1296@greenfield.example
+S1297,GIT24MBA022,Rajat Reddy,Male,MBA,Management Studies,2,7.37,81.5,0,No,Hyderabad,rajat.reddy.1297@greenfield.example
+S1298,GIT24MBA023,Jhanvi Saxena,Female,MBA,Management Studies,2,7.43,75.9,0,Yes,Vizag,jhanvi.saxena.1298@greenfield.example
+S1299,GIT24MBA024,Gaurav Gupta,Male,MBA,Management Studies,2,6.63,97.1,0,Yes,Mysuru,gaurav.gupta.1299@greenfield.example
+S1300,GIT24MBA025,Tarun Gupta,Male,MBA,Management Studies,2,6.24,83.6,0,Yes,Nagpur,tarun.gupta.1300@greenfield.example
+S1301,GIT24MBA026,Priya Singh,Female,MBA,Management Studies,2,8.74,77.7,0,No,Mumbai,priya.singh.1301@greenfield.example
+S1302,GIT24MBA027,Navya Mukherjee,Female,MBA,Management Studies,2,6.17,66.1,0,No,Mysuru,navya.mukherjee.1302@greenfield.example
+S1303,GIT24MBA028,Yashika Hegde,Female,MBA,Management Studies,2,8.03,75.2,0,No,Lucknow,yashika.hegde.1303@greenfield.example
+S1304,GIT24MBA029,Esha Singh,Female,MBA,Management Studies,2,8.22,87.0,0,Yes,Pune,esha.singh.1304@greenfield.example
+S1305,GIT24MBA030,Karthik Patel,Male,MBA,Management Studies,2,8.16,85.2,0,Yes,Bhopal,karthik.patel.1305@greenfield.example
+S1306,GIT24MBA031,Devansh Singh,Male,MBA,Management Studies,2,6.55,82.5,3,No,Mumbai,devansh.singh.1306@greenfield.example
+S1307,GIT24MBA032,Utkarsh Shetty,Male,MBA,Management Studies,2,8.80,83.2,0,Yes,Kolkata,utkarsh.shetty.1307@greenfield.example
+S1308,GIT24MBA033,Tejas Nair,Male,MBA,Management Studies,2,7.91,91.3,0,No,Nagpur,tejas.nair.1308@greenfield.example
+S1309,GIT24MBA034,Utkarsh Mehta,Male,MBA,Management Studies,2,6.89,85.3,0,Yes,Mysuru,utkarsh.mehta.1309@greenfield.example
+S1310,GIT24MBA035,Aditya Agarwal,Male,MBA,Management Studies,2,6.94,74.8,0,No,Bhopal,aditya.agarwal.1310@greenfield.example
+S1311,GIT24MBA036,Arjun Kurian,Male,MBA,Management Studies,2,6.03,82.8,0,No,Bhopal,arjun.kurian.1311@greenfield.example
+S1312,GIT24MBA037,Chitra Varghese,Female,MBA,Management Studies,2,7.26,92.8,0,Yes,Jaipur,chitra.varghese.1312@greenfield.example
+S1313,GIT24MBA038,Mahika Kapoor,Female,MBA,Management Studies,2,8.70,81.8,0,Yes,Mumbai,mahika.kapoor.1313@greenfield.example
+S1314,GIT24MBA039,Fatima Gowda,Female,MBA,Management Studies,2,9.37,94.8,0,No,Vizag,fatima.gowda.1314@greenfield.example
+S1315,GIT24MBA040,Uma Khan,Female,MBA,Management Studies,2,7.91,100.0,0,Yes,Kolkata,uma.khan.1315@greenfield.example
+S1316,GIT24MBA041,Vijay Kurian,Male,MBA,Management Studies,2,7.14,84.1,0,No,Pune,vijay.kurian.1316@greenfield.example
+S1317,GIT24MBA042,Vidya Reddy,Female,MBA,Management Studies,2,8.49,87.4,0,No,Mumbai,vidya.reddy.1317@greenfield.example
+S1318,GIT24MBA043,Aditya Iyer,Male,MBA,Management Studies,2,6.78,93.0,0,Yes,Mumbai,aditya.iyer.1318@greenfield.example
+S1319,GIT24MBA044,Priya Verma,Female,MBA,Management Studies,2,7.18,89.1,0,No,Bhopal,priya.verma.1319@greenfield.example
+S1320,GIT24MBA045,Ira Khan,Female,MBA,Management Studies,2,6.99,82.1,0,Yes,Pune,ira.khan.1320@greenfield.example
+S1321,GIT24MBA046,Tejas Shetty,Male,MBA,Management Studies,2,7.50,84.1,0,Yes,Jaipur,tejas.shetty.1321@greenfield.example
+S1322,GIT24MBA047,Indira Pillai,Female,MBA,Management Studies,2,7.10,87.1,0,No,Delhi,indira.pillai.1322@greenfield.example
+S1323,GIT24MBA048,Nikhil Chatterjee,Male,MBA,Management Studies,2,6.06,88.9,1,No,Lucknow,nikhil.chatterjee.1323@greenfield.example
+S1324,GIT24MBA049,Fatima Saxena,Female,MBA,Management Studies,2,5.62,75.4,1,No,Hyderabad,fatima.saxena.1324@greenfield.example
+S1325,GIT24MBA050,Indira Reddy,Female,MBA,Management Studies,2,8.41,72.4,0,No,Lucknow,indira.reddy.1325@greenfield.example
+S1326,GIT24MBA051,Kritika Mukherjee,Female,MBA,Management Studies,2,9.02,83.5,0,No,Pune,kritika.mukherjee.1326@greenfield.example
+S1327,GIT24MBA052,Kabir Yadav,Male,MBA,Management Studies,2,6.45,79.1,0,No,Hyderabad,kabir.yadav.1327@greenfield.example
+S1328,GIT24MBA053,Hemant Shah,Male,MBA,Management Studies,2,6.71,94.9,0,No,Jaipur,hemant.shah.1328@greenfield.example
+S1329,GIT24MBA054,Ananya Chatterjee,Female,MBA,Management Studies,2,7.06,95.1,0,No,Pune,ananya.chatterjee.1329@greenfield.example
+S1330,GIT24MBA055,Divya Bhat,Female,MBA,Management Studies,2,6.23,83.6,0,Yes,Mysuru,divya.bhat.1330@greenfield.example
+S1331,GIT24MBA056,Vivaan Krishnan,Male,MBA,Management Studies,2,7.53,97.8,0,No,Delhi,vivaan.krishnan.1331@greenfield.example
+S1332,GIT24MBA057,Kabir Menon,Male,MBA,Management Studies,2,5.74,60.3,1,Yes,Kolkata,kabir.menon.1332@greenfield.example
+S1333,GIT24MBA058,Yash Mathew,Male,MBA,Management Studies,2,7.99,77.6,0,Yes,Vizag,yash.mathew.1333@greenfield.example
+S1334,GIT24MBA059,Kritika George,Female,MBA,Management Studies,2,8.21,70.8,0,Yes,Bhopal,kritika.george.1334@greenfield.example
+S1335,GIT24MBA060,Latha Ghosh,Female,MBA,Management Studies,2,7.92,89.4,0,Yes,Chennai,latha.ghosh.1335@greenfield.example
+S1336,GIT24MBA061,Kunal Bose,Male,MBA,Management Studies,2,7.73,89.6,0,No,Kochi,kunal.bose.1336@greenfield.example
+S1337,GIT24MBA062,Sameer Kurian,Male,MBA,Management Studies,2,8.84,72.4,0,No,Mumbai,sameer.kurian.1337@greenfield.example
+S1338,GIT24MBA063,Tanmay Mathew,Male,MBA,Management Studies,2,6.64,71.1,0,Yes,Bengaluru,tanmay.mathew.1338@greenfield.example
+S1339,GIT24MBA064,Vedant Malhotra,Male,MBA,Management Studies,2,7.29,84.9,0,Yes,Mumbai,vedant.malhotra.1339@greenfield.example
+S1340,GIT24MBA065,Indira Krishnan,Female,MBA,Management Studies,2,5.64,94.1,0,Yes,Delhi,indira.krishnan.1340@greenfield.example
+S1341,GIT24MBA066,Lokesh Kapoor,Male,MBA,Management Studies,2,7.79,82.2,0,No,Mysuru,lokesh.kapoor.1341@greenfield.example
+S1342,GIT24MBA067,Trisha Mukherjee,Female,MBA,Management Studies,2,8.95,69.8,1,No,Delhi,trisha.mukherjee.1342@greenfield.example
+S1343,GIT24MBA068,Kunal Banerjee,Male,MBA,Management Studies,2,8.48,94.4,0,Yes,Bhopal,kunal.banerjee.1343@greenfield.example
+S1344,GIT24MBA069,Ganesh Subramanian,Male,MBA,Management Studies,2,6.66,79.9,0,No,Kolkata,ganesh.subramanian.1344@greenfield.example
+S1345,GIT24MBA070,Bharat Hegde,Male,MBA,Management Studies,2,7.16,90.7,0,No,Lucknow,bharat.hegde.1345@greenfield.example
+S1346,GIT24MBA071,Priya Bhat,Female,MBA,Management Studies,2,7.18,75.2,0,Yes,Mumbai,priya.bhat.1346@greenfield.example
+S1347,GIT24MBA072,Saanvi Kapoor,Female,MBA,Management Studies,2,7.15,70.6,0,No,Vizag,saanvi.kapoor.1347@greenfield.example
+S1348,GIT24MBA073,Vijay Bhat,Male,MBA,Management Studies,2,8.68,84.1,0,No,Lucknow,vijay.bhat.1348@greenfield.example
+S1349,GIT24MBA074,Meera Joshi,Female,MBA,Management Studies,2,7.99,72.7,0,No,Pune,meera.joshi.1349@greenfield.example
+S1350,GIT24MBA075,Deepa Banerjee,Female,MBA,Management Studies,2,6.01,83.5,0,No,Vizag,deepa.banerjee.1350@greenfield.example
+S1351,GIT23MBA001,Yuvraj Menon,Male,MBA,Management Studies,3,8.29,65.0,0,Yes,Lucknow,yuvraj.menon.1351@greenfield.example
+S1352,GIT23MBA002,Ishaan Bose,Male,MBA,Management Studies,3,6.17,87.5,0,No,Mumbai,ishaan.bose.1352@greenfield.example
+S1353,GIT23MBA003,Latha Chauhan,Female,MBA,Management Studies,3,9.15,81.8,0,Yes,Kochi,latha.chauhan.1353@greenfield.example
+S1354,GIT23MBA004,Vedant Verma,Male,MBA,Management Studies,3,6.92,91.5,0,Yes,Kochi,vedant.verma.1354@greenfield.example
+S1355,GIT23MBA005,Falguni Siddiqui,Female,MBA,Management Studies,3,7.83,75.4,0,Yes,Coimbatore,falguni.siddiqui.1355@greenfield.example
+S1356,GIT23MBA006,Vivaan Malhotra,Male,MBA,Management Studies,3,6.99,81.8,0,No,Kochi,vivaan.malhotra.1356@greenfield.example
+S1357,GIT23MBA007,Ganesh Chauhan,Male,MBA,Management Studies,3,5.86,84.5,0,Yes,Coimbatore,ganesh.chauhan.1357@greenfield.example
+S1358,GIT23MBA008,Divya Krishnan,Female,MBA,Management Studies,3,7.70,73.8,0,No,Kochi,divya.krishnan.1358@greenfield.example
+S1359,GIT23MBA009,Rahul Ahmed,Male,MBA,Management Studies,3,6.84,77.0,0,No,Coimbatore,rahul.ahmed.1359@greenfield.example
+S1360,GIT23MBA010,Hema Kapoor,Female,MBA,Management Studies,3,6.81,78.3,0,Yes,Pune,hema.kapoor.1360@greenfield.example
+S1361,GIT23MBA011,Prateek Patel,Male,MBA,Management Studies,3,5.71,79.3,2,No,Hyderabad,prateek.patel.1361@greenfield.example
+S1362,GIT23MBA012,Rhea Kurian,Female,MBA,Management Studies,3,7.74,88.9,0,No,Coimbatore,rhea.kurian.1362@greenfield.example
+S1363,GIT23MBA013,Ritvik Deshmukh,Male,MBA,Management Studies,3,8.01,82.0,0,No,Coimbatore,ritvik.deshmukh.1363@greenfield.example
+S1364,GIT23MBA014,Omkar Mukherjee,Male,MBA,Management Studies,3,9.14,83.3,0,Yes,Nagpur,omkar.mukherjee.1364@greenfield.example
+S1365,GIT23MBA015,Manish Chatterjee,Male,MBA,Management Studies,3,6.54,82.4,0,No,Kolkata,manish.chatterjee.1365@greenfield.example
+S1366,GIT23MBA016,Manish Bhatia,Male,MBA,Management Studies,3,6.24,84.7,0,No,Bengaluru,manish.bhatia.1366@greenfield.example
+S1367,GIT23MBA017,Lavanya Singh,Female,MBA,Management Studies,3,6.07,73.3,0,No,Jaipur,lavanya.singh.1367@greenfield.example
+S1368,GIT23MBA018,Pooja Krishnan,Female,MBA,Management Studies,3,8.50,99.2,0,No,Delhi,pooja.krishnan.1368@greenfield.example
+S1369,GIT23MBA019,Utkarsh Dubey,Male,MBA,Management Studies,3,6.64,87.9,0,Yes,Mumbai,utkarsh.dubey.1369@greenfield.example
+S1370,GIT23MBA020,Pooja Gowda,Female,MBA,Management Studies,3,6.48,79.1,0,No,Coimbatore,pooja.gowda.1370@greenfield.example
+S1371,GIT23MBA021,Jatin Sharma,Male,MBA,Management Studies,3,6.51,89.6,0,No,Lucknow,jatin.sharma.1371@greenfield.example
+S1372,GIT23MBA022,Farhan Ahmed,Male,MBA,Management Studies,3,7.26,77.7,0,No,Bhopal,farhan.ahmed.1372@greenfield.example
+S1373,GIT23MBA023,Navya Desai,Female,MBA,Management Studies,3,7.99,73.8,0,Yes,Vizag,navya.desai.1373@greenfield.example
+S1374,GIT23MBA024,Charvi Siddiqui,Female,MBA,Management Studies,3,8.14,100.0,0,No,Hyderabad,charvi.siddiqui.1374@greenfield.example
+S1375,GIT23MBA025,Pooja Nair,Female,MBA,Management Studies,3,6.56,80.0,0,Yes,Bhopal,pooja.nair.1375@greenfield.example
+S1376,GIT23MBA026,Janaki Fernandes,Female,MBA,Management Studies,3,7.05,72.7,0,No,Delhi,janaki.fernandes.1376@greenfield.example
+S1377,GIT23MBA027,Ekta Malhotra,Female,MBA,Management Studies,3,9.43,95.6,0,Yes,Chennai,ekta.malhotra.1377@greenfield.example
+S1378,GIT23MBA028,Mayank Banerjee,Male,MBA,Management Studies,3,8.88,81.4,0,No,Jaipur,mayank.banerjee.1378@greenfield.example
+S1379,GIT23MBA029,Vaishnavi Verma,Female,MBA,Management Studies,3,5.55,91.6,3,Yes,Coimbatore,vaishnavi.verma.1379@greenfield.example
+S1380,GIT23MBA030,Naveen Khanna,Male,MBA,Management Studies,3,5.35,82.4,0,No,Jaipur,naveen.khanna.1380@greenfield.example
+S1381,GIT23MBA031,Aditya Gowda,Male,MBA,Management Studies,3,7.07,75.6,0,Yes,Delhi,aditya.gowda.1381@greenfield.example
+S1382,GIT23MBA032,Ramesh Yadav,Male,MBA,Management Studies,3,8.51,84.1,0,Yes,Bengaluru,ramesh.yadav.1382@greenfield.example
+S1383,GIT23MBA033,Tanvi Pandey,Female,MBA,Management Studies,3,7.48,77.7,0,No,Chennai,tanvi.pandey.1383@greenfield.example
+S1384,GIT23MBA034,Aarav Bhatia,Male,MBA,Management Studies,3,7.26,69.9,0,No,Kochi,aarav.bhatia.1384@greenfield.example
+S1385,GIT23MBA035,Komal Kurian,Female,MBA,Management Studies,3,9.01,76.2,0,No,Bengaluru,komal.kurian.1385@greenfield.example
+S1386,GIT23MBA036,Ramesh Bose,Male,MBA,Management Studies,3,7.51,87.6,0,Yes,Kochi,ramesh.bose.1386@greenfield.example
+S1387,GIT23MBA037,Omkar Pandey,Male,MBA,Management Studies,3,7.07,88.8,0,No,Mysuru,omkar.pandey.1387@greenfield.example
+S1388,GIT23MBA038,Akash Pillai,Male,MBA,Management Studies,3,7.69,82.1,0,Yes,Delhi,akash.pillai.1388@greenfield.example
+S1389,GIT23MBA039,Harsh Sethi,Male,MBA,Management Studies,3,7.09,82.4,0,No,Bhopal,harsh.sethi.1389@greenfield.example
+S1390,GIT23MBA040,Tara Saxena,Female,MBA,Management Studies,3,8.38,86.4,0,No,Bengaluru,tara.saxena.1390@greenfield.example
+S1391,GIT23MBA041,Yuvraj Dubey,Male,MBA,Management Studies,3,7.15,81.2,0,Yes,Pune,yuvraj.dubey.1391@greenfield.example
+S1392,GIT23MBA042,Vedant Yadav,Male,MBA,Management Studies,3,7.23,73.7,0,No,Bengaluru,vedant.yadav.1392@greenfield.example
+S1393,GIT23MBA043,Tara Thomas,Female,MBA,Management Studies,3,7.22,83.5,0,No,Mumbai,tara.thomas.1393@greenfield.example
+S1394,GIT23MBA044,Shreya Varghese,Female,MBA,Management Studies,3,7.62,94.6,0,Yes,Chennai,shreya.varghese.1394@greenfield.example
+S1395,GIT23MBA045,Lavanya Pandey,Female,MBA,Management Studies,3,9.29,95.6,0,Yes,Mumbai,lavanya.pandey.1395@greenfield.example
+S1396,GIT23MBA046,Akash Rao,Male,MBA,Management Studies,3,7.97,81.3,0,No,Chennai,akash.rao.1396@greenfield.example
+S1397,GIT23MBA047,Navya Khan,Female,MBA,Management Studies,3,6.87,83.9,0,Yes,Chennai,navya.khan.1397@greenfield.example
+S1398,GIT23MBA048,Falguni Shetty,Female,MBA,Management Studies,3,6.69,80.3,0,No,Mysuru,falguni.shetty.1398@greenfield.example
+S1399,GIT23MBA049,Chitra Pandey,Female,MBA,Management Studies,3,8.73,97.2,0,No,Hyderabad,chitra.pandey.1399@greenfield.example
+S1400,GIT23MBA050,Harsh Singh,Male,MBA,Management Studies,3,4.83,73.8,1,No,Kochi,harsh.singh.1400@greenfield.example
+S1401,GIT23MBA051,Pooja Pillai,Female,MBA,Management Studies,3,8.09,85.9,0,No,Nagpur,pooja.pillai.1401@greenfield.example
+S1402,GIT23MBA052,Pallavi Joshi,Female,MBA,Management Studies,3,6.88,86.9,2,No,Coimbatore,pallavi.joshi.1402@greenfield.example
+S1403,GIT23MBA053,Ekta Mukherjee,Female,MBA,Management Studies,3,8.04,73.2,0,Yes,Nagpur,ekta.mukherjee.1403@greenfield.example
+S1404,GIT23MBA054,Farhan Yadav,Male,MBA,Management Studies,3,7.37,95.2,0,No,Nagpur,farhan.yadav.1404@greenfield.example
+S1405,GIT23MBA055,Bhavna Gupta,Female,MBA,Management Studies,3,5.94,69.0,1,No,Lucknow,bhavna.gupta.1405@greenfield.example
+S1406,GIT23MBA056,Kunal Mishra,Male,MBA,Management Studies,3,9.01,86.9,0,No,Bengaluru,kunal.mishra.1406@greenfield.example
+S1407,GIT23MBA057,Ojasvi Thakur,Female,MBA,Management Studies,3,7.92,84.9,0,Yes,Bengaluru,ojasvi.thakur.1407@greenfield.example
+S1408,GIT23MBA058,Aarav Singh,Male,MBA,Management Studies,3,6.80,80.0,0,Yes,Jaipur,aarav.singh.1408@greenfield.example
+S1409,GIT23MBA059,Harini Naidu,Female,MBA,Management Studies,3,6.84,83.2,0,No,Nagpur,harini.naidu.1409@greenfield.example
+S1410,GIT23MBA060,Ritvik Yadav,Male,MBA,Management Studies,3,7.35,85.3,0,Yes,Bengaluru,ritvik.yadav.1410@greenfield.example
+S1411,GIT23MBA061,Yashika Varghese,Female,MBA,Management Studies,3,7.34,84.3,0,Yes,Pune,yashika.varghese.1411@greenfield.example
+S1412,GIT23MBA062,Aditya Pillai,Male,MBA,Management Studies,3,6.77,75.6,1,No,Hyderabad,aditya.pillai.1412@greenfield.example
+S1413,GIT23MBA063,Varun Hegde,Male,MBA,Management Studies,3,8.63,80.7,0,Yes,Mysuru,varun.hegde.1413@greenfield.example
+S1414,GIT23MBA064,Gaurav Sharma,Male,MBA,Management Studies,3,7.67,60.9,0,No,Nagpur,gaurav.sharma.1414@greenfield.example
+S1415,GIT23MBA065,Ishaan Tiwari,Male,MBA,Management Studies,3,7.93,72.5,0,No,Nagpur,ishaan.tiwari.1415@greenfield.example
+S1416,GIT23MBA066,Aarohi Sethi,Female,MBA,Management Studies,3,8.47,100.0,0,Yes,Nagpur,aarohi.sethi.1416@greenfield.example
+S1417,GIT23MBA067,Vivaan Khan,Male,MBA,Management Studies,3,7.73,80.7,0,Yes,Jaipur,vivaan.khan.1417@greenfield.example
+S1418,GIT23MBA068,Priya Hegde,Female,MBA,Management Studies,3,8.10,78.1,0,Yes,Mysuru,priya.hegde.1418@greenfield.example
+S1419,GIT23MBA069,Vaishnavi Arora,Female,MBA,Management Studies,3,8.30,75.9,0,No,Bengaluru,vaishnavi.arora.1419@greenfield.example
+S1420,GIT23MBA070,Suresh Bhatia,Male,MBA,Management Studies,3,7.01,90.5,0,No,Pune,suresh.bhatia.1420@greenfield.example
+S1421,GIT23MBA071,Arjun Ghosh,Male,MBA,Management Studies,3,8.15,69.2,0,Yes,Hyderabad,arjun.ghosh.1421@greenfield.example
+S1422,GIT23MBA072,Imran Desai,Male,MBA,Management Studies,3,6.31,80.8,2,No,Delhi,imran.desai.1422@greenfield.example
+S1423,GIT23MBA073,Ishaan Iyer,Male,MBA,Management Studies,3,7.74,90.3,0,Yes,Chennai,ishaan.iyer.1423@greenfield.example
+S1424,GIT23MBA074,Meera DSouza,Female,MBA,Management Studies,3,7.77,80.2,0,Yes,Bhopal,meera.dsouza.1424@greenfield.example
+S1425,GIT23MBA075,Riya Mathew,Female,MBA,Management Studies,3,8.91,89.4,0,No,Vizag,riya.mathew.1425@greenfield.example
+S1426,GIT22MBA001,Sneha Mishra,Female,MBA,Management Studies,4,7.76,75.9,0,No,Mumbai,sneha.mishra.1426@greenfield.example
+S1427,GIT22MBA002,Garima Ghosh,Female,MBA,Management Studies,4,7.91,78.9,0,Yes,Kochi,garima.ghosh.1427@greenfield.example
+S1428,GIT22MBA003,Varun Iyer,Male,MBA,Management Studies,4,7.45,76.2,0,No,Kochi,varun.iyer.1428@greenfield.example
+S1429,GIT22MBA004,Deepak Thomas,Male,MBA,Management Studies,4,6.49,83.1,1,No,Lucknow,deepak.thomas.1429@greenfield.example
+S1430,GIT22MBA005,Meera Venkatesh,Female,MBA,Management Studies,4,6.75,93.7,0,No,Lucknow,meera.venkatesh.1430@greenfield.example
+S1431,GIT22MBA006,Naveen Deshmukh,Male,MBA,Management Studies,4,9.00,76.7,0,No,Bhopal,naveen.deshmukh.1431@greenfield.example
+S1432,GIT22MBA007,Meera Mathew,Female,MBA,Management Studies,4,8.32,92.2,0,Yes,Mysuru,meera.mathew.1432@greenfield.example
+S1433,GIT22MBA008,Gaurav Arora,Male,MBA,Management Studies,4,8.19,88.3,0,No,Delhi,gaurav.arora.1433@greenfield.example
+S1434,GIT22MBA009,Uma Raman,Female,MBA,Management Studies,4,7.99,75.9,0,Yes,Pune,uma.raman.1434@greenfield.example
+S1435,GIT22MBA010,Mohit Deshmukh,Male,MBA,Management Studies,4,6.79,77.6,0,No,Pune,mohit.deshmukh.1435@greenfield.example
+S1436,GIT22MBA011,Gauri Nair,Female,MBA,Management Studies,4,5.94,93.6,2,Yes,Delhi,gauri.nair.1436@greenfield.example
+S1437,GIT22MBA012,Nandini Bhat,Female,MBA,Management Studies,4,7.14,95.6,0,No,Lucknow,nandini.bhat.1437@greenfield.example
+S1438,GIT22MBA013,Sneha Banerjee,Female,MBA,Management Studies,4,7.22,90.7,0,No,Jaipur,sneha.banerjee.1438@greenfield.example
+S1439,GIT22MBA014,Shreya George,Female,MBA,Management Studies,4,7.93,78.7,0,No,Pune,shreya.george.1439@greenfield.example
+S1440,GIT22MBA015,Ekta Mathew,Female,MBA,Management Studies,4,7.42,71.7,0,Yes,Chennai,ekta.mathew.1440@greenfield.example
+S1441,GIT22MBA016,Kiran Arora,Male,MBA,Management Studies,4,9.17,85.0,0,No,Bhopal,kiran.arora.1441@greenfield.example
+S1442,GIT22MBA017,Hema Kulkarni,Female,MBA,Management Studies,4,6.55,71.6,0,No,Vizag,hema.kulkarni.1442@greenfield.example
+S1443,GIT22MBA018,Jhanvi Kulkarni,Female,MBA,Management Studies,4,8.05,78.0,0,Yes,Pune,jhanvi.kulkarni.1443@greenfield.example
+S1444,GIT22MBA019,Uday Chandra,Male,MBA,Management Studies,4,6.43,90.3,0,Yes,Kochi,uday.chandra.1444@greenfield.example
+S1445,GIT22MBA020,Omkar Kurian,Male,MBA,Management Studies,4,8.34,81.3,0,Yes,Nagpur,omkar.kurian.1445@greenfield.example
+S1446,GIT22MBA021,Varun Singh,Male,MBA,Management Studies,4,7.09,75.6,0,No,Kochi,varun.singh.1446@greenfield.example
+S1447,GIT22MBA022,Pallavi Pandey,Female,MBA,Management Studies,4,8.83,75.5,0,No,Vizag,pallavi.pandey.1447@greenfield.example
+S1448,GIT22MBA023,Ganesh Sharma,Male,MBA,Management Studies,4,6.78,81.9,0,No,Lucknow,ganesh.sharma.1448@greenfield.example
+S1449,GIT22MBA024,Uday Chatterjee,Male,MBA,Management Studies,4,7.07,76.6,1,Yes,Bengaluru,uday.chatterjee.1449@greenfield.example
+S1450,GIT22MBA025,Ira Nair,Female,MBA,Management Studies,4,9.18,75.5,0,No,Mysuru,ira.nair.1450@greenfield.example
+S1451,GIT22MBA026,Lavanya Bhat,Female,MBA,Management Studies,4,7.52,76.4,0,Yes,Pune,lavanya.bhat.1451@greenfield.example
+S1452,GIT22MBA027,Tara Sen,Female,MBA,Management Studies,4,7.29,75.2,0,No,Coimbatore,tara.sen.1452@greenfield.example
+S1453,GIT22MBA028,Divya Siddiqui,Female,MBA,Management Studies,4,8.12,77.3,0,No,Mumbai,divya.siddiqui.1453@greenfield.example
+S1454,GIT22MBA029,Harini Singh,Female,MBA,Management Studies,4,8.99,78.5,0,Yes,Coimbatore,harini.singh.1454@greenfield.example
+S1455,GIT22MBA030,Imran Khanna,Male,MBA,Management Studies,4,6.89,94.2,0,No,Vizag,imran.khanna.1455@greenfield.example
+S1456,GIT22MBA031,Tara Deshmukh,Female,MBA,Management Studies,4,9.14,100.0,0,No,Coimbatore,tara.deshmukh.1456@greenfield.example
+S1457,GIT22MBA032,Trisha Iyer,Female,MBA,Management Studies,4,7.18,66.1,0,No,Mysuru,trisha.iyer.1457@greenfield.example
+S1458,GIT22MBA033,Omkar Das,Male,MBA,Management Studies,4,6.46,78.9,0,Yes,Delhi,omkar.das.1458@greenfield.example
+S1459,GIT22MBA034,Chirag Ahmed,Male,MBA,Management Studies,4,7.76,83.2,0,No,Bhopal,chirag.ahmed.1459@greenfield.example
+S1460,GIT22MBA035,Omkar Desai,Male,MBA,Management Studies,4,7.67,92.5,0,No,Pune,omkar.desai.1460@greenfield.example
+S1461,GIT22MBA036,Aditi Iyer,Female,MBA,Management Studies,4,7.07,87.4,0,No,Kochi,aditi.iyer.1461@greenfield.example
+S1462,GIT22MBA037,Riya Singh,Female,MBA,Management Studies,4,7.80,77.6,0,No,Nagpur,riya.singh.1462@greenfield.example
+S1463,GIT22MBA038,Rohan Kurian,Male,MBA,Management Studies,4,7.91,90.2,0,No,Mumbai,rohan.kurian.1463@greenfield.example
+S1464,GIT22MBA039,Nandini Das,Female,MBA,Management Studies,4,6.62,81.2,0,No,Bengaluru,nandini.das.1464@greenfield.example
+S1465,GIT22MBA040,Mahika Venkatesh,Female,MBA,Management Studies,4,7.17,73.2,0,No,Chennai,mahika.venkatesh.1465@greenfield.example
+S1466,GIT22MBA041,Bharat Agarwal,Male,MBA,Management Studies,4,7.79,79.4,0,No,Vizag,bharat.agarwal.1466@greenfield.example
+S1467,GIT22MBA042,Divya Thomas,Female,MBA,Management Studies,4,7.24,82.0,0,No,Coimbatore,divya.thomas.1467@greenfield.example
+S1468,GIT22MBA043,Jhanvi Bose,Female,MBA,Management Studies,4,9.02,100.0,0,No,Jaipur,jhanvi.bose.1468@greenfield.example
+S1469,GIT22MBA044,Aditya Mehta,Male,MBA,Management Studies,4,9.03,97.0,0,Yes,Nagpur,aditya.mehta.1469@greenfield.example
+S1470,GIT22MBA045,Rohan Siddiqui,Male,MBA,Management Studies,4,9.90,74.2,0,Yes,Lucknow,rohan.siddiqui.1470@greenfield.example
+S1471,GIT22MBA046,Siddharth DSouza,Male,MBA,Management Studies,4,7.44,72.0,0,Yes,Pune,siddharth.dsouza.1471@greenfield.example
+S1472,GIT22MBA047,Nandini Deshmukh,Female,MBA,Management Studies,4,6.77,81.3,0,No,Lucknow,nandini.deshmukh.1472@greenfield.example
+S1473,GIT22MBA048,Vidya Ahmed,Female,MBA,Management Studies,4,9.38,76.0,0,No,Jaipur,vidya.ahmed.1473@greenfield.example
+S1474,GIT22MBA049,Nandini Pandey,Female,MBA,Management Studies,4,8.51,83.3,0,Yes,Bhopal,nandini.pandey.1474@greenfield.example
+S1475,GIT22MBA050,Ishaan Shetty,Male,MBA,Management Studies,4,7.55,71.4,0,No,Delhi,ishaan.shetty.1475@greenfield.example
+S1476,GIT22MBA051,Isha Naidu,Female,MBA,Management Studies,4,9.09,93.4,0,Yes,Pune,isha.naidu.1476@greenfield.example
+S1477,GIT22MBA052,Chirag Yadav,Male,MBA,Management Studies,4,7.59,78.2,0,Yes,Nagpur,chirag.yadav.1477@greenfield.example
+S1478,GIT22MBA053,Aditi Bose,Female,MBA,Management Studies,4,6.23,90.3,0,No,Nagpur,aditi.bose.1478@greenfield.example
+S1479,GIT22MBA054,Ira Joshi,Female,MBA,Management Studies,4,6.68,90.4,0,No,Chennai,ira.joshi.1479@greenfield.example
+S1480,GIT22MBA055,Nandini Kulkarni,Female,MBA,Management Studies,4,8.24,81.4,0,Yes,Lucknow,nandini.kulkarni.1480@greenfield.example
+S1481,GIT22MBA056,Isha Khan,Female,MBA,Management Studies,4,7.45,91.4,0,No,Nagpur,isha.khan.1481@greenfield.example
+S1482,GIT22MBA057,Gaurav Kulkarni,Male,MBA,Management Studies,4,7.85,83.2,1,No,Delhi,gaurav.kulkarni.1482@greenfield.example
+S1483,GIT22MBA058,Hemant Agarwal,Male,MBA,Management Studies,4,7.82,83.7,0,No,Nagpur,hemant.agarwal.1483@greenfield.example
+S1484,GIT22MBA059,Radhika Bhat,Female,MBA,Management Studies,4,6.38,74.2,0,No,Lucknow,radhika.bhat.1484@greenfield.example
+S1485,GIT22MBA060,Hemant Mishra,Male,MBA,Management Studies,4,7.32,100.0,0,Yes,Vizag,hemant.mishra.1485@greenfield.example
+S1486,GIT22MBA061,Zoya Yadav,Female,MBA,Management Studies,4,9.70,81.5,0,No,Delhi,zoya.yadav.1486@greenfield.example
+S1487,GIT22MBA062,Prateek Yadav,Male,MBA,Management Studies,4,8.96,79.2,0,No,Chennai,prateek.yadav.1487@greenfield.example
+S1488,GIT22MBA063,Ritvik Pillai,Male,MBA,Management Studies,4,7.19,72.1,0,No,Hyderabad,ritvik.pillai.1488@greenfield.example
+S1489,GIT22MBA064,Gauri Thakur,Female,MBA,Management Studies,4,8.62,71.4,0,No,Chennai,gauri.thakur.1489@greenfield.example
+S1490,GIT22MBA065,Barkha Kurian,Female,MBA,Management Studies,4,6.84,88.8,0,Yes,Nagpur,barkha.kurian.1490@greenfield.example
+S1491,GIT22MBA066,Utkarsh Sharma,Male,MBA,Management Studies,4,7.62,62.4,0,Yes,Chennai,utkarsh.sharma.1491@greenfield.example
+S1492,GIT22MBA067,Barkha Ahmed,Female,MBA,Management Studies,4,6.70,95.0,0,No,Kochi,barkha.ahmed.1492@greenfield.example
+S1493,GIT22MBA068,Aditi Tiwari,Female,MBA,Management Studies,4,8.57,81.0,0,No,Hyderabad,aditi.tiwari.1493@greenfield.example
+S1494,GIT22MBA069,Ankit Mehta,Male,MBA,Management Studies,4,7.18,95.7,0,No,Hyderabad,ankit.mehta.1494@greenfield.example
+S1495,GIT22MBA070,Sneha Ghosh,Female,MBA,Management Studies,4,9.35,86.8,0,Yes,Delhi,sneha.ghosh.1495@greenfield.example
+S1496,GIT22MBA071,Vijay Bhatia,Male,MBA,Management Studies,4,5.97,63.5,1,No,Delhi,vijay.bhatia.1496@greenfield.example
+S1497,GIT22MBA072,Pooja Kulkarni,Female,MBA,Management Studies,4,9.34,74.9,0,No,Hyderabad,pooja.kulkarni.1497@greenfield.example
+S1498,GIT22MBA073,Kavya Sethi,Female,MBA,Management Studies,4,7.31,75.0,0,No,Nagpur,kavya.sethi.1498@greenfield.example
+S1499,GIT22MBA074,Devansh Pandey,Male,MBA,Management Studies,4,9.50,72.1,0,No,Kochi,devansh.pandey.1499@greenfield.example
+S1500,GIT22MBA075,Sameer Hegde,Male,MBA,Management Studies,4,8.30,89.6,0,No,Kochi,sameer.hegde.1500@greenfield.example

@@ -1,0 +1,6 @@
+id,code,name,head_of_department,building,email
+D1,CSE,Computer Science and Engineering,Dr. Anita Rao,Block A,cse@greenfield.example
+D2,ECE,Electronics and Communication Engineering,Dr. Vikram Shah,Block B,ece@greenfield.example
+D3,MECH,Mechanical Engineering,Dr. Suresh Nair,Block C,mech@greenfield.example
+D4,CIVIL,Civil Engineering,Dr. Meera Iyer,Block C,civil@greenfield.example
+D5,MBA,Management Studies,Dr. Rahul Menon,Block D,mba@greenfield.example

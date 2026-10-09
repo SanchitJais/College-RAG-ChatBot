@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>College AI Assistant</title>
+  <script>
+    // Apply the saved (or system) theme before the page paints, to avoid a light flash.
+    (function () {
+      var theme = null;
+      try { theme = localStorage.getItem("theme"); } catch (e) {}
+      if (theme !== "light" && theme !== "dark") {
+        theme = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+      }
+      document.documentElement.setAttribute("data-theme", theme);
+    })();
+  </script>
+  <script>
+    // When shown inside the website's chat panel, drop the page chrome that the panel already provides.
+    if (window.self !== window.top) document.documentElement.classList.add("embedded");
+  </script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app">
+    <header>
+      <div>
+        <h1>College AI Assistant</h1>
+        <p class="subtitle">Answers come only from the college knowledge base.</p>
+      </div>
+      <div class="header-actions">
+        <button id="theme-btn" class="icon-btn" type="button" aria-label="Switch to dark theme" title="Switch theme">
+          <svg class="icon-moon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/>
+          </svg>
+          <svg class="icon-sun" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="12" cy="12" r="4"/>
+            <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/>
+          </svg>
+        </button>
+        <button id="clear-btn" class="secondary" type="button">Clear conversation</button>
+      </div>
+    </header>
+
+    <main id="messages" aria-live="polite">
+      <div class="empty" id="empty-state">
+        <p>Ask a question about regulations, courses, exams, hostel, placements and more.</p>
+        <div class="examples" id="examples">
+          <button type="button" class="chip">What is the attendance policy?</button>
+          <button type="button" class="chip">What are the hostel gate timings?</button>
+          <button type="button" class="chip">How many CSE students have attendance below 65%?</button>
+          <button type="button" class="chip">Who are the top 5 students in ECE third year?</button>
+          <button type="button" class="chip">What is the CGPA of Ankit Raman?</button>
+          <button type="button" class="chip">What is the capital of France?</button>
+        </div>
+      </div>
+    </main>
+
+    <form id="chat-form" autocomplete="off">
+      <input id="question" type="text" maxlength="1000" placeholder="Type your question..." aria-label="Your question" required>
+      <button id="send-btn" type="submit">Send</button>
+    </form>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

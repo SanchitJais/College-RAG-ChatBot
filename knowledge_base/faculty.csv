@@ -1,0 +1,10 @@
+id,name,department,designation,email,office_hours
+F1,Dr. Anita Rao,Computer Science and Engineering,Professor,anita.rao@greenfield.example,Mon and Wed 2 PM to 4 PM
+F2,Prof. Karthik Pillai,Computer Science and Engineering,Associate Professor,karthik.pillai@greenfield.example,Tue and Thu 11 AM to 1 PM
+F3,Dr. Neha Kapoor,Computer Science and Engineering,Assistant Professor,neha.kapoor@greenfield.example,Fri 10 AM to 12 PM
+F4,Dr. Vikram Shah,Electronics and Communication Engineering,Professor,vikram.shah@greenfield.example,Mon and Thu 3 PM to 5 PM
+F5,Prof. Divya Menon,Electronics and Communication Engineering,Assistant Professor,divya.menon@greenfield.example,Wed 10 AM to 12 PM
+F6,Dr. Suresh Nair,Mechanical Engineering,Professor,suresh.nair@greenfield.example,Tue 2 PM to 4 PM
+F7,Prof. Arjun Das,Mechanical Engineering,Assistant Professor,arjun.das@greenfield.example,Thu 10 AM to 12 PM
+F8,Dr. Meera Iyer,Civil Engineering,Professor,meera.iyer@greenfield.example,Mon 11 AM to 1 PM
+F9,Dr. Rahul Menon,Management Studies,Professor,rahul.menon@greenfield.example,Wed 3 PM to 5 PM

@@ -1,0 +1,12 @@
+id,code,title,department,semester,credits,topics
+C1,CS101,Programming in C,Computer Science and Engineering,1,4,"Variables, control flow, functions, arrays, pointers, file handling"
+C2,CS201,Data Structures,Computer Science and Engineering,3,4,"Linked lists, stacks, queues, trees, graphs, hashing, sorting"
+C3,CS301,Database Management Systems,Computer Science and Engineering,5,3,"ER model, relational algebra, SQL, normalization, transactions, indexing"
+C4,CS302,Operating Systems,Computer Science and Engineering,5,3,"Processes, scheduling, synchronization, deadlocks, memory management, file systems"
+C5,CS401,Machine Learning,Computer Science and Engineering,7,3,"Regression, classification, clustering, neural networks, model evaluation"
+C6,EC101,Basic Electronics,Electronics and Communication Engineering,1,3,"Diodes, transistors, amplifiers, logic gates"
+C7,EC301,Digital Signal Processing,Electronics and Communication Engineering,5,4,"Sampling, DFT, FFT, FIR and IIR filters"
+C8,ME101,Engineering Mechanics,Mechanical Engineering,1,3,"Statics, friction, kinematics, dynamics of particles"
+C9,ME301,Thermodynamics,Mechanical Engineering,5,4,"Laws of thermodynamics, entropy, cycles, refrigeration"
+C10,CE201,Structural Analysis,Civil Engineering,3,4,"Beams, trusses, influence lines, moment distribution"
+C11,MB101,Principles of Management,Management Studies,1,3,"Planning, organizing, leadership, control, decision making"
